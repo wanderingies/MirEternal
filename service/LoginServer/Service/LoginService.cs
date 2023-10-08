@@ -13,7 +13,6 @@ namespace LoginServer.Service
     {
         protected override void OnConnecting(LoginSession socketClient, ConnectingEventArgs e)
         {
-            Logger.Info("客户正在在接入 ...");
             socketClient.SetDataHandlingAdapter(new PackageAdapter());
             base.OnConnecting(socketClient, e);
         }

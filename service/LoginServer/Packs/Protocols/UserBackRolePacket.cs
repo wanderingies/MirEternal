@@ -71,7 +71,7 @@ namespace LoginServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            
+            roleid = byteBlock.ReadInt32();
             return byteBlock;
         }
 

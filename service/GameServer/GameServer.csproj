@@ -8,13 +8,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\library\sqlite-net\sqlite.csproj" />
     <ProjectReference Include="..\..\library\TouchSocket\TouchSocket.Core\TouchSocket.Core.csproj" />
     <ProjectReference Include="..\..\library\TouchSocket\TouchSocket\TouchSocket.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Utility\" />
-    <Folder Include="Packs\" />
+    <Folder Include="Packs\RemoteProcedure\" />
+    <Folder Include="Packs\Handle\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="sqlite3.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

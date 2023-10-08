@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using MySql.Data.MySqlClient;
 
-namespace MySqlHelper.DataBase
+namespace SqlHelper.DataBase
 {
     public static class MySqlDataReaderExtensions
     {

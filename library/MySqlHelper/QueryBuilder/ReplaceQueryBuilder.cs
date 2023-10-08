@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using MySqlHelper.Attributes;
-using MySqlHelper.Utils;
+using SqlHelper.Attributes;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.QueryBuilder
+namespace SqlHelper.QueryBuilder
 {
     public class ReplaceQueryBuilder
     {

@@ -5,16 +5,16 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 using MySql.Data.Types;
-using MySqlHelper.Attributes;
-using MySqlHelper.DataBase;
-using MySqlHelper.Interfaces;
-using MySqlHelper.QueryBuilder;
-using MySqlHelper.QueryBuilder.Components.Joins;
-using MySqlHelper.QueryBuilder.Components.OrderBy;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
-using MySqlHelper.Utils;
+using SqlHelper.Attributes;
+using SqlHelper.DataBase;
+using SqlHelper.Interfaces;
+using SqlHelper.QueryBuilder;
+using SqlHelper.QueryBuilder.Components.Joins;
+using SqlHelper.QueryBuilder.Components.OrderBy;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public class SelectEntityBuilder<T> : ISelectQuery<SelectEntityBuilder<T>> where T : new()
     {

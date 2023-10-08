@@ -1,4 +1,4 @@
-﻿namespace MySqlHelper.QueryBuilder.Components.OrderBy
+﻿namespace SqlHelper.QueryBuilder.Components.OrderBy
 {
     public enum OrderBySorted
     {

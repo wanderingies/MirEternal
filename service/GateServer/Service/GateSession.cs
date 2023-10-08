@@ -12,7 +12,7 @@ namespace GateServer.Service
     /// </summary>
     internal class GateSession : SocketClient
     {
-        public SessionState SessionState { get; set; }
+        public SessionState SessionState { get; set; } = SessionState.None;
 
         protected override bool HandleReceivedData(ByteBlock byteBlock, IRequestInfo requestInfo)
         {

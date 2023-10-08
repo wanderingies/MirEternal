@@ -1,8 +1,8 @@
-﻿using MySqlHelper.QueryBuilder.Components.Joins;
-using MySqlHelper.QueryBuilder.Components.OrderBy;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
+﻿using SqlHelper.QueryBuilder.Components.Joins;
+using SqlHelper.QueryBuilder.Components.OrderBy;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
 
-namespace MySqlHelper.Interfaces
+namespace SqlHelper.Interfaces
 {
     public interface ISelectQuery<out T> : IJoinQuery<T>, IWhereQuery<T>
     {

@@ -41,6 +41,7 @@ namespace GateServer.Service
         protected override void OnDisconnected(GateSession socketClient, DisconnectEventArgs e)
         {
             LoginClients.Remove(socketClient.Id);
+            GameClients.Remove(socketClient.Id);
             WorldClients.Remove(socketClient.Id);
 
             base.OnDisconnected(socketClient, e);
@@ -64,32 +65,32 @@ namespace GateServer.Service
                         LoginClient.Send(request.Buffer);
                         LoginClients.Add(socketClient.Id, LoginClient);
 
-                        LoginClient.Logger.Info($"{socketClient.Id} 连接登陆服务器");
+                        LoginClient.Logger.Info($"{socketClient.Id} => 连接登陆服务器");
                     }
 
-                    if (GameClients.ContainsKey(socketClient.Id))
+                    if (!GameClients.ContainsKey(socketClient.Id))
                     {
                         var gameClient = new ClientSession() { SessionId = socketClient.Id };
                         gameClient.SetHost("127.0.0.1:29300");
                         gameClient.Connect();
 
-                        gameClient.Send(request.Buffer);
-                        WorldClients.Add(socketClient.Id, gameClient);
+                        //gameClient.Send(request.Buffer);
+                        GameClients.Add(socketClient.Id, gameClient);
 
-                        //gameClient.Logger.Info("登记连接游戏服务器");
+                        gameClient.Logger.Info($"{socketClient.Id} => 连接游戏服务器");
                         //GameClients.Add(socketClient.Id, new ClientSession() { SessionId = socketClient.Id });
                     }
 
-                    if (WorldClients.ContainsKey(socketClient.Id))
+                    if (!WorldClients.ContainsKey(socketClient.Id))
                     {
                         var WorldClient = new ClientSession() { SessionId = socketClient.Id };
                         WorldClient.SetHost("127.0.0.1:29301");
                         WorldClient.Connect();
 
-                        WorldClient.Send(request.Buffer);
+                        //WorldClient.Send(request.Buffer);
                         WorldClients.Add(socketClient.Id, WorldClient);
 
-                        //WorldClient.Logger.Info("登记连接世界服务器");
+                        WorldClient.Logger.Info($"{socketClient.Id} => 连接世界服务器");
                         //WorldClients.Add(socketClient.Id, new ClientSession() { SessionId = socketClient.Id });
                     }                    
                     //workItemState = threadPool.EnqueueWorkItem(LoginReceivedCallbackFunction, socketClient.Id, request.Buffer);

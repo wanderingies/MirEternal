@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     [Serializable]
     internal class WhereQueryBuilder

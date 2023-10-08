@@ -1,10 +1,10 @@
-﻿using MySqlHelper.QueryBuilder.Components.WhereQuery;
+﻿using SqlHelper.QueryBuilder.Components.WhereQuery;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace MySqlHelper.Attributes
+namespace SqlHelper.Attributes
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class KeyAttribute : Attribute

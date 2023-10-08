@@ -24,7 +24,9 @@ namespace GateServer
                 })
                 .ConfigurePlugins(a =>
                 {
-                    //a.Add();//此处可以添加插件
+                    a.UseReconnection()
+                     .SetTick(TimeSpan.FromSeconds(1))
+                     .UsePolling();
                 }))
                 .Start();//启动
 

@@ -1,10 +1,10 @@
 ﻿using System.Text;
-using MySqlHelper.Attributes;
-using MySqlHelper.Interfaces;
-using MySqlHelper.QueryBuilder.Components.Joins;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
+using SqlHelper.Attributes;
+using SqlHelper.Interfaces;
+using SqlHelper.QueryBuilder.Components.Joins;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
 
-namespace MySqlHelper.QueryBuilder
+namespace SqlHelper.QueryBuilder
 {
     public class DeleteQueryBuilder : IJoinQuery<DeleteQueryBuilder>, IWhereQuery<DeleteQueryBuilder>
     {

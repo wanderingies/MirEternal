@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     [Serializable]
     internal class WhereQueries

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MySqlHelper.Attributes;
-using MySqlHelper.DataBase;
-using MySqlHelper.QueryBuilder;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
+using SqlHelper.Attributes;
+using SqlHelper.DataBase;
+using SqlHelper.QueryBuilder;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public static class DeleteEntity
     {

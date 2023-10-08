@@ -61,6 +61,8 @@ namespace LoginServer.Packs.Protocol
             var udrp = new UserDelectRolePacket()
             { sessionid = session.SessionId };
             session.SendPackage(udrp.Type, 849, udrp);
+
+            Program.service.Logger.Info($"{Ticket} 登陆成功");
         }
     }
 }

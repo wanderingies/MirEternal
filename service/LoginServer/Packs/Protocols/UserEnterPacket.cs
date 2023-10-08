@@ -8,6 +8,7 @@ using System;
 using LoginServer.Utility;
 using System.Text;
 using TouchSocket.Sockets;
+using System.Numerics;
 
 namespace LoginServer.Packs.Protocol
 {
@@ -43,7 +44,7 @@ namespace LoginServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-
+            roleid = byteBlock.ReadInt32();
             return byteBlock;
         }
 
@@ -52,8 +53,11 @@ namespace LoginServer.Packs.Protocol
             var ufrp = new UserFreezeRolePacket() { roleid = roleid };
             session.SendPackage(ufrp.Type, ufrp.Size, ufrp);
 
-            var buffer = Encoding.UTF8.GetBytes("userlogindone");
-            session.Send(buffer, 0, buffer.Length);
+            var byteBlock = new ByteBlock();
+            byteBlock.Write(ushort.MaxValue);
+            byteBlock.Write(roleid, false);
+            byteBlock.WriteString("userlogindone");
+            session.Send(byteBlock);
 
             /*var ssvp = new SyncSupplementaryVariablesPacket()
             {

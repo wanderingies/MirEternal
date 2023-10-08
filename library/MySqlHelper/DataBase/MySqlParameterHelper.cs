@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MySqlHelper.DataBase
+namespace SqlHelper.DataBase
 {
     public static class MySqlParameterHelper
     {

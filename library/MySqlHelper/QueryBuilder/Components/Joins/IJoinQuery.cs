@@ -1,4 +1,4 @@
-﻿namespace MySqlHelper.QueryBuilder.Components.Joins
+﻿namespace SqlHelper.QueryBuilder.Components.Joins
 {
     public interface IJoinQuery<out T>
     {

@@ -11,7 +11,7 @@ namespace GameServer
     {
         static void Main(string[] args)
         {
-            #region WorldService
+            #region GameService
 
             service = new GameService();
 
@@ -23,11 +23,13 @@ namespace GameServer
                 })
                 .ConfigurePlugins(a =>
                 {
-                    //a.Add();//此处可以添加插件
+                    a.UseReconnection()
+                     .SetTick(TimeSpan.FromSeconds(1))
+                     .UsePolling();
                 }))
                 .Start();//启动            
 
-            service.Logger.Info("世界服务器启动成功");
+            service.Logger.Info("游戏服务器启动成功");
             #endregion
 
             bool isSuccess = SetConsoleCtrlHandler(consoleCtrlDelegate, true);

@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MySqlHelper.Attributes;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
-using MySqlHelper.Utils;
+using SqlHelper.Attributes;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.QueryBuilder
+namespace SqlHelper.QueryBuilder
 {
     public class UpdateQueryBuilder : IWhereQuery<UpdateQueryBuilder>
     {

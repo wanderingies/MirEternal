@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     [Serializable]
     public class WhereQueryNotLike : WhereQueryNot<WhereQueryLike>

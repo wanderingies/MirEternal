@@ -1,10 +1,10 @@
-﻿using MySqlHelper.Attributes;
-using MySqlHelper.DataBase;
-using MySqlHelper.QueryBuilder;
+﻿using SqlHelper.Attributes;
+using SqlHelper.DataBase;
+using SqlHelper.QueryBuilder;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public static class UpdateEntity
     {

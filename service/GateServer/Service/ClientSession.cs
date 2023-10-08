@@ -38,18 +38,17 @@ namespace GateServer.Service
             var client = GateService.Instance.GetClients().Where(q => q.Id == SessionId).FirstOrDefault();
             if (client != null)
             {
-                if (client.SessionState != SessionState.None && client.SessionState == SessionState.UserInLogin && byteBlock.Len == 13)
+                if (client.SessionState != SessionState.None && client.SessionState == SessionState.UserInLogin && byteBlock.Len == 19)
                 {
                     client.SessionState = SessionState.RoleInGame;
                     if (GateService.GameClients.TryGetValue(SessionId, out var gameClient))
-                    {
-                        var buffer = new ByteBlock();
-                        buffer.Write(ushort.MaxValue);
-                        buffer.WriteString($"user{SessionId}ingame");
-                        gameClient.Send(buffer);
-                    }
+                        gameClient.Send(byteBlock.Buffer, 0, byteBlock.Len);
+
+                    if (GateService.WorldClients.TryGetValue(SessionId, out var worldClient))
+                        worldClient.Send(byteBlock.Buffer, 0, byteBlock.Len);
                 }
                 else client.Send(byteBlock.Buffer, 0, byteBlock.Len);
+
                 return true;
             }
 

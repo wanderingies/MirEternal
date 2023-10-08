@@ -1,7 +1,7 @@
-﻿using MySqlHelper.DataBase;
-using MySqlHelper.QueryBuilder;
+﻿using SqlHelper.DataBase;
+using SqlHelper.QueryBuilder;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public class ReplaceEntity
     {

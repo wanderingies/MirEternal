@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MySqlHelper.Interfaces
+namespace SqlHelper.Interfaces
 {
     public interface ISelectQueryBuilder
     {

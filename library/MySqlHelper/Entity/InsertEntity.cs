@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using MySqlHelper.Attributes;
-using MySqlHelper.DataBase;
-using MySqlHelper.QueryBuilder;
+using SqlHelper.Attributes;
+using SqlHelper.DataBase;
+using SqlHelper.QueryBuilder;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public static class InsertEntity
     {

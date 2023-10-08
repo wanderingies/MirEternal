@@ -5,14 +5,14 @@ using System.Linq;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text;
-using MySqlHelper.Attributes;
-using MySqlHelper.Interfaces;
-using MySqlHelper.QueryBuilder.Components.Joins;
-using MySqlHelper.QueryBuilder.Components.OrderBy;
-using MySqlHelper.QueryBuilder.Components.WhereQuery;
-using MySqlHelper.Utils;
+using SqlHelper.Attributes;
+using SqlHelper.Interfaces;
+using SqlHelper.QueryBuilder.Components.Joins;
+using SqlHelper.QueryBuilder.Components.OrderBy;
+using SqlHelper.QueryBuilder.Components.WhereQuery;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.QueryBuilder
+namespace SqlHelper.QueryBuilder
 {
     [Serializable]
     public class SelectQueryBuilder : ISelectQuery<SelectQueryBuilder>, ICloneable

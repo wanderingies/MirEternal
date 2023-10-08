@@ -2,9 +2,9 @@
 using System.Globalization;
 using System.Linq;
 using System.Reflection;
-using MySqlHelper.Attributes;
+using SqlHelper.Attributes;
 
-namespace MySqlHelper.Utils
+namespace SqlHelper.Utils
 {
     public static class ValueFormat
     {

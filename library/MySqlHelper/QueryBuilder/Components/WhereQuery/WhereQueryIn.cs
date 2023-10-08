@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using MySqlHelper.Utils;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     [Serializable]
     public class WhereQueryIn : WhereQueryCondition

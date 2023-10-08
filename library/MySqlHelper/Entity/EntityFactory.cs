@@ -1,13 +1,13 @@
 ﻿using CSharpFunctionalExtensions;
 using MySql.Data.MySqlClient;
-using MySqlHelper.Attributes;
-using MySqlHelper.DataBase;
+using SqlHelper.Attributes;
+using SqlHelper.DataBase;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace MySqlHelper.Entity
+namespace SqlHelper.Entity
 {
     public class EntityFactory
     {

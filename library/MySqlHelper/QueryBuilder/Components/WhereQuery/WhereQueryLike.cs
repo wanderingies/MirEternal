@@ -1,7 +1,7 @@
 ﻿using System;
-using MySqlHelper.Utils;
+using SqlHelper.Utils;
 
-namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     [Serializable]
     public class WhereQueryLike : WhereQueryCondition

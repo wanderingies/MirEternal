@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace MySqlHelper.Attributes
+namespace SqlHelper.Attributes
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class ColumnAttribute : Attribute

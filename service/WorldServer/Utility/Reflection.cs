@@ -1,7 +1,7 @@
 ﻿#pragma warning disable CS8600
 #pragma warning disable CS8619
 
-namespace LoginServer.Utility
+namespace WorldServer.Utility
 {
     static class Reflection
     {

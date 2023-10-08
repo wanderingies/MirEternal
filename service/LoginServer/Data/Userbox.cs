@@ -4,7 +4,6 @@
 using GameServer.Data.Types;
 using LoginServer.Data.Types;
 using LoginServer.Utility;
-using System.Net.Sockets;
 
 namespace LoginServer.Data
 {

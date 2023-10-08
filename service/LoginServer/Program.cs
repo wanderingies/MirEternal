@@ -1,4 +1,7 @@
-﻿using LoginServer.Data;
+﻿#pragma warning disable CS0649
+#pragma warning disable CS8618
+
+using LoginServer.Data;
 using LoginServer.Service;
 using System.Runtime.InteropServices;
 using TouchSocket.Core;
@@ -25,7 +28,9 @@ namespace LoginServer
                 })
                 .ConfigurePlugins(a =>
                 {
-                    //a.Add();//此处可以添加插件
+                    a.UseReconnection()
+                     .SetTick(TimeSpan.FromSeconds(1))
+                     .UsePolling();
                 }))
                 .Start();//启动            
 

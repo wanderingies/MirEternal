@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MySqlHelper.Attributes;
+using SqlHelper.Attributes;
 
-namespace MySqlHelper.QueryBuilder.Components.Joins
+namespace SqlHelper.QueryBuilder.Components.Joins
 {
     [Serializable()]
     public class JoinQueryBuilder

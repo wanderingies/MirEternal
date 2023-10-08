@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MySqlHelper.Attributes
+namespace SqlHelper.Attributes
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class ForeignKeyModelAttribute : Attribute

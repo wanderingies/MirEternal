@@ -1,4 +1,4 @@
-﻿namespace MySqlHelper.QueryBuilder.Components.WhereQuery
+﻿namespace SqlHelper.QueryBuilder.Components.WhereQuery
 {
     public enum WhereQuerySyntaxEnum
     {

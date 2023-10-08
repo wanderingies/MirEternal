@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace MySqlHelper.Attributes
+namespace SqlHelper.Attributes
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class TableAttribute : Attribute

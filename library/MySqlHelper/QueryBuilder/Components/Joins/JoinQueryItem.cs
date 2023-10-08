@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MySqlHelper.QueryBuilder.Components.Joins
+namespace SqlHelper.QueryBuilder.Components.Joins
 {
     [Serializable()]
     internal class JoinQueryItem

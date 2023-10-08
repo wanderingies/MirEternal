@@ -1,4 +1,4 @@
-﻿namespace MySqlHelper.Attributes
+﻿namespace SqlHelper.Attributes
 {
     public enum ColumnTypeEnum
     {
