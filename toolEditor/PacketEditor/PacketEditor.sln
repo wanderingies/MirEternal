@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacketEditor", "PacketEditor.csproj", "{920BE7D0-87E7-466D-9636-A41F43B32F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920BE7D0-87E7-466D-9636-A41F43B32F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920BE7D0-87E7-466D-9636-A41F43B32F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920BE7D0-87E7-466D-9636-A41F43B32F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920BE7D0-87E7-466D-9636-A41F43B32F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D30AC5B7-F5D5-46E3-B1DE-0AA6F7BB061A}
+	EndGlobalSection
+EndGlobal
