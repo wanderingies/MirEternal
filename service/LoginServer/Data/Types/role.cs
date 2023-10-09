@@ -41,10 +41,7 @@ namespace GameServer.Data.Types
         [Column("x")]
         public int X { get; set; }
         [Column("y")]
-        public int Y { get; set; }
-
-        [Column("attack")]
-        public int Attack { get; set; } = 0;
+        public int Y { get; set; }        
 
         [Column("createtime")]
         public DateTime CreateTime { get; set; } = DateTime.Now;

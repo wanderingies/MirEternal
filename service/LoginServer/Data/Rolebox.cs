@@ -16,11 +16,13 @@ namespace LoginServer.Data
         public Rolebox()
         {
             sqlite_role = new Sqlitehelper<Role>();
+            sqlite_rolexp = new Sqlitehelper<Rolexp>();
             sqlite_userole = new Sqlitehelper<Userole>();
             Instance = this;
         }
 
         public Sqlitehelper<Role> sqlite_role;
+        public Sqlitehelper<Rolexp> sqlite_rolexp;
         public Sqlitehelper<Userole> sqlite_userole;
         public static Rolebox Instance { get; private set; }
 
@@ -40,8 +42,6 @@ namespace LoginServer.Data
         {
             var sql = $"SELECT * FROM [role] WHERE id={id}";
             return sqlite_role.GetConnection.Query<Role>(sql);
-        }
-
-        
+        }        
     }
 }

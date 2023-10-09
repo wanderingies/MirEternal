@@ -1,5 +1,6 @@
 ﻿#pragma warning disable CS8618
 
+using GameServer.Data;
 using GameServer.Service;
 using System.Runtime.InteropServices;
 using TouchSocket.Core;
@@ -11,6 +12,8 @@ namespace GameServer
     {
         static void Main(string[] args)
         {
+            _rolebox = new Rolebox();
+
             #region GameService
 
             service = new GameService();
@@ -36,8 +39,10 @@ namespace GameServer
             Thread.CurrentThread.IsBackground = false;
             Thread.Sleep(Timeout.Infinite);
         }
-
+        
         public static GameService service;
+
+        private static Rolebox _rolebox;
 
         #region capture event
 

@@ -7,8 +7,8 @@
 说明文档：http://rrqm_home.gitee.io/touchsocket</Description>
 		<Title>TouchSocket.Core</Title>
 		<PackageOutputPath>..\..\Build\NugetPackages\TouchSocket.Core</PackageOutputPath>
-		<OutputPath>..\..\..\bin\Debug\</OutputPath>
-		<BaseIntermediateOutputPath>..\..\..\obj\TouchSocket.Core\</BaseIntermediateOutputPath>
+		<OutputPath>..\..\..\build\Debug\</OutputPath>
+		<BaseIntermediateOutputPath>..\..\..\build\Template\TouchSocket.Core\</BaseIntermediateOutputPath>
 		<UseHostCompilerIfAvailable>false</UseHostCompilerIfAvailable>
 	</PropertyGroup>
 

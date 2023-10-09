@@ -18,15 +18,18 @@ namespace GateServer.Service
         {
             #region ThreadPool
 
-            threadPool = new ThreadPool(Environment.ProcessorCount * 4, "MirWorker");
+            //threadPool = new ThreadPool(Environment.ProcessorCount * 4, "MirWorker");
             #endregion
 
             Instance = this;
         }
 
-        private ThreadPool threadPool;
-        private IWorkItemState workItemState;
-        private List<IWorkItemState> wirs = new List<IWorkItemState>();
+        #region ThreadPool
+
+        //private ThreadPool threadPool;
+        //private IWorkItemState workItemState;
+        //private List<IWorkItemState> wirs = new List<IWorkItemState>();
+        #endregion
 
         public static Dictionary<string, ClientSession> LoginClients { get; set; } = new Dictionary<string, ClientSession>();
         public static Dictionary<string, ClientSession> GameClients { get; set; } = new Dictionary<string, ClientSession>();

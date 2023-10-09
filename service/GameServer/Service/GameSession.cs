@@ -6,6 +6,33 @@ namespace GameServer.Service
 {
     internal class GameSession : SocketClient
     {
+        public bool SendRaw(ushort type, ushort size, byte[] value)
+        {
+            var byteBlock = new ByteBlock();
+            byteBlock.Write(type);
+
+            if (size == 0)
+                byteBlock.Write((ushort)(value.Length + 4));
+
+            byteBlock.Write(value);
+            this.Send(byteBlock);
+            return true;
+        }
+
+        public bool SendPackage(ushort type, ushort size, Package package)
+        {
+            var marshal = package.Marshal(new ByteBlock());
+            var byteBlock = new ByteBlock();
+            byteBlock.Write(type);
+
+            if (size == 0)
+                byteBlock.Write((ushort)(marshal.Len + 4));
+
+            byteBlock.Write(marshal);
+            this.Send(byteBlock);
+            return true;
+        }
+
         protected override bool HandleSendingData(byte[] buffer, int offset, int length)
         {
             buffer = Utility.UtilityLibrary.EncryptionValue(buffer, length);

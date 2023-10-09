@@ -173,6 +173,14 @@ namespace LoginServer.Packs.Protocol
             int id = Rolebox.Instance.sqlite_role.GetConnection.Insert(role);
 
             role = Rolebox.Instance.GetRole(name);
+
+            var rolexp = new Rolexp()
+            {
+                RoleId = role.Id
+            };
+
+            Rolebox.Instance.sqlite_rolexp.GetConnection.Insert(rolexp);
+
             var userole = new Userole()
             {
                 Userid = session.SessionId,

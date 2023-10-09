@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <BaseOutputPath>..\..\build\</BaseOutputPath>
+    <BaseIntermediateOutputPath>..\..\build\Template\ThreadPooling\</BaseIntermediateOutputPath>
+    <UseHostCompilerIfAvailable>false</UseHostCompilerIfAvailable>
   </PropertyGroup>
 
 </Project>

@@ -4,6 +4,9 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>sqlite_net</RootNamespace>
     <Nullable>enable</Nullable>
+    <BaseOutputPath>..\..\build\</BaseOutputPath>
+    <BaseIntermediateOutputPath>..\..\build\Template\sqlite\</BaseIntermediateOutputPath>
+    <UseHostCompilerIfAvailable>false</UseHostCompilerIfAvailable>
   </PropertyGroup>
 
 </Project>
