@@ -27,7 +27,7 @@ namespace LoginServer.Packs.Protocol
 
         #region public attribute
 
-        public ushort Type => 1004;
+        public ushort Type => 0x03EC;
         public ushort Size => 6;
         #endregion
 

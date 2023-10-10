@@ -3,6 +3,7 @@
 
 using LoginServer.Packs;
 using System.Runtime.InteropServices;
+using System.Text;
 using TouchSocket.Core;
 using TouchSocket.Sockets;
 
@@ -43,7 +44,8 @@ namespace LoginServer.Service
 
         protected override bool HandleSendingData(byte[] buffer, int offset, int length)
         {
-            buffer = Utility.UtilityLibrary.EncryptionValue(buffer, length);
+            buffer = Utility.UtilityLibrary.EncryptionValue(buffer, length);            
+
             return base.HandleSendingData(buffer, offset, length);
         }
 

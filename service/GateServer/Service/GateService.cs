@@ -95,9 +95,11 @@ namespace GateServer.Service
 
                         WorldClient.Logger.Info($"{socketClient.Id} => 连接世界服务器");
                         //WorldClients.Add(socketClient.Id, new ClientSession() { SessionId = socketClient.Id });
-                    }                    
+                    }
                     //workItemState = threadPool.EnqueueWorkItem(LoginReceivedCallbackFunction, socketClient.Id, request.Buffer);
                     //wirs.Add(workItemState);
+
+                    return;
                 }
 
                 if(GameProtocols.Instance.TryGetValue(request.Type, out value))
@@ -115,6 +117,8 @@ namespace GateServer.Service
 
                         //gameClient.Logger.Info("登记连接游戏服务器");
                     }
+
+                    return;
                 }
 
                 if (WorldProtocols.Instance.TryGetValue(request.Type, out value))
@@ -134,6 +138,8 @@ namespace GateServer.Service
                     }
                     //workItemState = threadPool.EnqueueWorkItem(WorldReceivedCallbackFunction, socketClient.Id, request.Buffer);
                     //wirs.Add(workItemState);
+
+                    return;
                 }
             }
         }

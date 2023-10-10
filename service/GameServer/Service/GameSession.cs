@@ -1,4 +1,7 @@
-﻿using GameServer.Packs;
+﻿#pragma warning disable CS0649
+#pragma warning disable CS8618
+
+using GameServer.Packs;
 using TouchSocket.Core;
 using TouchSocket.Sockets;
 
@@ -6,6 +9,8 @@ namespace GameServer.Service
 {
     internal class GameSession : SocketClient
     {
+        public string SessionId { get; set; }
+
         public bool SendRaw(ushort type, ushort size, byte[] value)
         {
             var byteBlock = new ByteBlock();

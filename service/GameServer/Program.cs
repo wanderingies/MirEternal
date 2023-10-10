@@ -12,7 +12,7 @@ namespace GameServer
     {
         static void Main(string[] args)
         {
-            _rolebox = new Rolebox();
+            _rolebox = new Rolebox();            
 
             #region GameService
 
@@ -72,3 +72,28 @@ namespace GameServer
         #endregion
     }
 }
+
+/// <summary>
+/// 版本
+/// <para>4: 文件</para>
+/// <para>4: 重构</para>
+/// <para>0: 错误</para>
+/// <para>0: 更新</para>
+/// </summary>
+//public const string Version = "4.4.0.5";
+//public const string FileVersion = "1.0.409";
+
+/// <summary>
+/// 10366
+/// </summary>
+//public const int PrivateVersion = 2088641520;
+
+/// <summary>
+/// 10370
+/// </summary>
+//public const int PrivateVersion = 478716885;
+
+/// <summary>
+/// 10375
+/// </summary>
+//public const int PrivateVersion = 478716885;

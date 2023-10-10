@@ -38,7 +38,7 @@ namespace GateServer.Service
             var client = GateService.Instance.GetClients().Where(q => q.Id == SessionId).FirstOrDefault();
             if (client != null)
             {
-                if (client.SessionState != SessionState.None && client.SessionState == SessionState.UserInLogin && byteBlock.Len == 19)
+                if (client.SessionState != SessionState.None && client.SessionState == SessionState.UserInLogin && byteBlock.Len == 43)
                 {
                     client.SessionState = SessionState.RoleInGame;
                     if (GateService.GameClients.TryGetValue(SessionId, out var gameClient))

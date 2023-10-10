@@ -6,15 +6,15 @@ namespace GameServer.Packs
 {
     internal interface Package
     {
+        public ushort Type { get; }
+        public ushort Size { get; }
+
         static Package()
         {
             var packages = Reflection.CreateAllInstancesOf<Package>().OrderBy(q => q.Type);
-            foreach(var package in packages)
+            foreach (var package in packages)
                 AllPackage.Add(package.Type, package);
         }
-
-        public ushort Type { get; }
-        public ushort Size { get; }
 
         public static readonly Dictionary<ushort, Package> AllPackage = new Dictionary<ushort, Package>();
 

@@ -31,11 +31,10 @@ namespace GateServer.Packs
 
             byteBlock.Begin();
             ushort pId = byteBlock.ReadUInt16();
-            //byteBlock.Commit();
             byteBlock.Rollback();
 
             request = new PackageRequest();
-            if (LoginProtocols.Instance.TryGetValue(pId, out var value))
+            if (LoginProtocols.Instance.TryGetValue(pId, out _))
             {
                 byteBlock.Begin();
                 request.Type = pId;
@@ -46,7 +45,7 @@ namespace GateServer.Packs
                 return FilterResult.Success;
             }
 
-            if(WorldProtocols.Instance.TryGetValue(pId, out value))
+            if(WorldProtocols.Instance.TryGetValue(pId, out _))
             {
                 byteBlock.Begin();
                 request.Type = pId;
@@ -57,7 +56,8 @@ namespace GateServer.Packs
                 return FilterResult.Success;
             }
 
-            return FilterResult.Cache;
+            Program.service.Logger.Error($"{pId} => 未知封包");
+            return FilterResult.Success;
         }
     }
 }

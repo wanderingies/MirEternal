@@ -4,6 +4,7 @@
 using LoginServer.Data;
 using LoginServer.Service;
 using System.Runtime.InteropServices;
+using System.Text;
 using TouchSocket.Core;
 using TouchSocket.Sockets;
 

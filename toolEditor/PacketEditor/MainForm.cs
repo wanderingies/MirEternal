@@ -1,10 +1,7 @@
 using PacketEditor.Protocol;
-using System.Drawing.Printing;
 using System.Text;
-using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Serialization;
-using System.Numerics;
 
 #pragma warning disable CS8622
 #pragma warning disable CS8601
@@ -403,18 +400,22 @@ namespace PacketEditor
 
                     string vars = string.Empty;
                     foreach (var variable in package.Variables)
-                        vars += $"public {variable.type} {variable.Name};\n";
+                        vars += $"\t\tpublic {variable.type} {variable.Name};\n";
+
+                    string writer = string.Empty;
+                    foreach (var variable in package.Variables)
+                        writer += $"\t\t\tbyteBlock.Write({variable.Name});\n";
 
                     var value = string.Format(_format, new Object[] {
-                        "LoginService",
-                        package.Description,                        
+                        "GameServer",
+                        package.Description,
                         package.Name,
                         vars,
-                        package.Type,
+                        $"0x{package.Type.ToString("X4")}",
                         package.Size,
                         "",
-                        "",
-                        "LoginService" });
+                        writer,
+                        "GameSession" });
 
                     streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"{package.Name}.cs"), false, Encoding.UTF8);
                     streamWriter.WriteLine(value);
@@ -424,23 +425,28 @@ namespace PacketEditor
                     return;
                 }
 
-                
+
                 foreach (var item in _subPackages)
                 {
                     string vars = string.Empty;
                     foreach (var variable in item.Variables)
-                        vars += $"\t\tpublic {variable.type} {variable.Name};\n";
+                        vars += $"public {variable.type} {variable.Name};\n";
+
+                    string writer = string.Empty;
+                    foreach (var variable in item.Variables)
+                        writer += $"byteBlock.Write({variable.Name});\n";
 
                     var value = string.Format(_format, new Object[] {
-                        "LoginService",
+                        "GameServer",
                         item.Description,
-                        vars,
                         item.Name,
-                        item.Type,
+                        vars,
+                        $"0x{item.Type.ToString("X4")}",
                         item.Size,
                         "",
-                        "",
-                         });
+                        writer,
+                        "GameSession" });
+
                     streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"{item.Name}.cs"), false, Encoding.UTF8);
                     streamWriter.WriteLine(value);
 
@@ -451,13 +457,32 @@ namespace PacketEditor
 
             _deleteProtocol.Click += (sender, args) =>
             {
-                if (_checkedListBox.SelectedIndex < 0) return;
+                StreamWriter streamWriter;
+                var writer = string.Empty;
+                foreach (var item in _subPackages)
+                {
+                    var value = string.Format(_proto, new Object[] {
+                        $"0x{item.Type.ToString("X4")}",
+                        item.Size,
+                        item.Name,
+                        item.Description,
+                    });
+
+                    writer += $"{value}\n";
+                }
+
+                streamWriter = new StreamWriter(Path.Combine("Packs", "protocol.cs"), false, Encoding.UTF8);
+                streamWriter.WriteLine(writer);
+
+                streamWriter.Dispose();
+                streamWriter.Close();
+                /*if (_checkedListBox.SelectedIndex < 0) return;
 
                 var package = _subPackages[_checkedListBox.SelectedIndex];
                 _subPackages.Remove(package);
 
                 _checkedListBox.Items.Remove(_checkedListBox.SelectedIndex);
-                _checkedListBox.Refresh();
+                _checkedListBox.Refresh();*/
             };
 
             _checkedListBox.SelectedIndexChanged += (sender, args) =>
@@ -487,6 +512,7 @@ namespace PacketEditor
             };
         }
 
+        private string _proto = "{{{0},\tnew BaseProtocol() {{ Size={1},\t\tName=\"{2}\", Description=\"{3}\" }} }},";
         private string _format = "Packs\\formart.txt";
         private string _config = "Packs\\config.xml";
 

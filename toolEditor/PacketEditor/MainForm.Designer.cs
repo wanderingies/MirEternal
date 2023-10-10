@@ -88,7 +88,7 @@
             _deleteProtocol.Name = "_deleteProtocol";
             _deleteProtocol.Size = new Size(75, 23);
             _deleteProtocol.TabIndex = 5;
-            _deleteProtocol.Text = "删除";
+            _deleteProtocol.Text = "导出列表";
             _deleteProtocol.UseVisualStyleBackColor = true;
             // 
             // statusStrip1

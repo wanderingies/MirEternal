@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿#pragma warning disable CS0649
+#pragma warning disable CS8618
+
 using TouchSocket.Core;
 using TouchSocket.Sockets;
 using WorldServer.Packs;
@@ -11,6 +9,35 @@ namespace WorldServer.Service
 {
     internal class WorldSession : SocketClient
     {
+        public string SessionId { get; set; }
+
+        public bool SendRaw(ushort type, ushort size, byte[] value)
+        {
+            var byteBlock = new ByteBlock();
+            byteBlock.Write(type);
+
+            if (size == 0)
+                byteBlock.Write((ushort)(value.Length + 4));
+
+            byteBlock.Write(value);
+            this.Send(byteBlock);
+            return true;
+        }
+
+        public bool SendPackage(ushort type, ushort size, Package package)
+        {
+            var marshal = package.Marshal(new ByteBlock());
+            var byteBlock = new ByteBlock();
+            byteBlock.Write(type);
+
+            if (size == 0)
+                byteBlock.Write((ushort)(marshal.Len + 4));
+
+            byteBlock.Write(marshal);
+            this.Send(byteBlock);
+            return true;
+        }
+
         protected override bool HandleSendingData(byte[] buffer, int offset, int length)
         {
             buffer = Utility.UtilityLibrary.EncryptionValue(buffer, length);

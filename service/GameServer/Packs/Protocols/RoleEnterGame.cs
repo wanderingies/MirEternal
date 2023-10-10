@@ -2,6 +2,7 @@
 #pragma warning disable CS8618
 
 using GameServer.Data;
+using GameServer.Packs.Protocol;
 using GameServer.Service;
 using GameServer.Utility;
 using System.Text;
@@ -12,7 +13,7 @@ namespace GameServer.Packs.Protocols
     internal class RoleEnterGame : Package
     {
         public int roleid;
-        public string message;
+        public string sessionId;
 
         public ushort Type => ushort.MaxValue;
 
@@ -30,19 +31,20 @@ namespace GameServer.Packs.Protocols
 
             buffer = UtilityLibrary.EncryptionValue(buffer);
             roleid = BitConverter.ToInt32(buffer, 0);
-            message = Encoding.UTF8.GetString(buffer, 4, 13);
+            sessionId = Encoding.UTF8.GetString(buffer, 4, 37);
 
             return byteBlock;
         }
 
-        public void Process(GameSession gateSession)
+        public void Process(GameSession gameSession)
         {
-            Program.service.Logger.Info($"角色({roleid}) 进入游戏");
+            gameSession.SessionId = sessionId;
+            Program.service.Logger.Info($"用户({sessionId})角色({roleid}) 进入游戏");
 
             var role = Rolebox.Instance.GetRole(roleid);
             var rolexp = Rolebox.Instance.GetRolexp(roleid);
 
-            var srip = new SyncRoleInfoPacket()
+            var srip = new SceneLoadSuccess()
             {
                 RoleId = roleid,
                 Position = new System.Drawing.Point(role.X, role.Y),
@@ -64,7 +66,7 @@ namespace GameServer.Packs.Protocols
                 AwakeningExp = 0,
                 MaxAwakeningExp = 0
             };
-            gateSession.SendPackage(srip.Type, srip.Size, srip);
+            gameSession.SendPackage(srip.Type, srip.Size, srip);
 
             var sbsp = new SyncBackpackSizePacket()
             {
@@ -72,37 +74,37 @@ namespace GameServer.Packs.Protocols
                 WarehouseSize = rolexp.WarehouseSize,
                 ExtraBackpackSize = rolexp.ExtraBackpackSize
             };
-            gateSession.SendPackage(sbsp.Type, sbsp.Size, sbsp);
+            gameSession.SendPackage(sbsp.Type, sbsp.Size, sbsp);
 
-            var ssip = new SyncSkillInfoPacket();
-            gateSession.SendPackage(ssip.Type, ssip.Size, ssip);
+            var ssip = new RoleMoved();
+            gameSession.SendPackage(ssip.Type, 0, ssip);
 
-            var ssbp = new SyncShortcutbarPacket();
-            gateSession.SendPackage(ssbp.Type, ssbp.Size, ssbp);
+            var ssbp = new RequestObjectDataPacket();
+            gameSession.SendPackage(ssbp.Type, 0, ssbp);
 
             var sbpip = new SyncBackpackInfoPacket();
-            gateSession.SendPackage(sbpip.Type, sbpip.Size, sbpip);
+            gameSession.SendPackage(sbpip.Type, sbpip.Size, sbpip);
 
-            var srsp = new SyncRoleStatePacket();
-            gateSession.SendPackage(srsp.Type, srsp.Size, srsp);
+            var srsp = new RolePostion();
+            gameSession.SendPackage(srsp.Type, 0, srsp);
 
             var srlp = new SyncReputationListPacket();
-            gateSession.SendPackage(srlp.Type, srlp.Size, srlp);
+            gameSession.SendPackage(srlp.Type, srlp.Size, srlp);
 
             var scvp = new SyncClientVariablesPacket();
-            gateSession.SendPackage(scvp.Type, scvp.Size, scvp);
+            gameSession.SendPackage(scvp.Type, scvp.Size, scvp);
 
             var scqp = new SyncCurrencyQuantityPacket();
-            gateSession.SendPackage(scqp.Type, scqp.Size, scqp);
+            gameSession.SendPackage(scqp.Type, scqp.Size, scqp);
 
             var scip = new SyncCheckinPacket();
-            gateSession.SendPackage(scip.Type, scip.Size, scip);
+            gameSession.SendPackage(scip.Type, scip.Size, scip);
 
             var spiip = new SyncPrivilegedInfoPacket();
-            gateSession.SendPackage(spiip.Type, spiip.Size, spiip);
+            gameSession.SendPackage(spiip.Type, spiip.Size, spiip);
 
             var sedp = new SyncEndDataPacket() { roleid = roleid };
-            gateSession.SendPackage(sedp.Type, sedp.Size, sedp);
+            gameSession.SendPackage(sedp.Type, sedp.Size, sedp);
         }
     }
 }

@@ -27,7 +27,7 @@ namespace LoginServer.Packs.Protocol
 
         #region public attribute
 
-        public ushort Type => 1006;
+        public ushort Type => 0x03EE;
         public ushort Size => 6;        
         #endregion
         
@@ -56,7 +56,7 @@ namespace LoginServer.Packs.Protocol
             var byteBlock = new ByteBlock();
             byteBlock.Write(ushort.MaxValue);
             byteBlock.Write(roleid, false);
-            byteBlock.WriteString("userlogindone");
+            byteBlock.WriteString(session.SessionId);
             session.Send(byteBlock);
 
             /*var ssvp = new SyncSupplementaryVariablesPacket()
