@@ -45,7 +45,18 @@ namespace GateServer.Packs
                 return FilterResult.Success;
             }
 
-            if(WorldProtocols.Instance.TryGetValue(pId, out _))
+            if (GameProtocols.Instance.TryGetValue(pId, out _))
+            {
+                byteBlock.Begin();
+                request.Type = pId;
+                byteBlock.Read(out byte[] buffer, byteBlock.Len);
+                request.Buffer = EncryptionValue(buffer);
+                byteBlock.Commit();
+
+                return FilterResult.Success;
+            }
+
+            if (WorldProtocols.Instance.TryGetValue(pId, out _))
             {
                 byteBlock.Begin();
                 request.Type = pId;

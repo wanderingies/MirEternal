@@ -406,18 +406,64 @@ namespace PacketEditor
                     foreach (var variable in package.Variables)
                         writer += $"\t\t\tbyteBlock.Write({variable.Name});\n";
 
+                    string reader = string.Empty;
+                    foreach (var variable in package.Variables)
+                    {
+                        switch(variable.type)
+                        {
+                            case TypeItem.Boolean:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadBoolean();\n";
+                                break;
+                            case TypeItem.Char:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadChar();\n";
+                                break;
+                            case TypeItem.Byte:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadByte();\n";
+                                break;
+                            case TypeItem.Int16:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt16();\n";
+                                break;
+                            case TypeItem.Int32:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt32();\n";
+                                break;
+                            case TypeItem.Int64:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt64();\n";
+                                break;
+                            case TypeItem.UInt16:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt16();\n";
+                                break;
+                            case TypeItem.UInt32:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt32();\n";
+                                break;
+                            case TypeItem.UInt64:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt64();\n";
+                                break;
+                            case TypeItem.Single:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadFloat();\n";
+                                break;
+                            case TypeItem.Double:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadDouble();\n";
+                                break;
+                            case TypeItem.Array:
+                                reader += $"\t\t\tbyteBlock.Read({variable.Name});\n";
+                                break;
+                        }
+                    }                    
+
                     var value = string.Format(_format, new Object[] {
                         "GameServer",
                         package.Description,
-                        package.Name,
+                        $"x{package.Type.ToString("X4")}",
                         vars,
                         $"0x{package.Type.ToString("X4")}",
                         package.Size,
                         "",
-                        writer,
-                        "GameSession" });
+                        //writer,
+                        reader,
+                        "GameSession",
+                        package.Name });
 
-                    streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"{package.Name}.cs"), false, Encoding.UTF8);
+                    streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"x{package.Type.ToString("X4")}.cs"), false, Encoding.UTF8);
                     streamWriter.WriteLine(value);
 
                     streamWriter.Dispose();
@@ -430,24 +476,70 @@ namespace PacketEditor
                 {
                     string vars = string.Empty;
                     foreach (var variable in item.Variables)
-                        vars += $"public {variable.type} {variable.Name};\n";
+                        vars += $"\t\tpublic {variable.type} {variable.Name};\n";
 
                     string writer = string.Empty;
                     foreach (var variable in item.Variables)
-                        writer += $"byteBlock.Write({variable.Name});\n";
+                        writer += $"\t\t\tbyteBlock.Write({variable.Name});\n";
+
+                    string reader = string.Empty;
+                    foreach (var variable in item.Variables)
+                    {
+                        switch (variable.type)
+                        {
+                            case TypeItem.Boolean:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadBoolean();\n";
+                                break;
+                            case TypeItem.Char:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadChar();\n";
+                                break;
+                            case TypeItem.Byte:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadByte();\n";
+                                break;
+                            case TypeItem.Int16:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt16();\n";
+                                break;
+                            case TypeItem.Int32:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt32();\n";
+                                break;
+                            case TypeItem.Int64:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadInt64();\n";
+                                break;
+                            case TypeItem.UInt16:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt16();\n";
+                                break;
+                            case TypeItem.UInt32:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt32();\n";
+                                break;
+                            case TypeItem.UInt64:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadUInt64();\n";
+                                break;
+                            case TypeItem.Single:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadFloat();\n";
+                                break;
+                            case TypeItem.Double:
+                                reader += $"\t\t\t{variable.Name} = byteBlock.ReadDouble();\n";
+                                break;
+                            case TypeItem.Array:
+                                reader += $"\t\t\tbyteBlock.Read({variable.Name});\n";
+                                break;
+                        }
+                    }
 
                     var value = string.Format(_format, new Object[] {
-                        "GameServer",
+                        "WorldServer",
                         item.Description,
-                        item.Name,
+                        $"x{item.Type.ToString("X4")}",
                         vars,
                         $"0x{item.Type.ToString("X4")}",
                         item.Size,
                         "",
                         writer,
-                        "GameSession" });
+                        //reader,
+                        "WorldSession",
+                        item.Name });
 
-                    streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"{item.Name}.cs"), false, Encoding.UTF8);
+                    streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"x{item.Type.ToString("X4")}.cs"), false, Encoding.UTF8);
                     streamWriter.WriteLine(value);
 
                     streamWriter.Dispose();

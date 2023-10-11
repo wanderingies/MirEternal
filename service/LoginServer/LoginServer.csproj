@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <Folder Include="Packs\Handle\" />
-    <Folder Include="Packs\Protocols\" />
   </ItemGroup>
 
   <ItemGroup>

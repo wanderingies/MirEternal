@@ -41,13 +41,6 @@ namespace PacketEditor.Protocol
     }
 
     [Serializable]
-    public enum PacketSource
-    {
-        Client,
-        Server,
-    }
-
-    [Serializable]
     [DefaultProperty("属性值对"), DisplayName("属性值对")]
     public class Variable
     {
