@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public field
 
-		public Int32 客户时间;
+		public Int32 Synchronisedtime;
         #endregion
 
         #region public attribute
@@ -34,13 +34,14 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			客户时间 = byteBlock.ReadInt32();
+			Synchronisedtime = byteBlock.ReadInt32();
             return byteBlock;
         }
 
         public void Process(GameSession session)
         {
-            
+            var pack = new x002D();
+            session.SendPackage(pack.Type, pack.Size, pack);
         }
     }
 }

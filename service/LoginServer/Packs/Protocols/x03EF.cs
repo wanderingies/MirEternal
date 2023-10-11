@@ -3,6 +3,7 @@
 
 using TouchSocket.Core;
 using LoginServer.Service;
+using LoginServer.Packs.Protocols;
 
 namespace LoginServer.Packs.Protocol
 {
@@ -45,7 +46,8 @@ namespace LoginServer.Packs.Protocol
 
         public void Process(LoginSession session)
         {
-
+            var p = new x03F2();
+            session.SendPackage(p.Type, p.Size, p);
         }
     }
 }

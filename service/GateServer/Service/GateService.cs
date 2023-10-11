@@ -16,6 +16,12 @@ namespace GateServer.Service
 
         public GateService()
         {
+            #region LoggerClient
+
+            LoggerClient.SetHost("127.0.0.1:29110");
+            LoggerClient.Connect();
+            #endregion
+
             #region ThreadPool
 
             //threadPool = new ThreadPool(Environment.ProcessorCount * 4, "MirWorker");
@@ -31,6 +37,7 @@ namespace GateServer.Service
         //private List<IWorkItemState> wirs = new List<IWorkItemState>();
         #endregion
 
+        private static ClientSession LoggerClient { get; set; } = new ClientSession();
         public static Dictionary<string, ClientSession> LoginClients { get; set; } = new Dictionary<string, ClientSession>();
         public static Dictionary<string, ClientSession> GameClients { get; set; } = new Dictionary<string, ClientSession>();
         public static Dictionary<string, ClientSession> WorldClients { get; set; } = new Dictionary<string, ClientSession>();
@@ -58,7 +65,10 @@ namespace GateServer.Service
                 if (LoginProtocols.Instance.TryGetValue(request.Type, out var value))
                 {
                     if (LoginClients.TryGetValue(socketClient.Id, out var client))
+                    {
                         client.Send(request.Buffer);
+                        LoggerClient.Send($"0x{request.Type.ToString("X4")}:{socketClient.Id} GateService => LoginServer");
+                    }
                     else
                     {
                         var LoginClient = new ClientSession() { SessionId = socketClient.Id };
@@ -105,7 +115,10 @@ namespace GateServer.Service
                 if(GameProtocols.Instance.TryGetValue(request.Type, out value))
                 {
                     if(GameClients.TryGetValue(socketClient.Id,out var client))
+                    {
                         client.Send(request.Buffer);
+                        LoggerClient.Send($"0x{request.Type.ToString("X4")}:{socketClient.Id}  GateService => GameServer");
+                    }
                     else
                     {
                         var gameClient = new ClientSession() { SessionId = socketClient.Id };
@@ -124,7 +137,10 @@ namespace GateServer.Service
                 if (WorldProtocols.Instance.TryGetValue(request.Type, out value))
                 {
                     if (WorldClients.TryGetValue(socketClient.Id, out var client))
+                    {
                         client.Send(request.Buffer);
+                        LoggerClient.Send($"0x{request.Type.ToString("X4")}:{socketClient.Id}  GateService => WorldServer");
+                    }
                     else
                     {
                         var WorldClient = new ClientSession() { SessionId = socketClient.Id };

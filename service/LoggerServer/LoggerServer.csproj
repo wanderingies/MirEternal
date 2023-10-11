@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <BaseOutputPath>..\..\build\</BaseOutputPath>
+	  <BaseIntermediateOutputPath>..\..\build\Template\LoggerServer\</BaseIntermediateOutputPath>
+	  <UseHostCompilerIfAvailable>false</UseHostCompilerIfAvailable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\library\TouchSocket\TouchSocket.Core\TouchSocket.Core.csproj" />
+    <ProjectReference Include="..\..\library\TouchSocket\TouchSocket\TouchSocket.csproj" />
+  </ItemGroup>
+
+</Project>

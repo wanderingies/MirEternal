@@ -2,6 +2,7 @@
 
 using TouchSocket.Core;
 using GameServer.Service;
+using GameServer.Utility;
 
 namespace GameServer.Packs.Protocol
 {
@@ -15,6 +16,8 @@ namespace GameServer.Packs.Protocol
 
 		public Byte 背包类型;
 		public Byte 物品位置;
+
+        public Int32 Synchronisedtime;
         #endregion
 
         #region public attribute
@@ -30,6 +33,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
+            byteBlock.Write(UtilityLibrary.TimeShift(DateTime.Now));
             return byteBlock;
         }
 
