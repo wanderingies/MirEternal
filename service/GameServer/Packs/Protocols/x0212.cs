@@ -20,7 +20,7 @@ namespace GameServer.Packs.Protocol
         public ushort Type => 0x0212;
         public ushort Size => 2;        
         #endregion
-        
+
         #region private field
 
 

@@ -15,14 +15,18 @@ namespace GameServer.Packs.Protocol
 
 		public Byte 装备类型;
 		public Byte 装备位置;
+
+        public Byte StatId;
+        public Int32 Value;
         #endregion
 
         #region public attribute
 
         public ushort Type => 0x004D;
-        public ushort Size => 4;        
+        public ushort Size => 4;
+        public ushort rSize => 7;
         #endregion
-        
+
         #region private field
 
 
@@ -30,6 +34,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
+            byteBlock.Write(StatId);
+            byteBlock.Write(Value);
             return byteBlock;
         }
 

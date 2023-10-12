@@ -31,7 +31,6 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="Packs\RemoteProcedure\" />
     <Folder Include="Packs\Handle\" />
   </ItemGroup>
 

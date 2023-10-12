@@ -6,26 +6,25 @@ using GameServer.Service;
 namespace GameServer.Packs.Protocol
 {
     /// <summary>
-    /// <para>不知道干嘛的, 离开进入安全区触发</para>
-    /// <para>ReservedPacketZeroTwoPacket</para>
+    /// <para>服务端提示</para>
+    /// <para>GameErrorMessagePacket</para>
     /// </summary>
-    internal class x00BB : Package
+    internal class x0009 : Package
     {
         #region public field
 
-        public Byte VariableType;
-        public UInt16 VariableIndex;
-        public Int32 VariableKey;
-        public Int32 VariableValue;
+		public Int32 code;
+		public Int32 param;
+		public Int32 extra;
         #endregion
 
         #region public attribute
 
-        public ushort Type => 0x00BB;
-        public ushort Size => 9;
-        public ushort rSize => 13;
+        public ushort Type => 0x0009;
+        public ushort Size => 14;
+        public ushort rSize => 14;
         #endregion
-        
+
         #region private field
 
 
@@ -33,10 +32,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            byteBlock.Write(VariableType);
-            byteBlock.Write(VariableIndex);
-            byteBlock.Write(VariableKey);
-            byteBlock.Write(VariableValue);
+			byteBlock.Write(code);
+			byteBlock.Write(param);
+			byteBlock.Write(extra);
             return byteBlock;
         }
 

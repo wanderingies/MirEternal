@@ -20,7 +20,10 @@ namespace GameServer.Service
                 byteBlock.Write((ushort)(value.Length + 4));
 
             byteBlock.Write(value);
-            this.Send(byteBlock);
+
+            /*if (size != 0 && size != byteBlock.Len)
+                GameService.Instance.clientSession.Send($"Error;0x{type.ToString("X4")}:{SessionId} GameService => GateService");
+            else */this.Send(byteBlock);
             return true;
         }
 
@@ -34,7 +37,10 @@ namespace GameServer.Service
                 byteBlock.Write((ushort)(marshal.Len + 4));
 
             byteBlock.Write(marshal);
-            this.Send(byteBlock);
+
+            /*if (size != 0 && size != byteBlock.Len)
+                GameService.Instance.clientSession.Send($"Error;0x{type.ToString("X4")}:{SessionId} GameService => GateService");
+            else */this.Send(byteBlock);
             return true;
         }
 

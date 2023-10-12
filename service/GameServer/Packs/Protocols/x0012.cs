@@ -6,25 +6,26 @@ using GameServer.Service;
 namespace GameServer.Packs.Protocol
 {
     /// <summary>
-    /// <para>角色走动</para>
-    /// <para>客户角色走动</para>
+    /// client    => 角色走动
+    /// <para>server    => 技能信息</para>
     /// </summary>
     internal class x0012 : Package
     {
         #region public field
 
-        public byte[] Result;
+        public byte[] SkillInfo;
         #endregion
 
         #region public attribute
 
         public ushort Type => 0x0012;
-        public ushort Size => 6;        
+        public ushort Size => 6;
+        public ushort rSize => 0;
         #endregion
 
         public x0012()
         {
-            Result = new byte[] { 0 };
+            SkillInfo = new byte[] { 0 };
         }
         
         #region private field
@@ -34,7 +35,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            byteBlock.Write(Result);
+            byteBlock.Write(SkillInfo);
             return byteBlock;
         }
 

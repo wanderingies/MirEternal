@@ -7,7 +7,7 @@ namespace GameServer.Packs.Protocol
 {
     /// <summary>
     /// <para>RequestObjectDataPacket, 对应服务端0041封包</para>
-    /// <para>RequestObjectDataPacket</para>
+    /// <para>栏位描述</para>
     /// </summary>
     internal class x0013 : Package
     {
@@ -22,7 +22,8 @@ namespace GameServer.Packs.Protocol
         #region public attribute
 
         public ushort Type => 0x0013;
-        public ushort Size => 10;        
+        public ushort Size => 10;
+        public ushort rSize => 0;
         #endregion
 
         public x0013()

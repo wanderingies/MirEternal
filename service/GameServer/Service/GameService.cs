@@ -1,4 +1,6 @@
-﻿using GameServer.Packs;
+﻿#pragma warning disable CS8618
+
+using GameServer.Packs;
 using TouchSocket.Sockets;
 
 namespace GameServer.Service
@@ -13,9 +15,12 @@ namespace GameServer.Service
             clientSession.SetHost("127.0.0.1:29110");
             clientSession.Connect();
             #endregion
+
+            Instance = this;
         }
 
-        private readonly ClientSession clientSession;
+        public static GameService Instance;
+        public readonly ClientSession clientSession;
 
         protected override void OnConnecting(GameSession socketClient, ConnectingEventArgs e)
         {

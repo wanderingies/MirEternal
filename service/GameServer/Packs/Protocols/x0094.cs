@@ -7,7 +7,7 @@ namespace GameServer.Packs.Protocol
 {
     /// <summary>
     /// <para>玩家同意交易</para>
-    /// <para>玩家同意交易</para>
+    /// <para>同步货币信息</para>
     /// </summary>
     internal class x0094 : Package
     {
@@ -22,7 +22,8 @@ namespace GameServer.Packs.Protocol
         #region public attribute
 
         public ushort Type => 0x0094;
-        public ushort Size => 6;        
+        public ushort Size => 6;
+        public ushort rSize => 0;
         #endregion
 
         public x0094()

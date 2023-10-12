@@ -48,9 +48,10 @@ namespace GameServer.Packs.Protocol
         #region public attribute
 
         public ushort Type => 0x000C;
-        public ushort Size => 10;        
+        public ushort Size => 10;
+        public ushort rSize => 172;
         #endregion
-        
+
         #region private field
 
 
