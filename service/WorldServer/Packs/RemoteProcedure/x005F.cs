@@ -20,6 +20,7 @@ namespace WorldServer.Packs.Protocol
 		public Byte 动作编号;
 		public Byte 技能分段;
 		public Byte 未知参数;
+		public byte[] 命中描述;
         #endregion
 
         #region public attribute
@@ -42,6 +43,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(动作编号);
 			byteBlock.Write(技能分段);
 			byteBlock.Write(未知参数);
+			byteBlock.Write(命中描述);
             return byteBlock;
         }
 

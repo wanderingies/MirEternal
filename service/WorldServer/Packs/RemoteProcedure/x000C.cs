@@ -19,6 +19,7 @@ namespace WorldServer.Packs.Protocol
 		public Byte Race;
 		public Byte Gender;
 		public Byte CurrentLevel;
+		public byte[] Unknown1;
 		public UInt16 CurrentAltitude;
 		public UInt16 Direction;
 		public UInt16 Distance;
@@ -28,8 +29,11 @@ namespace WorldServer.Packs.Protocol
 		public Int32 Unknown3;
 		public Int32 PKLevel;
 		public Byte AttackMode;
+		public byte[] Unknown4;
 		public Int32 CurrentTime;
+		public byte[] Unknown5;
 		public UInt16 MaxLevel;
+		public byte[] Unknown6;
 		public Int64 CurrentExp;
 		public Boolean BrownName;
 		public Int32 AwakeningExp;
@@ -58,6 +62,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(Race);
 			byteBlock.Write(Gender);
 			byteBlock.Write(CurrentLevel);
+			byteBlock.Write(Unknown1);
 			byteBlock.Write(CurrentAltitude);
 			byteBlock.Write(Direction);
 			byteBlock.Write(Distance);
@@ -67,8 +72,11 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(Unknown3);
 			byteBlock.Write(PKLevel);
 			byteBlock.Write(AttackMode);
+			byteBlock.Write(Unknown4);
 			byteBlock.Write(CurrentTime);
+			byteBlock.Write(Unknown5);
 			byteBlock.Write(MaxLevel);
+			byteBlock.Write(Unknown6);
 			byteBlock.Write(CurrentExp);
 			byteBlock.Write(BrownName);
 			byteBlock.Write(AwakeningExp);

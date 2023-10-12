@@ -13,6 +13,7 @@ namespace WorldServer.Packs.Protocol
     {
         #region public field
 
+		public byte[] 栏位描述;
         #endregion
 
         #region public attribute
@@ -28,6 +29,7 @@ namespace WorldServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
+			byteBlock.Write(栏位描述);
             return byteBlock;
         }
 

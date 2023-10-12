@@ -16,6 +16,7 @@ namespace WorldServer.Packs.Protocol
 		public Int32 Unknown1;
 		public Int32 Unknown2;
 		public UInt16 Unknown3;
+		public byte[] MountData;
         #endregion
 
         #region public attribute
@@ -34,6 +35,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(Unknown1);
 			byteBlock.Write(Unknown2);
 			byteBlock.Write(Unknown3);
+			byteBlock.Write(MountData);
             return byteBlock;
         }
 

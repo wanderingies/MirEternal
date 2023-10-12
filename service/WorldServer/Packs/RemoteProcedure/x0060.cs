@@ -19,6 +19,7 @@ namespace WorldServer.Packs.Protocol
 		public Byte SkillInscription;
 		public Byte ActionId;
 		public Byte SkillSegment;
+		public byte[] HitDescription;
         #endregion
 
         #region public attribute
@@ -40,6 +41,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(SkillInscription);
 			byteBlock.Write(ActionId);
 			byteBlock.Write(SkillSegment);
+			byteBlock.Write(HitDescription);
             return byteBlock;
         }
 

@@ -15,6 +15,7 @@ namespace WorldServer.Packs.Protocol
 
 		public Int32 ObjectId;
 		public Byte EquipmentItemCount;
+		public byte[] Info;
         #endregion
 
         #region public attribute
@@ -32,6 +33,7 @@ namespace WorldServer.Packs.Protocol
         {
 			byteBlock.Write(ObjectId);
 			byteBlock.Write(EquipmentItemCount);
+			byteBlock.Write(Info);
             return byteBlock;
         }
 

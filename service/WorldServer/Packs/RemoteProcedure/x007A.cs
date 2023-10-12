@@ -18,6 +18,7 @@ namespace WorldServer.Packs.Protocol
 		public Int32 CurrentMP;
 		public Int32 MaxHP;
 		public Int32 MaxMP;
+		public byte[] Buff描述;
         #endregion
 
         #region public attribute
@@ -38,6 +39,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(CurrentMP);
 			byteBlock.Write(MaxHP);
 			byteBlock.Write(MaxMP);
+			byteBlock.Write(Buff描述);
             return byteBlock;
         }
 

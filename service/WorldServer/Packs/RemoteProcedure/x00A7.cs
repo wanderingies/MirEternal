@@ -14,6 +14,7 @@ namespace WorldServer.Packs.Protocol
         #region public field
 
 		public Int32 对象编号;
+		public byte[] 交互文本;
         #endregion
 
         #region public attribute
@@ -30,6 +31,7 @@ namespace WorldServer.Packs.Protocol
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
 			byteBlock.Write(对象编号);
+			byteBlock.Write(交互文本);
             return byteBlock;
         }
 

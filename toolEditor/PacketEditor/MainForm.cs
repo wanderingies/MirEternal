@@ -1,5 +1,6 @@
 using PacketEditor.Protocol;
 using System.Text;
+using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Serialization;
 
@@ -476,7 +477,11 @@ namespace PacketEditor
                 {
                     string vars = string.Empty;
                     foreach (var variable in item.Variables)
-                        vars += $"\t\tpublic {variable.type} {variable.Name};\n";
+                    {
+                        if (variable.type == TypeItem.Array)
+                            vars += $"\t\tpublic byte[] {variable.Name};\n";
+                        else vars += $"\t\tpublic {variable.type} {variable.Name};\n";
+                    }
 
                     string writer = string.Empty;
                     foreach (var variable in item.Variables)
@@ -577,8 +582,16 @@ namespace PacketEditor
                 _checkedListBox.Refresh();*/
             };
 
-            _checkedListBox.SelectedIndexChanged += (sender, args) =>
+            _checkedListBox.MouseClick += (sender, args) =>
             {
+                if (args.Button == MouseButtons.Right)
+                {
+                    _checkedListBox.SelectedIndex = -1;
+                }
+            };
+
+            _checkedListBox.SelectedIndexChanged += (sender, args) =>
+            {                
                 if (_checkedListBox.SelectedIndex < 0) return;
 
                 var current = propertyGrid.SelectedObject as SubPackage ?? new SubPackage();

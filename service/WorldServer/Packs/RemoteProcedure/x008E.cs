@@ -15,6 +15,7 @@ namespace WorldServer.Packs.Protocol
 
 		public Int32 StoreVersion;
 		public Int32 ItemsCount;
+		public byte[] Data;
         #endregion
 
         #region public attribute
@@ -32,6 +33,7 @@ namespace WorldServer.Packs.Protocol
         {
 			byteBlock.Write(StoreVersion);
 			byteBlock.Write(ItemsCount);
+			byteBlock.Write(Data);
             return byteBlock;
         }
 

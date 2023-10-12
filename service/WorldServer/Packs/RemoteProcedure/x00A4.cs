@@ -14,6 +14,7 @@ namespace WorldServer.Packs.Protocol
         #region public field
 
 		public Int32 QuestId;
+		public byte[] Quest;
         #endregion
 
         #region public attribute
@@ -30,6 +31,7 @@ namespace WorldServer.Packs.Protocol
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
 			byteBlock.Write(QuestId);
+			byteBlock.Write(Quest);
             return byteBlock;
         }
 

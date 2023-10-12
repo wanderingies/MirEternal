@@ -16,6 +16,7 @@ namespace WorldServer.Packs.Protocol
 		public Int32 对象编号;
 		public Byte 放入位置;
 		public Byte 放入物品;
+		public byte[] 物品描述;
         #endregion
 
         #region public attribute
@@ -34,6 +35,7 @@ namespace WorldServer.Packs.Protocol
 			byteBlock.Write(对象编号);
 			byteBlock.Write(放入位置);
 			byteBlock.Write(放入物品);
+			byteBlock.Write(物品描述);
             return byteBlock;
         }
 

@@ -15,6 +15,7 @@ namespace WorldServer.Packs.Protocol
 
 		public Int32 版本编号;
 		public Int32 商品数量;
+		public byte[] 商店数据;
         #endregion
 
         #region public attribute
@@ -32,6 +33,7 @@ namespace WorldServer.Packs.Protocol
         {
 			byteBlock.Write(版本编号);
 			byteBlock.Write(商品数量);
+			byteBlock.Write(商店数据);
             return byteBlock;
         }
 
