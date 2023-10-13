@@ -32,5 +32,10 @@ namespace GameServer.Data.Types
         public int ExtraBackPack {  get; set; }
         [Column("extrabackpacksize")]
         public byte ExtraBackpackSize { get; set; } = 144;
+
+        [Column("streetstallstate")]
+        public byte StreetStallState { get; set; } = 0;
+        [Column("streetstallname")]
+        public string StreetStallName { get; set; }
     }
 }

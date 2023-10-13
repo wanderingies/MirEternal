@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>提取邮件附件</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 邮件编号;
+        public int 邮件编号;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0227;
-        public ushort Size => 14;     
+        public ushort Size => 14;
         public ushort rSize => 0;
         #endregion
-        
-        public x0227() 
+
+        public x0227()
         {
         }
 
@@ -44,8 +44,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			邮件编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            邮件编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

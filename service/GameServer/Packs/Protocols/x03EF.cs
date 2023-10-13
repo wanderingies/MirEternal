@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>测试网关网速</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 ClientTime;
+        public int ClientTime;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x03EF;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x03EF() 
+
+        public x03EF()
         {
         }
 
@@ -44,8 +44,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			ClientTime = byteBlock.ReadInt32();
-			return byteBlock;
+            ClientTime = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

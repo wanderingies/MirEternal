@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>SendChatMessagePacket(附近|广播|传音)</para>
@@ -23,11 +23,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0083;
-        public ushort Size => 0;     
+        public ushort Size => 0;
         public ushort rSize => 0;
         #endregion
-        
-        public x0083() 
+
+        public x0083()
         {
         }
 
@@ -43,7 +43,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession gameSession)

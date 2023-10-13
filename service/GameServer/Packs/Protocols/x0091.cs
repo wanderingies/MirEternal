@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>玩家装配称号</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte Id;
+        public byte Id;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0091;
-        public ushort Size => 3;     
+        public ushort Size => 3;
         public ushort rSize => 0;
         #endregion
-        
-        public x0091() 
+
+        public x0091()
         {
         }
 
@@ -44,8 +44,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			Id = byteBlock.ReadByte();
-			return byteBlock;
+            Id = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>查看玩家装备, 右键头像查看资料时触发</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 对象编号;
+        public int 对象编号;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0014;
-        public ushort Size => 22;     
+        public ushort Size => 22;
         public ushort rSize => 0;
         #endregion
-        
-        public x0014() 
+
+        public x0014()
         {
             Result = new byte[1641]
             {
@@ -100,8 +100,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			对象编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            对象编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

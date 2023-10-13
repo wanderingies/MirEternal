@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>玩家放入物品</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 放入位置;
-		public Byte 放入物品;
-		public Byte 物品容器;
-		public Byte 物品位置;
+        public byte 放入位置;
+        public byte 放入物品;
+        public byte 物品容器;
+        public byte 物品位置;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0096;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x0096() 
+
+        public x0096()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			放入位置 = byteBlock.ReadByte();
-			放入物品 = byteBlock.ReadByte();
-			物品容器 = byteBlock.ReadByte();
-			物品位置 = byteBlock.ReadByte();
-			return byteBlock;
+            放入位置 = byteBlock.ReadByte();
+            放入物品 = byteBlock.ReadByte();
+            物品容器 = byteBlock.ReadByte();
+            物品位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

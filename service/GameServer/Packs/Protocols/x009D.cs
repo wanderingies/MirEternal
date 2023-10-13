@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>AcceptRewardPacket</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 QuestId;
+        public int QuestId;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x009D;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x009D() 
+
+        public x009D()
         {
         }
 
@@ -44,8 +44,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			QuestId = byteBlock.ReadInt32();
-			return byteBlock;
+            QuestId = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

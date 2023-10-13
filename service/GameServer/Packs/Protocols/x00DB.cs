@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>AddMountSkillPacket</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public UInt16 Field;
-		public Byte Unknown;
+        public ushort Field;
+        public byte Unknown;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x00DB;
-        public ushort Size => 5;     
+        public ushort Size => 5;
         public ushort rSize => 0;
         #endregion
-        
-        public x00DB() 
+
+        public x00DB()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			Field = byteBlock.ReadUInt16();
-			Unknown = byteBlock.ReadByte();
-			return byteBlock;
+            Field = byteBlock.ReadUInt16();
+            Unknown = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

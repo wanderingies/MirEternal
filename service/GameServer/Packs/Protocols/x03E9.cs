@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>客户登录</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public String Ticket;
-		public String MacAddress;
+        public string Ticket;
+        public string MacAddress;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x03E9;
-        public ushort Size => 162;     
+        public ushort Size => 162;
         public ushort rSize => 0;
         #endregion
-        
-        public x03E9() 
+
+        public x03E9()
         {
         }
 
@@ -45,7 +45,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession gameSession)

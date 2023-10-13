@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>RequestLockStoragePacket</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Boolean Enabled;
+        public bool Enabled;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0062;
-        public ushort Size => 3;     
+        public ushort Size => 3;
         public ushort rSize => 0;
         #endregion
-        
-        public x0062() 
+
+        public x0062()
         {
         }
 
@@ -44,8 +44,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			Enabled = byteBlock.ReadBoolean();
-			return byteBlock;
+            Enabled = byteBlock.ReadBoolean();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

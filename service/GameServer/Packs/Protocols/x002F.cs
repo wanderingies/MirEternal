@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>CharacterDropsItemsPacket</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 背包类型;
-		public Byte 物品位置;
-		public UInt16 丢弃数量;
+        public byte 背包类型;
+        public byte 物品位置;
+        public ushort 丢弃数量;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x002F;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x002F() 
+
+        public x002F()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			背包类型 = byteBlock.ReadByte();
-			物品位置 = byteBlock.ReadByte();
-			丢弃数量 = byteBlock.ReadUInt16();
-			return byteBlock;
+            背包类型 = byteBlock.ReadByte();
+            物品位置 = byteBlock.ReadByte();
+            丢弃数量 = byteBlock.ReadUInt16();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

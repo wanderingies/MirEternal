@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>查看行会列表</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 查看方式;
-		public Int32 行会编号;
+        public byte 查看方式;
+        public int 行会编号;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0229;
-        public ushort Size => 7;     
+        public ushort Size => 7;
         public ushort rSize => 0;
         #endregion
-        
-        public x0229() 
+
+        public x0229()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			查看方式 = byteBlock.ReadByte();
-			行会编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            查看方式 = byteBlock.ReadByte();
+            行会编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

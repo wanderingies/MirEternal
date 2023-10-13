@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>UnknownC267</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 U1;
+        public int U1;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x010B;
-        public ushort Size => 142;     
+        public ushort Size => 142;
         public ushort rSize => 0;
         #endregion
-        
-        public x010B() 
+
+        public x010B()
         {
         }
 
@@ -44,13 +44,13 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			U1 = byteBlock.ReadInt32();
-			return byteBlock;
+            U1 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning($"0x010B => The method or operation is not implemented.");
         }
     }
 }

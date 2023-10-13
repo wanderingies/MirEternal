@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>CharacterSplitItemsPacket</para>
@@ -13,11 +13,11 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 当前背包;
-		public Byte 物品位置;
-		public Byte 目标背包;
-		public Byte 目标位置;
-		public UInt16 拆分数量;
+        public byte 当前背包;
+        public byte 物品位置;
+        public byte 目标背包;
+        public byte 目标位置;
+        public ushort 拆分数量;
         #endregion
 
         #region marshal
@@ -28,11 +28,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x002E;
-        public ushort Size => 8;     
+        public ushort Size => 8;
         public ushort rSize => 0;
         #endregion
-        
-        public x002E() 
+
+        public x002E()
         {
         }
 
@@ -48,12 +48,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			当前背包 = byteBlock.ReadByte();
-			物品位置 = byteBlock.ReadByte();
-			目标背包 = byteBlock.ReadByte();
-			目标位置 = byteBlock.ReadByte();
-			拆分数量 = byteBlock.ReadUInt16();
-			return byteBlock;
+            当前背包 = byteBlock.ReadByte();
+            物品位置 = byteBlock.ReadByte();
+            目标背包 = byteBlock.ReadByte();
+            目标位置 = byteBlock.ReadByte();
+            拆分数量 = byteBlock.ReadUInt16();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>UnknownC4</para>
@@ -23,11 +23,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0109;
-        public ushort Size => 11;     
+        public ushort Size => 11;
         public ushort rSize => 0;
         #endregion
-        
-        public x0109() 
+
+        public x0109()
         {
         }
 
@@ -43,7 +43,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession gameSession)

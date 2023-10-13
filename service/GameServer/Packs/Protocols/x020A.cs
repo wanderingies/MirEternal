@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>AddFriendsToFollowPacket</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 对象编号;
-		public String 对象名字;
+        public int 对象编号;
+        public string 对象名字;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x020A;
-        public ushort Size => 38;     
+        public ushort Size => 38;
         public ushort rSize => 0;
         #endregion
-        
-        public x020A() 
+
+        public x020A()
         {
         }
 
@@ -45,8 +45,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			对象编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            对象编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

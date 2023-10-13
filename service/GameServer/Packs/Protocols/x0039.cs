@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>玩家扩展背包</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 背包类型;
-		public Byte 扩展大小;
+        public byte 背包类型;
+        public byte 扩展大小;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0039;
-        public ushort Size => 4;     
+        public ushort Size => 4;
         public ushort rSize => 0;
         #endregion
-        
-        public x0039() 
+
+        public x0039()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			背包类型 = byteBlock.ReadByte();
-			扩展大小 = byteBlock.ReadByte();
-			return byteBlock;
+            背包类型 = byteBlock.ReadByte();
+            扩展大小 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

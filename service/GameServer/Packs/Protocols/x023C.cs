@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>更改存储权限</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte GuildJobs;
-		public Byte 原有位置;
-		public Byte 目标页面;
+        public byte GuildJobs;
+        public byte 原有位置;
+        public byte 目标页面;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x023C;
-        public ushort Size => 5;     
+        public ushort Size => 5;
         public ushort rSize => 0;
         #endregion
-        
-        public x023C() 
+
+        public x023C()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			GuildJobs = byteBlock.ReadByte();
-			原有位置 = byteBlock.ReadByte();
-			目标页面 = byteBlock.ReadByte();
-			return byteBlock;
+            GuildJobs = byteBlock.ReadByte();
+            原有位置 = byteBlock.ReadByte();
+            目标页面 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

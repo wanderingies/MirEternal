@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>申请行会Hostility</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte Hostility时间;
-		public String GuildName;
+        public byte Hostility时间;
+        public string GuildName;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0248;
-        public ushort Size => 28;     
+        public ushort Size => 28;
         public ushort rSize => 0;
         #endregion
-        
-        public x0248() 
+
+        public x0248()
         {
         }
 
@@ -45,8 +45,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			Hostility时间 = byteBlock.ReadByte();
-			return byteBlock;
+            Hostility时间 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

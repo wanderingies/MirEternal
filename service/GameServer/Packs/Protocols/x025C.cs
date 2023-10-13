@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>查询排名榜单</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 榜单类型;
-		public Int32 起始位置;
+        public int 榜单类型;
+        public int 起始位置;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x025C;
-        public ushort Size => 10;     
+        public ushort Size => 10;
         public ushort rSize => 0;
         #endregion
-        
-        public x025C() 
+
+        public x025C()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			榜单类型 = byteBlock.ReadInt32();
-			起始位置 = byteBlock.ReadInt32();
-			return byteBlock;
+            榜单类型 = byteBlock.ReadInt32();
+            起始位置 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

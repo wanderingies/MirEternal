@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>不知道干嘛的, 离开进入安全区触发</para>
@@ -17,20 +17,20 @@ namespace GameServer.Packs.Protocol
 
         #region marshal
 
-        public Byte VariableType;
-        public UInt16 VariableIndex;
-        public Int32 VariableKey;
-        public Int32 VariableValue;
+        public byte VariableType;
+        public ushort VariableIndex;
+        public int VariableKey;
+        public int VariableValue;
         #endregion
 
         #region attribute
 
         public ushort Type => 0x00BB;
-        public ushort Size => 9;     
+        public ushort Size => 9;
         public ushort rSize => 13;
         #endregion
-        
-        public x00BB() 
+
+        public x00BB()
         {
         }
 
@@ -50,12 +50,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning("0x00BB => The method or operation is not implemented.");
         }
     }
 }

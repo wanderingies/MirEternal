@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>高级铭文洗练</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 装备类型;
-		public Byte 装备位置;
-		public Int32 Id;
+        public byte 装备类型;
+        public byte 装备位置;
+        public int Id;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0048;
-        public ushort Size => 8;     
+        public ushort Size => 8;
         public ushort rSize => 0;
         #endregion
-        
-        public x0048() 
+
+        public x0048()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			装备类型 = byteBlock.ReadByte();
-			装备位置 = byteBlock.ReadByte();
-			Id = byteBlock.ReadInt32();
-			return byteBlock;
+            装备类型 = byteBlock.ReadByte();
+            装备位置 = byteBlock.ReadByte();
+            Id = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

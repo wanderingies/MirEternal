@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>更改行会公告</para>
@@ -23,11 +23,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0232;
-        public ushort Size => 0;     
+        public ushort Size => 0;
         public ushort rSize => 0;
         #endregion
-        
-        public x0232() 
+
+        public x0232()
         {
         }
 
@@ -43,7 +43,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession gameSession)

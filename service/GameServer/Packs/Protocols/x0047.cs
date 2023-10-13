@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>传承武器铭文</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 来源类型;
-		public Byte 来源位置;
-		public Byte 目标类型;
-		public Byte 目标位置;
+        public byte 来源类型;
+        public byte 来源位置;
+        public byte 目标类型;
+        public byte 目标位置;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0047;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x0047() 
+
+        public x0047()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			来源类型 = byteBlock.ReadByte();
-			来源位置 = byteBlock.ReadByte();
-			目标类型 = byteBlock.ReadByte();
-			目标位置 = byteBlock.ReadByte();
-			return byteBlock;
+            来源类型 = byteBlock.ReadByte();
+            来源位置 = byteBlock.ReadByte();
+            目标类型 = byteBlock.ReadByte();
+            目标位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

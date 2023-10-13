@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>处理入会申请</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 处理类型;
-		public Int32 对象编号;
+        public byte 处理类型;
+        public int 对象编号;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x022E;
-        public ushort Size => 7;     
+        public ushort Size => 7;
         public ushort rSize => 0;
         #endregion
-        
-        public x022E() 
+
+        public x022E()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			处理类型 = byteBlock.ReadByte();
-			对象编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            处理类型 = byteBlock.ReadByte();
+            对象编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

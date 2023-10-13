@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>物品转移/交换/合并/更换装备</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 当前背包;
-		public Byte 原有位置;
-		public Byte 目标背包;
-		public Byte 目标位置;
+        public byte 当前背包;
+        public byte 原有位置;
+        public byte 目标背包;
+        public byte 目标位置;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x002C;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x002C() 
+
+        public x002C()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			当前背包 = byteBlock.ReadByte();
-			原有位置 = byteBlock.ReadByte();
-			目标背包 = byteBlock.ReadByte();
-			目标位置 = byteBlock.ReadByte();
-			return byteBlock;
+            当前背包 = byteBlock.ReadByte();
+            原有位置 = byteBlock.ReadByte();
+            目标背包 = byteBlock.ReadByte();
+            目标位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

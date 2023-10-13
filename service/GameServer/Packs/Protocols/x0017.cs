@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>帧同步, 请求Ping</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 客户时间;
+        public int ClientTime;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0017;
-        public ushort Size => 6;     
+        public ushort Size => 6;
         public ushort rSize => 0;
         #endregion
-        
-        public x0017() 
+
+        public x0017()
         {
         }
 
@@ -44,13 +44,14 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			客户时间 = byteBlock.ReadInt32();
-			return byteBlock;
+            ClientTime = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            var x2d = new x002D() { SyncTime = ClientTime };
+            gameSession.SendPackage(x2d.Type, x2d.rSize, x2d);
         }
     }
 }

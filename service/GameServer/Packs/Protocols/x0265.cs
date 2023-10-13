@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>购买玛法特权</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 特权类型;
-		public Byte 购买数量;
+        public byte 特权类型;
+        public byte 购买数量;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0265;
-        public ushort Size => 4;     
+        public ushort Size => 4;
         public ushort rSize => 0;
         #endregion
-        
-        public x0265() 
+
+        public x0265()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			特权类型 = byteBlock.ReadByte();
-			购买数量 = byteBlock.ReadByte();
-			return byteBlock;
+            特权类型 = byteBlock.ReadByte();
+            购买数量 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

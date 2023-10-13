@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>CharacterUseItemsPacket</para>
@@ -13,23 +13,23 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 背包类型;
-		public Byte 物品位置;
+        public byte 背包类型;
+        public byte 物品位置;
         #endregion
 
         #region marshal
 
-
+        public int SyncTime;
         #endregion
 
         #region attribute
 
         public ushort Type => 0x002D;
-        public ushort Size => 4;     
-        public ushort rSize => 0;
+        public ushort Size => 4;
+        public ushort rSize => 6;
         #endregion
-        
-        public x002D() 
+
+        public x002D()
         {
         }
 
@@ -40,14 +40,15 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            throw new NotImplementedException();
+            byteBlock.Write(SyncTime);
+            return byteBlock;
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			背包类型 = byteBlock.ReadByte();
-			物品位置 = byteBlock.ReadByte();
-			return byteBlock;
+            背包类型 = byteBlock.ReadByte();
+            物品位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

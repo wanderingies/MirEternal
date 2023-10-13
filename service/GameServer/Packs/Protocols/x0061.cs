@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>LockItemPacket</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte BackpackType;
-		public Byte Unknown;
-		public Byte Slot;
+        public byte BackpackType;
+        public byte Unknown;
+        public byte Slot;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0061;
-        public ushort Size => 5;     
+        public ushort Size => 5;
         public ushort rSize => 0;
         #endregion
-        
-        public x0061() 
+
+        public x0061()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			BackpackType = byteBlock.ReadByte();
-			Unknown = byteBlock.ReadByte();
-			Slot = byteBlock.ReadByte();
-			return byteBlock;
+            BackpackType = byteBlock.ReadByte();
+            Unknown = byteBlock.ReadByte();
+            Slot = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

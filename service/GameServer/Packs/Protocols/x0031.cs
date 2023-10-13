@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>CharacterPurchageItemsPacket</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 StoreId;
-		public Int32 物品位置;
-		public UInt16 购入数量;
+        public int StoreId;
+        public int 物品位置;
+        public ushort 购入数量;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0031;
-        public ushort Size => 12;     
+        public ushort Size => 12;
         public ushort rSize => 0;
         #endregion
-        
-        public x0031() 
+
+        public x0031()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			StoreId = byteBlock.ReadInt32();
-			物品位置 = byteBlock.ReadInt32();
-			购入数量 = byteBlock.ReadUInt16();
-			return byteBlock;
+            StoreId = byteBlock.ReadInt32();
+            物品位置 = byteBlock.ReadInt32();
+            购入数量 = byteBlock.ReadUInt16();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

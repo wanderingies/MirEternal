@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>GuildWarehouseMovePacket</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 原有页面;
-		public Byte 原有位置;
-		public Byte 目标页面;
-		public Byte 目标位置;
+        public byte 原有页面;
+        public byte 原有位置;
+        public byte 目标页面;
+        public byte 目标位置;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x023D;
-        public ushort Size => 8;     
+        public ushort Size => 8;
         public ushort rSize => 0;
         #endregion
-        
-        public x023D() 
+
+        public x023D()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			原有页面 = byteBlock.ReadByte();
-			原有位置 = byteBlock.ReadByte();
-			目标页面 = byteBlock.ReadByte();
-			目标位置 = byteBlock.ReadByte();
-			return byteBlock;
+            原有页面 = byteBlock.ReadByte();
+            原有位置 = byteBlock.ReadByte();
+            目标页面 = byteBlock.ReadByte();
+            目标位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

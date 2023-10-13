@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>BattleStanceSwitchPacket</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Boolean 切回正常姿态;
-		public Boolean 系统自动切换;
+        public bool 切回正常姿态;
+        public bool 系统自动切换;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0028;
-        public ushort Size => 4;     
+        public ushort Size => 4;
         public ushort rSize => 0;
         #endregion
-        
-        public x0028() 
+
+        public x0028()
         {
         }
 
@@ -45,14 +45,14 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			切回正常姿态 = byteBlock.ReadBoolean();
-			系统自动切换 = byteBlock.ReadBoolean();
-			return byteBlock;
+            切回正常姿态 = byteBlock.ReadBoolean();
+            系统自动切换 = byteBlock.ReadBoolean();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning("0x0028 => The method or operation is not implemented.");
         }
     }
 }

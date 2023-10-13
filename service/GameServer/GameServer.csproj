@@ -37,6 +37,7 @@
     <Folder Include="Models\Masters\" />
     <Folder Include="Models\Rechargers\" />
     <Folder Include="Models\Titles\" />
+    <Folder Include="Packs\Handle\" />
     <Folder Include="Packs\RemoteProcedure\" />
   </ItemGroup>
 

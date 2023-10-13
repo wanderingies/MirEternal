@@ -1,6 +1,7 @@
 ﻿#pragma warning disable CS8618
 
 using GameServer.Data;
+using GameServer.Packs;
 using GameServer.Service;
 using GameServer.Template;
 using GameServer.Utility;

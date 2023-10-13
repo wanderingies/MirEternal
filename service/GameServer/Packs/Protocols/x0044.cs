@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>玩家镶嵌灵石</para>
@@ -13,11 +13,11 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 装备类型;
-		public Byte 装备位置;
-		public Byte 装备孔位;
-		public Byte 灵石类型;
-		public Byte 灵石位置;
+        public byte 装备类型;
+        public byte 装备位置;
+        public byte 装备孔位;
+        public byte 灵石类型;
+        public byte 灵石位置;
         #endregion
 
         #region marshal
@@ -28,11 +28,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0044;
-        public ushort Size => 7;     
+        public ushort Size => 7;
         public ushort rSize => 0;
         #endregion
-        
-        public x0044() 
+
+        public x0044()
         {
         }
 
@@ -48,12 +48,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			装备类型 = byteBlock.ReadByte();
-			装备位置 = byteBlock.ReadByte();
-			装备孔位 = byteBlock.ReadByte();
-			灵石类型 = byteBlock.ReadByte();
-			灵石位置 = byteBlock.ReadByte();
-			return byteBlock;
+            装备类型 = byteBlock.ReadByte();
+            装备位置 = byteBlock.ReadByte();
+            装备孔位 = byteBlock.ReadByte();
+            灵石类型 = byteBlock.ReadByte();
+            灵石位置 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

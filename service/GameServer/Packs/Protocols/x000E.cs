@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>上传角色位置</para>
@@ -13,7 +13,7 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public UInt16 高度;
+        public ushort 高度;
         #endregion
 
         #region marshal
@@ -24,11 +24,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x000E;
-        public ushort Size => 10;     
+        public ushort Size => 10;
         public ushort rSize => 0;
         #endregion
-        
-        public x000E() 
+
+        public x000E()
         {
             StateInfo = new byte[] { 0 };
         }
@@ -46,8 +46,8 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			高度 = byteBlock.ReadUInt16();
-			return byteBlock;
+            高度 = byteBlock.ReadUInt16();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>回应组队请求</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 对象编号;
-		public Byte 组队方式;
-		public Byte 回应方式;
+        public int 对象编号;
+        public byte 组队方式;
+        public byte 回应方式;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x00ED;
-        public ushort Size => 8;     
+        public ushort Size => 8;
         public ushort rSize => 0;
         #endregion
-        
-        public x00ED() 
+
+        public x00ED()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			对象编号 = byteBlock.ReadInt32();
-			组队方式 = byteBlock.ReadByte();
-			回应方式 = byteBlock.ReadByte();
-			return byteBlock;
+            对象编号 = byteBlock.ReadInt32();
+            组队方式 = byteBlock.ReadByte();
+            回应方式 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

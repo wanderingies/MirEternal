@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>同步签到信息</para>
@@ -25,7 +25,7 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0120;
-        public ushort Size => 5;        
+        public ushort Size => 5;
         public ushort rSize => 5;
         #endregion
 

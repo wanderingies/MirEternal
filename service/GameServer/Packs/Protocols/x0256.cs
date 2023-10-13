@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>打开角色背包</para>
@@ -23,11 +23,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0256;
-        public ushort Size => 2;     
+        public ushort Size => 2;
         public ushort rSize => 0;
         #endregion
-        
-        public x0256() 
+
+        public x0256()
         {
         }
 
@@ -43,12 +43,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning("0x0256 => The method or operation is not implemented.");
         }
     }
 }

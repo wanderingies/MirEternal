@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>申请行会外交</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 外交类型;
-		public Byte 外交时间;
-		public String GuildName;
+        public byte 外交类型;
+        public byte 外交时间;
+        public string GuildName;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0238;
-        public ushort Size => 29;     
+        public ushort Size => 29;
         public ushort rSize => 0;
         #endregion
-        
-        public x0238() 
+
+        public x0238()
         {
         }
 
@@ -46,9 +46,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			外交类型 = byteBlock.ReadByte();
-			外交时间 = byteBlock.ReadByte();
-			return byteBlock;
+            外交类型 = byteBlock.ReadByte();
+            外交时间 = byteBlock.ReadByte();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

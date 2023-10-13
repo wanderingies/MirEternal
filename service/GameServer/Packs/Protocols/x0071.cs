@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>ClickNpcDialogPacket</para>
@@ -13,9 +13,9 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 对象编号;
-		public Int32 QuestId;
-		public Int32 Unknown;
+        public int 对象编号;
+        public int QuestId;
+        public int Unknown;
         #endregion
 
         #region marshal
@@ -26,11 +26,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0071;
-        public ushort Size => 14;     
+        public ushort Size => 14;
         public ushort rSize => 0;
         #endregion
-        
-        public x0071() 
+
+        public x0071()
         {
         }
 
@@ -46,10 +46,10 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			对象编号 = byteBlock.ReadInt32();
-			QuestId = byteBlock.ReadInt32();
-			Unknown = byteBlock.ReadInt32();
-			return byteBlock;
+            对象编号 = byteBlock.ReadInt32();
+            QuestId = byteBlock.ReadInt32();
+            Unknown = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

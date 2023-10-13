@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>Unknown266</para>
@@ -23,11 +23,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x010A;
-        public ushort Size => 11;     
+        public ushort Size => 11;
         public ushort rSize => 0;
         #endregion
-        
-        public x010A() 
+
+        public x010A()
         {
         }
 
@@ -43,12 +43,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning($"0x010A => The method or operation is not implemented.");
         }
     }
 }

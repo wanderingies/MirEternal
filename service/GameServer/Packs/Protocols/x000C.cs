@@ -4,7 +4,7 @@ using TouchSocket.Core;
 using GameServer.Service;
 using System.Drawing;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>场景加载完成</para>
@@ -18,45 +18,45 @@ namespace GameServer.Packs.Protocol
 
         #region marshal
 
-        public Int32 RoleId;
-        public Int32 Map;
-        public Int32 RouteId;
-        public Byte Race;
-        public Byte Gender;
-        public Byte Level;
+        public int RoleId;
+        public int Map;
+        public int RouteId;
+        public byte Race;
+        public byte Gender;
+        public byte Level;
         public byte[] Unknown1;
         public Point Position;
-        public UInt16 Altitude;
-        public UInt16 Direction;
-        public UInt16 Distance;
-        public Int64 MaxExp;
-        public Int64 ExpCap;
-        public Int32 DoubleExp;
-        public Int32 Unknown3;
-        public Int32 PkLevel;
-        public Byte AttackMode;
+        public ushort Altitude;
+        public ushort Direction;
+        public ushort Distance;
+        public long MaxExp;
+        public long ExpCap;
+        public int DoubleExp;
+        public int Unknown3;
+        public int PkLevel;
+        public byte AttackMode;
         public byte[] Unknown4;
-        public Int32 CurrentTime;
+        public int CurrentTime;
         public byte[] Unknown5;
-        public UInt16 MaxLevel;
+        public ushort MaxLevel;
         public byte[] Unknown6;
-        public Int64 Exp;
-        public Boolean BrownName;
-        public Int32 AwakeningExp;
-        public Int32 Unknown8;
-        public Int32 MaxAwakeningExp;
-        public Int32 Unknown7;
-        public UInt16 EquipRepairDto;
+        public long Exp;
+        public bool BrownName;
+        public int AwakeningExp;
+        public int Unknown8;
+        public int MaxAwakeningExp;
+        public int Unknown7;
+        public ushort EquipRepairDto;
         #endregion
 
         #region attribute
 
         public ushort Type => 0x000C;
-        public ushort Size => 10;     
+        public ushort Size => 10;
         public ushort rSize => 172;
         #endregion
-        
-        public x000C() 
+
+        public x000C()
         {
             Unknown1 = new byte[45];
             ExpCap = 0x7FFFFFFF00000000;
@@ -109,7 +109,7 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession gameSession)

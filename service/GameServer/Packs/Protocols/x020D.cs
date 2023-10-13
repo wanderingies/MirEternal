@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>上传社交信息(已屏蔽)</para>
@@ -17,17 +17,16 @@ namespace GameServer.Packs.Protocol
 
         #region marshal
 
-
         #endregion
 
         #region attribute
 
         public ushort Type => 0x020D;
-        public ushort Size => 40;     
+        public ushort Size => 40;
         public ushort rSize => 0;
         #endregion
-        
-        public x020D() 
+
+        public x020D()
         {
         }
 
@@ -43,12 +42,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			throw new NotImplementedException();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning($"0x020D => The method or operation is not implemented.");
         }
     }
 }

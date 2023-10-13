@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>申请更改队伍</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int32 成员上限;
-		public Int32 队长编号;
+        public int 成员上限;
+        public int 队长编号;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0207;
-        public ushort Size => 44;     
+        public ushort Size => 44;
         public ushort rSize => 0;
         #endregion
-        
-        public x0207() 
+
+        public x0207()
         {
         }
 
@@ -45,9 +45,9 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			成员上限 = byteBlock.ReadInt32();
-			队长编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            成员上限 = byteBlock.ReadInt32();
+            队长编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

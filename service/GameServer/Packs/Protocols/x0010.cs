@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>角色转动</para>
@@ -13,8 +13,8 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Int16 转动方向;
-		public UInt32 转动耗时;
+        public short RotationDir;
+        public uint RotationTime;
         #endregion
 
         #region marshal
@@ -25,11 +25,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0010;
-        public ushort Size => 8;     
+        public ushort Size => 8;
         public ushort rSize => 0;
         #endregion
-        
-        public x0010() 
+
+        public x0010()
         {
         }
 
@@ -45,14 +45,14 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			转动方向 = byteBlock.ReadInt16();
-			转动耗时 = byteBlock.ReadUInt32();
-			return byteBlock;
+            RotationDir = byteBlock.ReadInt16();
+            RotationTime = byteBlock.ReadUInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
         {
-            throw new NotImplementedException();
+            Program.service.Logger.Warning("0x0010 => 角色转动(已接收单处理)");
         }
     }
 }

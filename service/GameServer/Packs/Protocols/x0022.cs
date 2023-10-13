@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>释放技能</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public UInt16 SkillId;
-		public Byte 动作编号;
-		public Int32 目标编号;
-		public UInt16 锚点高度;
+        public ushort SkillId;
+        public byte 动作编号;
+        public int 目标编号;
+        public ushort 锚点高度;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x0022;
-        public ushort Size => 16;     
+        public ushort Size => 16;
         public ushort rSize => 0;
         #endregion
-        
-        public x0022() 
+
+        public x0022()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			SkillId = byteBlock.ReadUInt16();
-			动作编号 = byteBlock.ReadByte();
-			目标编号 = byteBlock.ReadInt32();
-			锚点高度 = byteBlock.ReadUInt16();
-			return byteBlock;
+            SkillId = byteBlock.ReadUInt16();
+            动作编号 = byteBlock.ReadByte();
+            目标编号 = byteBlock.ReadInt32();
+            锚点高度 = byteBlock.ReadUInt16();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)

@@ -3,7 +3,7 @@
 using TouchSocket.Core;
 using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
     /// <para>DistributeGuildBenefitsPacket</para>
@@ -13,10 +13,10 @@ namespace GameServer.Packs.Protocol
     {
         #region public
 
-		public Byte 发放方式;
-		public Int32 发放总额;
-		public UInt16 发放人数;
-		public Int32 对象编号;
+        public byte 发放方式;
+        public int 发放总额;
+        public ushort 发放人数;
+        public int 对象编号;
         #endregion
 
         #region marshal
@@ -27,11 +27,11 @@ namespace GameServer.Packs.Protocol
         #region attribute
 
         public ushort Type => 0x00B0;
-        public ushort Size => 0;     
+        public ushort Size => 0;
         public ushort rSize => 0;
         #endregion
-        
-        public x00B0() 
+
+        public x00B0()
         {
         }
 
@@ -47,11 +47,11 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-			发放方式 = byteBlock.ReadByte();
-			发放总额 = byteBlock.ReadInt32();
-			发放人数 = byteBlock.ReadUInt16();
-			对象编号 = byteBlock.ReadInt32();
-			return byteBlock;
+            发放方式 = byteBlock.ReadByte();
+            发放总额 = byteBlock.ReadInt32();
+            发放人数 = byteBlock.ReadUInt16();
+            对象编号 = byteBlock.ReadInt32();
+            return byteBlock;
         }
 
         public void Process(GameSession gameSession)
