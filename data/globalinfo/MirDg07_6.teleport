@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_44" Position="X=5246.594 Y=7467.923 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_45" Position="X=4670.868 Y=7469.564 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_46" Position="X=4928.044 Y=7769.402 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_47" Position="X=4984.728 Y=7409.803 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_44" Position="X=5759.328 Y=7467.251 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_45" Position="X=4950.203 Y=8268.257 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_46" Position="X=4948.648 Y=6656.207 Z=4343.212" Radius="384" DisplayName="祖玛寺庙五层"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_47" Position="X=4140.172 Y=7466.606 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_16" Position="X=8044.698 Y=15106.343 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_17" Position="X=7266.302 Y=15846.688 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_18" Position="X=7266.335 Y=14341.992 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_19" Position="X=6467.138 Y=15092.036 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_20" Position="X=9583.347 Y=23006.670 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_21" Position="X=8825.868 Y=23745.631 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_22" Position="X=8807.061 Y=22253.744 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_23" Position="X=8032.326 Y=22993.236 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_24" Position="X=11506.688 Y=31927.441 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_25" Position="X=10724.758 Y=32661.402 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_26" Position="X=10728.148 Y=31165.986 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_27" Position="X=9931.333 Y=31935.164 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_28" Position="X=10759.988 Y=8304.467 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_29" Position="X=9973.556 Y=9077.610 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_30" Position="X=9967.237 Y=7531.705 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_31" Position="X=9180.112 Y=8303.821 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_32" Position="X=13027.529 Y=16061.329 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="22" Name="TeleportOrig_33" Position="X=12273.909 Y=16836.336 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="23" Name="TeleportOrig_34" Position="X=12277.982 Y=15307.699 Z=4340.480" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="24" Name="TeleportOrig_35" Position="X=11464.133 Y=16082.208 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="25" Name="TeleportOrig_36" Position="X=14557.684 Y=24007.873 Z=4344.941" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="26" Name="TeleportOrig_37" Position="X=13819.896 Y=24763.998 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="27" Name="TeleportOrig_38" Position="X=13798.965 Y=23267.318 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="28" Name="TeleportOrig_39" Position="X=13013.956 Y=24004.930 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="29" Name="TeleportOrig_40" Position="X=16474.588 Y=32968.301 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="30" Name="TeleportOrig_41" Position="X=15722.435 Y=33735.320 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="31" Name="TeleportOrig_42" Position="X=15731.995 Y=32208.584 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="32" Name="TeleportOrig_43" Position="X=14916.736 Y=32967.656 Z=4352.200" Radius="384" DisplayName="祖玛大厅"/>
+		<TeleportOrig ServerID="33" Name="TeleportOrig_1" Position="X=15732.254 Y=9481.090 Z=4349.903" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="34" Name="TeleportOrig_2" Position="X=14964.135 Y=10240.241 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="35" Name="TeleportOrig_3" Position="X=14950.432 Y=8742.638 Z=4346.269" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="36" Name="TeleportOrig_0" Position="X=14157.094 Y=9495.440 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="37" Name="TeleportOrig_4" Position="X=18023.375 Y=17061.258 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="38" Name="TeleportOrig_5" Position="X=17233.492 Y=17820.918 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="39" Name="TeleportOrig_6" Position="X=17250.348 Y=16310.143 Z=4345.564" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="40" Name="TeleportOrig_7" Position="X=16456.227 Y=17083.742 Z=4350.927" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="41" Name="TeleportOrig_8" Position="X=19548.420 Y=24857.463 Z=4348.544" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="42" Name="TeleportOrig_9" Position="X=18786.225 Y=25618.455 Z=4348.585" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="43" Name="TeleportOrig_10" Position="X=18780.598 Y=24076.137 Z=4343.212" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="44" Name="TeleportOrig_11" Position="X=17974.398 Y=24861.205 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="45" Name="TeleportOrig_12" Position="X=21467.861 Y=33850.781 Z=4343.216" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="46" Name="TeleportOrig_13" Position="X=20719.867 Y=34598.859 Z=4343.203" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="47" Name="TeleportOrig_14" Position="X=20707.008 Y=33090.629 Z=4344.740" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="48" Name="TeleportOrig_15" Position="X=19913.232 Y=33850.137 Z=4352.200" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=7547.585 Y=15093.353 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_17" Position="X=6948.031 Y=15094.993 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_18" Position="X=7213.415 Y=15372.679 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_19" Position="X=7210.903 Y=14790.060 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_20" Position="X=9056.447 Y=22990.318 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_21" Position="X=8477.995 Y=22991.959 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_22" Position="X=8752.071 Y=23287.092 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_23" Position="X=8749.560 Y=22698.564 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_24" Position="X=10989.074 Y=31928.113 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_25" Position="X=10403.235 Y=31929.754 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_26" Position="X=10675.406 Y=32219.471 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_27" Position="X=10672.895 Y=31639.031 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_28" Position="X=10258.020 Y=8305.139 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_29" Position="X=9674.063 Y=8306.779 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_30" Position="X=9928.705 Y=8599.909 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_31" Position="X=9926.193 Y=8026.433 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_32" Position="X=12533.305 Y=16066.326 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_33" Position="X=11956.003 Y=16067.967 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_34" Position="X=12214.061 Y=16341.307 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_35" Position="X=12211.549 Y=15780.518 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_36" Position="X=14099.402 Y=24008.545 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_37" Position="X=13490.741 Y=24010.186 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_38" Position="X=13752.719 Y=24291.361 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_39" Position="X=13750.207 Y=23693.324 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_40" Position="X=15987.472 Y=32968.973 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_41" Position="X=15567.013 Y=33033.531 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_42" Position="X=15676.065 Y=33247.887 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_43" Position="X=15673.554 Y=32694.910 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=15231.953 Y=9481.762 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=14651.932 Y=9483.402 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=14906.739 Y=9779.787 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=14904.228 Y=9191.388 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=17516.100 Y=17061.930 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=16940.906 Y=17063.570 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=17192.092 Y=17373.998 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=17189.580 Y=16785.166 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=19048.051 Y=24845.760 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=18478.516 Y=24847.400 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=18730.756 Y=25117.373 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=18728.244 Y=24560.139 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=20986.334 Y=33851.453 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="32676" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=20397.436 Y=33853.094 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=20654.084 Y=34128.434 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="48920" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=20651.572 Y=33560.820 Z=4344.464" DisplayName="祖玛阁" Radius="600.000000" Rotation="16252" NpcId="0"/>
+</root>

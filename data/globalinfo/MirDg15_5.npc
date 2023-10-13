@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_16" TemplateID="6331" DisplayName="苍澜" NpcType="4" NpcFuncType="0" Position="X=26066.783 Y=14572.057 Z=2262.742"/>
+	<NPC Name="NPCServerInstance_41" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=32128.822 Y=13958.639 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_44" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=32128.822 Y=31451.270 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_43" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=32128.822 Y=43213.566 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_38" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=50310.832 Y=31795.959 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_42" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=14506.930 Y=30761.902 Z=33530.402"/>
+</root>

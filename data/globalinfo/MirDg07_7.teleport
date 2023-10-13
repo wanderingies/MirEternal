@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=60000.000 Y=60000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=28231.633 Y=91863.898 Z=4760.289" Radius="384" DisplayName="祖玛七层大厅"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=24158.854 Y=97203.852 Z=4749.718" Radius="384" DisplayName="祖玛大厅西"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_2" Position="X=24793.141 Y=115981.352 Z=5518.539" Radius="384" DisplayName="祖玛大厅西"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_3" Position="X=25703.836 Y=125360.227 Z=5532.438" Radius="384" DisplayName="祖玛教主之家"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=25697.377 Y=124815.313 Z=5555.231" DisplayName="祖玛大厅西" Radius="800.000000" Rotation="49224" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=24343.813 Y=116404.273 Z=5576.709" DisplayName="祖玛寺庙七层西" Radius="800.000000" Rotation="32280" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=24162.926 Y=96671.453 Z=4800.930" DisplayName="祖玛大厅西" Radius="800.000000" Rotation="49452" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=27512.123 Y=91873.125 Z=4800.841" DisplayName="祖玛大厅西" Radius="800.000000" Rotation="32840" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_12" Position="X=27698.012 Y=142730.953 Z=4751.566" Radius="384" DisplayName="祖玛七层大厅"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_13" Position="X=23537.531 Y=148166.828 Z=4750.317" Radius="384" DisplayName="祖玛大厅东"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_14" Position="X=24618.275 Y=170113.766 Z=5534.475" Radius="384" DisplayName="祖玛大厅东"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_15" Position="X=25522.244 Y=179481.641 Z=5523.056" Radius="384" DisplayName="祖玛教主之家"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=25518.291 Y=178945.781 Z=5555.231" DisplayName="祖玛大厅东" Radius="800.000000" Rotation="49224" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=24165.189 Y=170526.906 Z=5576.709" DisplayName="祖玛大厅东" Radius="800.000000" Rotation="33132" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=23531.291 Y=147446.109 Z=4800.930" DisplayName="祖玛大厅东" Radius="800.000000" Rotation="49452" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=26972.697 Y=142728.938 Z=4800.841" DisplayName="祖玛大厅东" Radius="800.000000" Rotation="32840" NpcId="0"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_10" Position="X=22984.676 Y=6787.601 Z=4006.169" Radius="384" DisplayName="祖玛大厅西"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=22991.451 Y=7493.275 Z=4013.388" DisplayName="祖玛七层大厅" Radius="800.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_11" Position="X=23007.027 Y=12032.872 Z=3993.578" Radius="384" DisplayName="祖玛大厅东"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=22983.354 Y=11487.038 Z=4013.363" DisplayName="祖玛七层大厅" Radius="800.000000" Rotation="49152" NpcId="0"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_5" Position="X=27240.908 Y=9413.005 Z=4012.798" Radius="384" DisplayName="祖玛阁"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_6" Position="X=18742.660 Y=9408.650 Z=4002.115" Radius="384" DisplayName="祖玛大厅南"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_7" Position="X=27881.061 Y=32854.207 Z=4760.289" Radius="384" DisplayName="祖玛七层大厅"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_8" Position="X=23796.201 Y=38185.102 Z=4744.768" Radius="384" DisplayName="祖玛大厅南"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_9" Position="X=24612.014 Y=61321.262 Z=5519.070" Radius="384" DisplayName="祖玛大厅南"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_4" Position="X=25516.783 Y=70685.938 Z=5532.438" Radius="384" DisplayName="祖玛教主之家"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=25518.611 Y=70156.539 Z=5555.231" DisplayName="祖玛大厅南" Radius="800.000000" Rotation="49224" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=24169.150 Y=61731.566 Z=5576.709" DisplayName="祖玛大厅南" Radius="800.000000" Rotation="32796" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=23798.752 Y=37657.141 Z=4800.930" DisplayName="祖玛大厅南" Radius="800.000000" Rotation="49452" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=27161.510 Y=32851.133 Z=4800.841" DisplayName="祖玛大厅南" Radius="800.000000" Rotation="32840" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=26526.924 Y=9406.945 Z=4015.012" DisplayName="祖玛寺庙七层大厅1" Radius="800.000000" Rotation="32480" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=19554.051 Y=9332.141 Z=4037.481" DisplayName="祖玛七层大厅" Radius="800.000000" Rotation="0" NpcId="0"/>
+</root>

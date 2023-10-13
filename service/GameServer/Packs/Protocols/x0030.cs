@@ -11,36 +11,46 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0030 : Package
     {
-        #region public field
+        #region public
 
 		public Int32 Id;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0030;
-        public ushort Size => 7;        
+        public ushort Size => 7;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0030() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			Id = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="6882" DisplayName="阿林" NpcType="4" NpcFuncType="16" Position="X=40593.223 Y=49488.000 Z=7728.000"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=39005.695 Y=49059.809 Z=7731.187"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=44538.867 Y=45885.238 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="5335" DisplayName="五级公会妖兽" NpcType="6" NpcFuncType="0" Position="X=42891.500 Y=61866.215 Z=8818.131"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="5334" DisplayName="四级公会妖兽" NpcType="6" NpcFuncType="0" Position="X=42834.750 Y=61815.285 Z=8818.131"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="5333" DisplayName="三级公会妖兽" NpcType="6" NpcFuncType="0" Position="X=42837.672 Y=61918.613 Z=8818.131"/>
+	<NPC Name="NPCServerInstance_31" TemplateID="6728" DisplayName="麦家铺子" NpcType="4" NpcFuncType="8" Position="X=35925.137 Y=49061.734 Z=7379.894"/>
+	<NPC Name="NPCServerInstance_30" TemplateID="5332" DisplayName="二级公会妖兽" NpcType="6" NpcFuncType="0" Position="X=42816.285 Y=61867.082 Z=8863.046"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=38862.816 Y=52812.594 Z=8080.467"/>
+	<NPC Name="NPCServerInstance_28" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=44174.816 Y=46412.594 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="6861" DisplayName="玉轩公" NpcType="4" NpcFuncType="16" Position="X=41952.125 Y=51031.988 Z=7733.243"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="9807" DisplayName="商会" NpcType="1" NpcFuncType="0" Position="X=44062.816 Y=52812.594 Z=8080.467"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="6905" DisplayName="祖巫" NpcType="4" NpcFuncType="16" Position="X=40607.656 Y=51015.895 Z=7731.185"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="6904" DisplayName="司巫" NpcType="4" NpcFuncType="16" Position="X=42268.996 Y=51035.840 Z=7731.188"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="5331" DisplayName="一级公会妖兽" NpcType="6" NpcFuncType="0" Position="X=42845.227 Y=61864.059 Z=8815.066"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=38734.816 Y=46412.594 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=44264.863 Y=42962.215 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="6880" DisplayName="公会使者" NpcType="4" NpcFuncType="16" Position="X=42720.262 Y=49507.742 Z=7712.015"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6881" DisplayName="阿海" NpcType="4" NpcFuncType="16" Position="X=39980.281 Y=49496.813 Z=7728.000"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6907" DisplayName="夏家婶婶" NpcType="4" NpcFuncType="16" Position="X=39902.773 Y=51029.121 Z=7731.927"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=44238.816 Y=44684.594 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="6898" DisplayName="莫公" NpcType="4" NpcFuncType="16" Position="X=37391.207 Y=50353.441 Z=7360.000"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="9946" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=46030.816 Y=49228.594 Z=7379.894"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="9837" DisplayName="公会神鼎" NpcType="1" NpcFuncType="0" Position="X=41360.086 Y=49591.957 Z=7731.187"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=43723.152 Y=49057.039 Z=7731.187"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=41366.258 Y=48875.973 Z=7379.186"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=42272.785 Y=47608.270 Z=7028.015"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=40461.891 Y=47607.758 Z=7028.015"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=41373.531 Y=44700.430 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="9813" DisplayName="神坛" NpcType="1" NpcFuncType="0" Position="X=36471.273 Y=49706.801 Z=7360.000"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="9947" DisplayName="基座" NpcType="1" NpcFuncType="0" Position="X=44620.723 Y=44171.125 Z=6679.334"/>
+	<NPC Name="NPCServerInstance_31" TemplateID="6909" DisplayName="龙漠" NpcType="4" NpcFuncType="16" Position="X=41994.461 Y=49508.055 Z=7731.187"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="6864" DisplayName="沙万" NpcType="4" NpcFuncType="16" Position="X=39381.445 Y=51046.262 Z=7733.243"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6885" DisplayName="陈诚" NpcType="4" NpcFuncType="16" Position="X=41472.000 Y=24992.000 Z=6208.000"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6863" DisplayName="司巫" NpcType="4" NpcFuncType="16" Position="X=43988.102 Y=60919.055 Z=8818.131"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="9801" DisplayName="主殿" NpcType="1" NpcFuncType="0" Position="X=41544.609 Y=51769.277 Z=7845.469"/>
+</root>

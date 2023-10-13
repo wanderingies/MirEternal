@@ -4,6 +4,8 @@ using System.Runtime.InteropServices;
 using TouchSocket.Core;
 using TouchSocket.Sockets;
 using WorldServer.Service;
+using WorldServer.Template;
+using WorldServer.Utility;
 
 namespace WorldServer
 {
@@ -11,6 +13,13 @@ namespace WorldServer
     {
         static void Main(string[] args)
         {
+            #region Template
+
+            /*var templates = Reflection.CreateAllInstancesOf<TemplateInterface>().OrderBy(q => q.TemplateLevel);
+            foreach (var template in templates)
+                template.ReaderTemplate();*/
+            #endregion
+
             #region WorldService
 
             service = new WorldService();
@@ -38,6 +47,12 @@ namespace WorldServer
         }
 
         public static WorldService service;
+
+        public static void WriterLogger(int index)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("■");
+        }
 
         #region capture event
 

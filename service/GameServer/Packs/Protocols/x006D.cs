@@ -11,35 +11,45 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x006D : Package
     {
-        #region public field
+        #region public
 
 		public String 摊位名字;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x006D;
-        public ushort Size => 35;        
+        public ushort Size => 35;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x006D() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

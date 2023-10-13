@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg27_3" ServerMapType="1">
+	<NaviPoint Name="quest_ore_fire" DisplayName="" Position="X=17037.041 Y=41572.441 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至元素王座" Position="X=16269.768 Y=19586.553 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="龙火营地" Position="X=9410.549 Y=26269.869 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="火焰之域" Position="X=21431.961 Y=36716.035 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至霜火地脉" Position="X=49225.113 Y=25241.318 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="alter" DisplayName="龙血祭坛" Position="X=33020.828 Y=8037.145 Z=2288.313" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="虚空之域" Position="X=38933.168 Y=23948.369 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_Task2" DisplayName="" Position="X=38815.223 Y=26321.496 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_Task1" DisplayName="" Position="X=15934.205 Y=31126.984 Z=2109.095" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

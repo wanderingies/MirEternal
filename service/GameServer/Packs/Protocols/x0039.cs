@@ -11,38 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0039 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 背包类型;
 		public Byte 扩展大小;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0039;
-        public ushort Size => 4;        
+        public ushort Size => 4;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0039() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			背包类型 = byteBlock.ReadByte();
 			扩展大小 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

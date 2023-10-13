@@ -2,7 +2,6 @@
 
 using TouchSocket.Core;
 using GameServer.Service;
-using GameServer.Utility;
 
 namespace GameServer.Packs.Protocol
 {
@@ -12,41 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x002D : Package
     {
-        #region public field
+        #region public
 
 		public Byte 背包类型;
 		public Byte 物品位置;
-
-        public Int32 Synchronisedtime;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x002D;
-        public ushort Size => 4;        
+        public ushort Size => 4;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x002D() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            byteBlock.Write(UtilityLibrary.TimeShift(DateTime.Now));
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			背包类型 = byteBlock.ReadByte();
 			物品位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

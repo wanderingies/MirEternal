@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0047 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 来源类型;
 		public Byte 来源位置;
@@ -19,20 +19,30 @@ namespace GameServer.Packs.Protocol
 		public Byte 目标位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0047;
-        public ushort Size => 6;        
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0047() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -41,12 +51,12 @@ namespace GameServer.Packs.Protocol
 			来源位置 = byteBlock.ReadByte();
 			目标类型 = byteBlock.ReadByte();
 			目标位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

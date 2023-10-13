@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=64360.012 Y=42256.645 Z=19867.828" Radius="800" DisplayName="至白日门海岸"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=64297.828 Y=39696.574 Z=19394.943" DisplayName="凌月崖" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_0" Position="X=68436.313 Y=58057.805 Z=19416.406" Radius="800" DisplayName="至黑岩峰底"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=67440.750 Y=57327.859 Z=19394.943" DisplayName="凌月崖" Radius="0.000000" Rotation="0" NpcId="0"/>
+</root>

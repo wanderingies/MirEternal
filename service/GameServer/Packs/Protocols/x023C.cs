@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x023C : Package
     {
-        #region public field
+        #region public
 
 		public Byte GuildJobs;
 		public Byte 原有位置;
 		public Byte 目标页面;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x023C;
-        public ushort Size => 5;        
+        public ushort Size => 5;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x023C() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			GuildJobs = byteBlock.ReadByte();
 			原有位置 = byteBlock.ReadByte();
 			目标页面 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

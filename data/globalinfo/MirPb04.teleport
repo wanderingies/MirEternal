@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=82000.000 Y=116000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=58731.883 Y=26971.000 Z=4137.900" Radius="192" DisplayName="至武器店"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=55033.320 Y=27244.639 Z=4140.091" Radius="192" DisplayName="至服饰店"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_2" Position="X=56491.688 Y=29774.844 Z=4127.904" Radius="192" DisplayName="至书店"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_3" Position="X=56836.277 Y=23982.391 Z=4103.431" Radius="192" DisplayName="至仓库"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_4" Position="X=53762.555 Y=29216.205 Z=4143.907" Radius="192" DisplayName="至药店"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_5" Position="X=52761.898 Y=26241.295 Z=4129.933" Radius="192" DisplayName="至首饰店"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_6" Position="X=14124.354 Y=43894.023 Z=4113.616" Radius="384" DisplayName="至尸魔洞一层"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_7" Position="X=21912.240 Y=58918.828 Z=4094.182" Radius="384" DisplayName="牛魔寺庙入口"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_8" Position="X=37290.840 Y=54007.813 Z=4138.226" Radius="384" DisplayName="至骨魔洞一层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=14121.600 Y=42630.391 Z=4100.694" DisplayName="至苍月岛" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=52766.230 Y=25519.898 Z=4100.100" DisplayName="至苍月岛" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=53759.266 Y=28514.035 Z=4106.462" DisplayName="至苍月岛" Radius="0.000000" Rotation="49600" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=55028.625 Y=26696.770 Z=4096.727" DisplayName="" Radius="0.000000" Rotation="57104" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=55843.754 Y=29864.441 Z=4100.100" DisplayName="至苍月岛" Radius="0.000000" Rotation="25640" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=55936.973 Y=23984.930 Z=4100.100" DisplayName="至苍月岛" Radius="0.000000" Rotation="24652" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=58102.969 Y=26877.457 Z=4098.000" DisplayName="至苍月岛" Radius="0.000000" Rotation="40140" NpcId="0"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_9" Position="X=59193.305 Y=97493.922 Z=2077.986" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=59192.117 Y=98199.352 Z=2117.991" DisplayName="至服饰店" Radius="0.000000" Rotation="16584" NpcId="0"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_10" Position="X=58011.625 Y=103371.922 Z=2064.124" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=58737.629 Y=103359.852 Z=2044.332" DisplayName="至武器店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_11" Position="X=58377.813 Y=109339.625 Z=2051.357" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=58759.004 Y=109704.852 Z=2104.788" DisplayName="至书店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_12" Position="X=64668.934 Y=103779.430 Z=2069.277" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=65170.066 Y=104188.898 Z=2059.350" DisplayName="至仓库" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_13" Position="X=64092.922 Y=97118.195 Z=2048.127" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=64261.508 Y=97671.867 Z=2097.959" DisplayName="至药店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_14" Position="X=71158.617 Y=97670.906 Z=2056.365" Radius="192" DisplayName="至苍月岛"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=71327.250 Y=98386.109 Z=2052.100" DisplayName="至首饰店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=20993.773 Y=58918.672 Z=4100.100" DisplayName="至苍月岛" Radius="0.000000" Rotation="40972" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=37379.262 Y=53038.082 Z=4100.100" DisplayName="至苍月岛" Radius="0.000000" Rotation="48388" NpcId="0"/>
+</root>

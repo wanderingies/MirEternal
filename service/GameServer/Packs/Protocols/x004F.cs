@@ -11,34 +11,44 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x004F : Package
     {
-        #region public field
+        #region public
 
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x004F;
-        public ushort Size => 14;        
+        public ushort Size => 14;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x004F() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_11" ServerMapType="1">
+	<NaviPoint Name="molonggu2" DisplayName="至东魔龙关" Position="X=24140.904 Y=24800.285 Z=8737.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molonggu1 " DisplayName="至西魔龙关" Position="X=18257.773 Y=41182.539 Z=8737.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molonggu3" DisplayName="至龙源血路" Position="X=59825.578 Y=31864.338 Z=8755.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

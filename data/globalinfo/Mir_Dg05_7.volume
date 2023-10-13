@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=71000.000 Y=85000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_2" DisplayName="暗影通道一" Priority="3" ReuseMapVolumeName="" MinPos="X=3063.513 Y=7182.315 Z=11904.000" MaxPos="X=17399.512 Y=21518.316 Z=26240.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.400000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="27.999998" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_52" TemplateID="6314" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=9300.403 Y=18459.734 Z=8564.486"/>
+	<NPC Name="NPCServerInstance_60" TemplateID="6314" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=19084.738 Y=21720.623 Z=8564.486"/>
+	<NPC Name="NPCServerInstance_59" TemplateID="6314" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=15566.030 Y=11483.544 Z=8564.486"/>
+	<NPC Name="NPCServerInstance_40" TemplateID="3357" DisplayName="僵尸王" NpcType="6" NpcFuncType="0" Position="X=16383.945 Y=14496.833 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_38" TemplateID="3357" DisplayName="僵尸王" NpcType="6" NpcFuncType="0" Position="X=11913.591 Y=20212.355 Z=33530.402"/>
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100.000 Y=100.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_18" DisplayName="备战大厅" Priority="1" ReuseMapVolumeName="" MinPos="X=9334.578 Y=9391.187 Z=4589.399" MaxPos="X=26038.578 Y=24817.289 Z=19589.398" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.430416" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="30.129107" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

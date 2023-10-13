@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_4" DisplayName="魔渊裂隙" Priority="1" ReuseMapVolumeName="" MinPos="X=2930.028 Y=5441.672 Z=2296.464" MaxPos="X=7026.028 Y=9537.672 Z=6392.464" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.114286" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="7.999999" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=14115.738 Y=90123.656 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=13229.626 Y=40634.980 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=14661.811 Y=39196.930 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=14115.738 Y=38468.793 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=60837.625 Y=40634.980 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=62269.809 Y=39196.930 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=61723.730 Y=38468.793 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=13229.626 Y=67425.844 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_28" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=14661.811 Y=65987.813 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=14115.738 Y=65259.656 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=13222.360 Y=14030.253 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=14661.811 Y=12587.145 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=14115.738 Y=11859.003 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=34951.867 Y=14025.190 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=36384.059 Y=12587.145 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=35837.977 Y=11859.003 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=34951.867 Y=67425.844 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=62269.809 Y=12587.145 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=36384.059 Y=65987.813 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=35837.977 Y=65259.656 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=34951.867 Y=40634.980 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=36384.059 Y=39196.930 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=35837.977 Y=38468.793 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=60837.625 Y=67425.844 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=62269.809 Y=65987.813 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=61723.730 Y=65259.656 Z=4096.000"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=13393.564 Y=92227.680 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="6115" DisplayName="烈火祭坛" NpcType="4" NpcFuncType="0" Position="X=14661.811 Y=90955.805 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6116" DisplayName="寒冰祭坛" NpcType="4" NpcFuncType="0" Position="X=60837.625 Y=14025.190 Z=4403.120"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6111" DisplayName="明河" NpcType="4" NpcFuncType="16" Position="X=61723.730 Y=11854.467 Z=4096.000"/>
+</root>

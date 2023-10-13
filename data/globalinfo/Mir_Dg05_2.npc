@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_7" TemplateID="953" DisplayName="毒针魔战士" NpcType="5" NpcFuncType="0" Position="X=17578.230 Y=42226.031 Z=28476.553"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="953" DisplayName="毒针魔战士" NpcType="5" NpcFuncType="0" Position="X=17186.041 Y=40928.734 Z=28476.553"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6763" DisplayName="比奇老兵" NpcType="4" NpcFuncType="0" Position="X=17400.248 Y=39284.148 Z=28580.600"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="5278" DisplayName="沃玛教主" NpcType="6" NpcFuncType="0" Position="X=16834.797 Y=42720.563 Z=28446.732"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="953" DisplayName="毒针魔战士" NpcType="5" NpcFuncType="0" Position="X=15947.164 Y=41835.512 Z=28476.553"/>
+</root>

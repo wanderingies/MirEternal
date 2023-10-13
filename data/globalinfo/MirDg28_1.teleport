@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=51200.000 Y=51200.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=15800.845 Y=9104.236 Z=19862.480" Radius="800" DisplayName="至赤月群岛"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=16043.736 Y=10416.412 Z=115.359" DisplayName="嚎哭密林" Radius="0.000000" Rotation="35016" NpcId="0"/>
+</root>

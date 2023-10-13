@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg08" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至沙巴克" Position="X=20526.805 Y=25984.000 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至不归路一层" Position="X=24768.000 Y=15465.411 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至沙巴克" Position="X=33408.000 Y=12208.705 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至香石墓穴一层" Position="X=26395.488 Y=31936.000 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至沙巴克" Position="X=43584.000 Y=22272.000 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至不归路二层" Position="X=10183.944 Y=11648.000 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至不归路三层" Position="X=13184.000 Y=21550.094 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至秘密通道" Position="X=13160.201 Y=32324.211 Z=8240.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

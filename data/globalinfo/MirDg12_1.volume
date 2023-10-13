@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=65000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="魔龙东郊" Priority="1" ReuseMapVolumeName="" MinPos="X=16254.512 Y=9375.789 Z=5413.005" MaxPos="X=77694.516 Y=70815.789 Z=13413.005" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="120.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

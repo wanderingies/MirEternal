@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_9" DisplayName="皇宫" Priority="1" ReuseMapVolumeName="" MinPos="X=89360.867 Y=46063.480 Z=3818.048" MaxPos="X=95504.867 Y=52207.480 Z=9962.049" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.171429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="12.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="武道会战场" Priority="1" ReuseMapVolumeName="" MinPos="X=15949.277 Y=20112.727 Z=3354.657" MaxPos="X=73293.281 Y=77456.727 Z=8954.657" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="112.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

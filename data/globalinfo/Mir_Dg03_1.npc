@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_3" TemplateID="3117" DisplayName="腐血僵尸 荫尸人" NpcType="5" NpcFuncType="0" Position="X=31639.383 Y=20111.533 Z=51246.094"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="3117" DisplayName="腐血僵尸 荫尸人" NpcType="5" NpcFuncType="0" Position="X=32108.143 Y=20111.533 Z=51246.094"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6745" DisplayName="逃兵" NpcType="4" NpcFuncType="0" Position="X=16373.160 Y=37342.027 Z=51175.000"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="3117" DisplayName="腐血僵尸 荫尸人" NpcType="5" NpcFuncType="0" Position="X=31154.637 Y=19887.801 Z=51246.094"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6749" DisplayName="受伤的矿工" NpcType="4" NpcFuncType="0" Position="X=28184.170 Y=15430.643 Z=51240.000"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="3117" DisplayName="腐血僵尸 荫尸人" NpcType="5" NpcFuncType="0" Position="X=32108.143 Y=19610.818 Z=51246.094"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3117" DisplayName="腐血僵尸 荫尸人" NpcType="5" NpcFuncType="0" Position="X=31623.398 Y=19610.818 Z=51246.094"/>
+</root>

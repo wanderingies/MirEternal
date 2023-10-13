@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_6" TemplateID="6836" DisplayName="祖玛教长老" NpcType="4" NpcFuncType="0" Position="X=40553.723 Y=26891.469 Z=8055.360"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6166" DisplayName="使者" NpcType="4" NpcFuncType="0" Position="X=29506.150 Y=23079.965 Z=8055.360"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=35910.570 Y=19923.535 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=20151.896 Y=16407.145 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=23103.932 Y=32556.508 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=35910.570 Y=37679.172 Z=33530.402"/>
+</root>

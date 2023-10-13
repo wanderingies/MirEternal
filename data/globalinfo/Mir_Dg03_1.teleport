@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=70000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=18922.857 Y=20280.670 Z=51409.984" Radius="384" DisplayName="矿区一层"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=18917.721 Y=20814.127 Z=51420.621" DisplayName="矿区二层" Radius="0.000000" Rotation="14944" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=28419.297 Y=47316.723 Z=50860.453" Radius="384" DisplayName="矿区三层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=28427.480 Y=46611.578 Z=51022.547" DisplayName="矿区二层" Radius="0.000000" Rotation="48832" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_2" Position="X=27699.188 Y=8959.584 Z=51173.063" Radius="384" DisplayName="矿区一层"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=27699.984 Y=9667.785 Z=51179.039" DisplayName="矿区二层" Radius="0.000000" Rotation="14304" NpcId="0"/>
+</root>

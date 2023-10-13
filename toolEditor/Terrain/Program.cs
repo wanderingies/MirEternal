@@ -11,7 +11,7 @@ namespace Terrain
     {
         static void Main(string[] args)
         {
-            var buffer = File.ReadAllBytes(@"D:\Legend\Client\MMOGame\Content\scene\MirAct36_1\MirAct36_1_un.phx");
+            var buffer = File.ReadAllBytes(@"D:\Legend\v10409\trunk\data\scene\MirSp01\MirSp01.phx");
             var ms = new MemoryStream(buffer);
             var binaryReader = new BinaryReader(ms);
 

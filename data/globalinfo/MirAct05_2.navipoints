@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct05_2" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至幽冥海一层" Position="X=32692.619 Y=39280.668 Z=38000.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_106" DisplayName="祭坛" Position="X=41042.074 Y=34732.656 Z=38133.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_105" DisplayName="营寨" Position="X=59557.461 Y=61746.152 Z=38000.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_104" DisplayName="阴骨桥" Position="X=33186.738 Y=55381.605 Z=37927.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_5515" DisplayName="" Position="X=31792.141 Y=41937.621 Z=37998.949" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至幽冥海三层" Position="X=72210.258 Y=43900.797 Z=38000.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

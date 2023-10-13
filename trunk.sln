@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerServer", "service\Log
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrain", "toolEditor\Terrain\Terrain.csproj", "{C544E02F-6F32-4C2C-9739-BB166D1754F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "toolEditor\Utility\Utility.csproj", "{93430AF1-C04D-4FA4-B416-3A892945024A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "toolEditor\Utility\Utility.csproj", "{93430AF1-C04D-4FA4-B416-3A892945024A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurations", "library\Configurations\Configurations.csproj", "{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,10 @@ Global
 		{93430AF1-C04D-4FA4-B416-3A892945024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93430AF1-C04D-4FA4-B416-3A892945024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93430AF1-C04D-4FA4-B416-3A892945024A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		{EDCBF8FD-BDED-493A-8838-7FBE4F86C183} = {4F53BCBD-6D75-4768-99ED-B618502E7720}
 		{C544E02F-6F32-4C2C-9739-BB166D1754F0} = {A7C44593-EC31-4533-8D32-F8871BBBB420}
 		{93430AF1-C04D-4FA4-B416-3A892945024A} = {A7C44593-EC31-4533-8D32-F8871BBBB420}
+		{8B6EFE62-CC76-46B2-B4C6-D4933DCA59BD} = {3EBFB817-E9BC-43D1-A503-DEA8FDC088B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC6FFC6E-F309-40DD-8FA3-8586E8BAAFF9}

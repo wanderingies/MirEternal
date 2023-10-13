@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_12" TemplateID="6323" DisplayName="芭儿" NpcType="4" NpcFuncType="0" Position="X=22537.654 Y=28410.934 Z=12021.707"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6322" DisplayName="林纹" NpcType="4" NpcFuncType="4" Position="X=22535.314 Y=28207.740 Z=12021.706"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6323" DisplayName="芭儿" NpcType="4" NpcFuncType="0" Position="X=15777.069 Y=22408.496 Z=11637.463"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6322" DisplayName="林纹" NpcType="4" NpcFuncType="4" Position="X=15777.760 Y=22205.303 Z=11637.463"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="5632" DisplayName="触龙神" NpcType="6" NpcFuncType="0" Position="X=28209.857 Y=24245.832 Z=11630.492"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6322" DisplayName="林纹" NpcType="4" NpcFuncType="4" Position="X=28586.965 Y=26276.105 Z=11727.416"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6323" DisplayName="芭儿" NpcType="4" NpcFuncType="0" Position="X=28586.535 Y=26479.299 Z=11727.416"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6302" DisplayName="送宝人偶" NpcType="4" NpcFuncType="16" Position="X=21993.850 Y=28374.781 Z=12021.707"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="5633" DisplayName="魔龙力士" NpcType="6" NpcFuncType="0" Position="X=26386.867 Y=30387.799 Z=11766.257"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="5635" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=19056.143 Y=28530.867 Z=11902.021"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="5634" DisplayName="重装使者" NpcType="6" NpcFuncType="0" Position="X=21948.594 Y=30637.521 Z=12037.785"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6308" DisplayName="李回春" NpcType="4" NpcFuncType="4" Position="X=28465.291 Y=38104.570 Z=11630.492"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6323" DisplayName="芭儿" NpcType="4" NpcFuncType="0" Position="X=28469.102 Y=38511.863 Z=11630.492"/>
+</root>

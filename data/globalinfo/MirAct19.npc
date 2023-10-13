@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6259" DisplayName="矿洞引路人" NpcType="4" NpcFuncType="16" Position="X=28528.078 Y=11525.660 Z=51245.992"/>
+</root>

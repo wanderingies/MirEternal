@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct31" ServerMapType="1">
+	<NaviPoint Name="Qst_402" DisplayName="" Position="X=27902.570 Y=37147.504 Z=6971.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="安全区" Position="X=34986.418 Y=48325.578 Z=7089.533" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_405" DisplayName="" Position="X=43287.258 Y=39117.297 Z=6698.317" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_407" DisplayName="" Position="X=35102.145 Y=61221.047 Z=9489.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="白虎堂" Position="X=35007.043 Y=64294.941 Z=9491.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

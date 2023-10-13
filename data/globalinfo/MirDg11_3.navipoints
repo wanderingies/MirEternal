@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg11_3" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至赤月峡谷东" Position="X=21797.859 Y=27347.055 Z=4333.032" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷南" Position="X=19431.852 Y=40742.973 Z=4711.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_5502" DisplayName="" Position="X=12828.247 Y=31470.555 Z=4581.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest_1826" DisplayName="地下水脉" Position="X=29786.170 Y=22940.826 Z=4581.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至左回廊" Position="X=22045.154 Y=6230.359 Z=4452.640" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至右回廊" Position="X=31287.102 Y=35779.805 Z=4313.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷北" Position="X=8407.520 Y=33139.707 Z=4581.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

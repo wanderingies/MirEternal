@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6246" DisplayName="青伊" NpcType="4" NpcFuncType="0" Position="X=15661.231 Y=23704.088 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6249" DisplayName="丶佛丶" NpcType="4" NpcFuncType="0" Position="X=19194.561 Y=24350.244 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6250" DisplayName="呂布丶" NpcType="4" NpcFuncType="0" Position="X=17832.479 Y=26615.121 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6251" DisplayName="剛哥" NpcType="4" NpcFuncType="0" Position="X=17378.961 Y=26162.514 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6247" DisplayName="搔的带感" NpcType="4" NpcFuncType="0" Position="X=20098.150 Y=25253.822 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6248" DisplayName="灬飞云灬" NpcType="4" NpcFuncType="0" Position="X=19637.443 Y=24810.467 Z=7702.556"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6258" DisplayName="籣斯" NpcType="4" NpcFuncType="0" Position="X=18291.162 Y=27069.086 Z=7702.556"/>
+</root>

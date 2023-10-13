@@ -7,48 +7,52 @@ namespace GameServer.Packs.Protocol
 {
     /// <summary>
     /// <para>上传角色位置</para>
-    /// <para>上传角色位置</para>
+    /// <para>角色状态描述</para>
     /// </summary>
     internal class x000E : Package
     {
-        #region public field
+        #region public
 
 		public UInt16 高度;
-
-        public byte[] Result;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+        public byte[] StateInfo;
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x000E;
-        public ushort Size => 10;        
+        public ushort Size => 10;     
+        public ushort rSize => 0;
         #endregion
-
+        
         public x000E() 
         {
-            Result = new byte[] { 0 };
+            StateInfo = new byte[] { 0 };
         }
-        
-        #region private field
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            byteBlock.Write(Result);
+            byteBlock.Write(StateInfo);
             return byteBlock;
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			高度 = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x002E : Package
     {
-        #region public field
+        #region public
 
 		public Byte 当前背包;
 		public Byte 物品位置;
@@ -20,20 +20,30 @@ namespace GameServer.Packs.Protocol
 		public UInt16 拆分数量;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x002E;
-        public ushort Size => 8;        
+        public ushort Size => 8;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x002E() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -43,12 +53,12 @@ namespace GameServer.Packs.Protocol
 			目标背包 = byteBlock.ReadByte();
 			目标位置 = byteBlock.ReadByte();
 			拆分数量 = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_4" Position="X=22068.730 Y=5894.958 Z=4410.031" Radius="384" DisplayName="左回廊"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=22083.230 Y=6442.292 Z=4407.000" DisplayName="赤月峡谷广场" Radius="600.000000" Rotation="16388" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_5" Position="X=8429.700 Y=33304.047 Z=4549.149" Radius="384" DisplayName="赤月峡谷北"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=8429.980 Y=32756.986 Z=4533.000" DisplayName="赤月峡谷广场" Radius="600.000000" Rotation="49060" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_6" Position="X=19628.949 Y=40726.574 Z=4674.294" Radius="384" DisplayName="赤月峡谷南"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=19091.340 Y=40730.480 Z=4663.499" DisplayName="赤月峡谷广场" Radius="600.000000" Rotation="32772" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_7" Position="X=21985.045 Y=27338.506 Z=4296.667" Radius="384" DisplayName="赤月峡谷东"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=21428.125 Y=27340.549 Z=4282.228" DisplayName="赤月峡谷广场" Radius="600.000000" Rotation="32856" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_1" Position="X=31511.865 Y=35767.672 Z=4270.978" Radius="384" DisplayName="右回廊"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=30950.566 Y=35756.078 Z=4265.000" DisplayName="赤月峡谷广场" Radius="600.000000" Rotation="32780" NpcId="0"/>
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=25000.000 Y=40000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_15" DisplayName="肉铺" Priority="1" IsNeedShowInUI="0" MinPos="X=9356.218 Y=5373.792 Z=-1142.903" MaxPos="X=13452.218 Y=9469.793 Z=2953.097" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.114286" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="8.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

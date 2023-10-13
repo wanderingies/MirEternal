@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=20000.000 Y=20000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_0" Position="X=8224.319 Y=10247.544 Z=4283.322" DisplayName="随机长廊" Radius="1.000000" Rotation="7916" NpcId="0"/>
+</root>

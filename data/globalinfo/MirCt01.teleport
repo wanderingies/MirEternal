@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=52145.602 Y=25981.361 Z=6163.657" Radius="384" DisplayName="盟重省"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=52134.883 Y=26705.988 Z=6155.179" DisplayName="沙巴克" Radius="1000.000000" Rotation="16360" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_3" Position="X=61720.594 Y=64184.273 Z=6185.103" Radius="384" DisplayName="盟重省"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=61194.555 Y=64542.016 Z=6213.410" DisplayName="沙巴克" Radius="1000.000000" Rotation="32216" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=51132.773 Y=48505.801 Z=6363.609" Radius="384" DisplayName="秘密通道"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=51686.180 Y=48518.730 Z=6392.461" DisplayName="沙巴克" Radius="1000.000000" Rotation="65252" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_5" Position="X=58461.176 Y=39915.223 Z=6357.804" Radius="384" DisplayName="秘密通道"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=58204.957 Y=40360.570 Z=6392.451" DisplayName="沙巴克" Radius="1000.000000" Rotation="16748" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_2" Position="X=60455.113 Y=39919.320 Z=6350.215" Radius="384" DisplayName="秘密通道"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=61007.242 Y=39920.891 Z=6392.460" DisplayName="沙巴克" Radius="1000.000000" Rotation="49152" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=47439.469 Y=51679.266 Z=6369.345" DisplayName="沙巴克" Radius="0.000000" Rotation="32584" NpcId="0"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_6" Position="X=47960.262 Y=51680.480 Z=6428.755" Radius="384" DisplayName="沙巴克书店"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_7" Position="X=45528.871 Y=114036.938 Z=4802.627" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=46147.344 Y=113955.039 Z=4798.213" DisplayName="沙巴克书店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=45261.277 Y=138021.500 Z=4785.349" DisplayName="沙巴克药店" Radius="0.000000" Rotation="57176" NpcId="0"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_9" Position="X=44891.824 Y=138385.531 Z=4787.773" Radius="384" DisplayName="沙巴克"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_10" Position="X=47962.391 Y=48967.289 Z=6435.742" Radius="384" DisplayName="沙巴克药店"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=47423.512 Y=48968.328 Z=6373.645" DisplayName="沙巴克" Radius="0.000000" Rotation="33100" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_20" Position="X=47435.090 Y=43358.793 Z=6352.100" DisplayName="沙巴克" Radius="0.000000" Rotation="32768" NpcId="0"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_20" Position="X=47974.094 Y=43347.926 Z=6413.074" Radius="384" DisplayName="沙巴克仓库"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=45608.551 Y=124637.039 Z=4747.454" DisplayName="沙巴克仓库" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_12" Position="X=45061.898 Y=124629.945 Z=4752.434" Radius="384" DisplayName="沙巴克"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_0" Position="X=44875.766 Y=147073.125 Z=4960.351" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=45338.031 Y=147359.141 Z=4942.468" DisplayName="沙巴克服装店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_17" Position="X=49596.453 Y=48973.551 Z=6359.671" DisplayName="沙巴克" Radius="0.000000" Rotation="32648" NpcId="0"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_14" Position="X=50145.023 Y=48967.113 Z=6430.643" Radius="384" DisplayName="沙巴克服装店"/>
+		<TeleportTarget Name="TeleportTarget_18" Position="X=34031.633 Y=67057.898 Z=6154.657" DisplayName="沙巴克" Radius="0.000000" Rotation="48952" NpcId="0"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_17" Position="X=34036.148 Y=67610.414 Z=6153.700" Radius="384" DisplayName="祖玛寺长廊"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_8" Position="X=44882.719 Y=159208.672 Z=5023.453" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=45425.707 Y=159203.688 Z=5078.530" DisplayName="沙巴克服装店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_15" Position="X=45694.070 Y=170879.375 Z=5309.059" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=46061.629 Y=170523.828 Z=5328.958" DisplayName="沙巴克牢房" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_16" Position="X=45253.957 Y=183466.656 Z=5328.822" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=45615.316 Y=183830.516 Z=5328.892" DisplayName="沙巴克武器店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_13" Position="X=45617.020 Y=196497.547 Z=5550.759" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=46160.301 Y=196498.406 Z=5550.823" DisplayName="沙巴克首饰店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_19" Position="X=47444.332 Y=40639.254 Z=6352.100" DisplayName="沙巴克" Radius="0.000000" Rotation="32752" NpcId="0"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_19" Position="X=47963.805 Y=40635.152 Z=6406.363" Radius="384" DisplayName="沙巴克杂货铺"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=49601.242 Y=40634.672 Z=6352.100" DisplayName="沙巴克" Radius="0.000000" Rotation="32448" NpcId="0"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_11" Position="X=50137.266 Y=40634.109 Z=6365.471" Radius="384" DisplayName="沙巴克牢房"/>
+		<TeleportTarget Name="TeleportTarget_21" Position="X=49610.961 Y=43350.137 Z=6352.100" DisplayName="沙巴克" Radius="0.000000" Rotation="32448" NpcId="0"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_21" Position="X=50144.449 Y=43345.570 Z=6362.565" Radius="384" DisplayName="沙巴克武器店"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=49417.910 Y=51674.633 Z=6352.100" DisplayName="沙巴克" Radius="0.000000" Rotation="32448" NpcId="0"/>
+		<TeleportOrig ServerID="22" Name="TeleportOrig_18" Position="X=50117.336 Y=51676.270 Z=6399.420" Radius="384" DisplayName="沙巴克首饰店"/>
+</root>

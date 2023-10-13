@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct07" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="休息区" Position="X=10112.973 Y=26019.508 Z=12210.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="中心区" Position="X=22005.533 Y=28384.117 Z=11992.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="困兽牢笼" Position="X=27984.559 Y=38337.133 Z=11990.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="绝境之地" Position="X=15878.836 Y=22554.660 Z=11990.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_5510" DisplayName="" Position="X=18080.080 Y=28700.256 Z=11728.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_5509" DisplayName="" Position="X=19678.678 Y=28700.256 Z=12004.441" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

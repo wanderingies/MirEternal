@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=26000.000 Y=26000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_3" Position="X=18403.883 Y=15884.914 Z=8195.054" Radius="400" DisplayName="至尸魔洞二层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=17992.617 Y=15283.395 Z=8430.358" DisplayName="至尸魔洞三层" Radius="600.000000" Rotation="0" NpcId="0"/>
+</root>

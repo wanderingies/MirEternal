@@ -11,36 +11,46 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x00FC : Package
     {
-        #region public field
+        #region public
 
 		public Int32 U1;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x00FC;
-        public ushort Size => 0;        
+        public ushort Size => 0;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x00FC() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			U1 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

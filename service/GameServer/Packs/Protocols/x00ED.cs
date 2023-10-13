@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x00ED : Package
     {
-        #region public field
+        #region public
 
 		public Int32 对象编号;
 		public Byte 组队方式;
 		public Byte 回应方式;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x00ED;
-        public ushort Size => 8;        
+        public ushort Size => 8;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x00ED() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			对象编号 = byteBlock.ReadInt32();
 			组队方式 = byteBlock.ReadByte();
 			回应方式 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6851" DisplayName="龙火" NpcType="4" NpcFuncType="0" Position="X=48813.379 Y=42530.266 Z=9333.026"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6852" DisplayName="元飞" NpcType="4" NpcFuncType="0" Position="X=23617.906 Y=49246.320 Z=9113.026"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48977.496 Y=47787.637 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48070.141 Y=48502.598 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6724" DisplayName="弓箭卫士" NpcType="4" NpcFuncType="0" Position="X=48607.508 Y=42173.426 Z=9332.927"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6724" DisplayName="弓箭卫士" NpcType="4" NpcFuncType="0" Position="X=48607.977 Y=42902.348 Z=9332.927"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=42618.848 Y=41992.422 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=42636.328 Y=43083.902 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48968.297 Y=37105.316 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48063.145 Y=37105.473 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48969.133 Y=36388.773 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48063.289 Y=36382.188 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6223" DisplayName="炎伯" NpcType="4" NpcFuncType="4" Position="X=45801.859 Y=44794.996 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=43263.621 Y=42086.996 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=43265.563 Y=42992.637 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="6235" DisplayName="墨香" NpcType="4" NpcFuncType="16" Position="X=47338.320 Y=42538.324 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="6724" DisplayName="弓箭卫士" NpcType="4" NpcFuncType="0" Position="X=23983.939 Y=49418.277 Z=9141.477"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="6724" DisplayName="弓箭卫士" NpcType="4" NpcFuncType="0" Position="X=23269.508 Y=49418.277 Z=9141.477"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="6236" DisplayName="墨灵" NpcType="4" NpcFuncType="16" Position="X=46610.797 Y=43263.688 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6222" DisplayName="玉阴子" NpcType="4" NpcFuncType="4" Position="X=47972.637 Y=44983.305 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6225" DisplayName="优姬" NpcType="4" NpcFuncType="4" Position="X=50235.375 Y=44892.793 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6221" DisplayName="洪力" NpcType="4" NpcFuncType="4" Position="X=45797.832 Y=40452.637 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6219" DisplayName="三彩" NpcType="4" NpcFuncType="4" Position="X=47972.637 Y=40276.801 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6216" DisplayName="萍儿" NpcType="4" NpcFuncType="8" Position="X=50141.723 Y=40273.648 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48975.957 Y=48510.930 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=48072.328 Y=47786.055 Z=9322.496"/>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct39_1" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="西据点" Position="X=57850.980 Y=40239.750 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="北据点" Position="X=58082.074 Y=52190.105 Z=6393.338" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="东据点" Position="X=47786.789 Y=52190.105 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="东传送点" Position="X=39722.109 Y=59514.461 Z=6284.940" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="北传送点" Position="X=66467.148 Y=59472.820 Z=6292.554" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="西传送点" Position="X=66467.148 Y=32718.850 Z=6289.919" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="南传送点" Position="X=39722.109 Y=32718.850 Z=6274.216" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="皇宫" Position="X=53102.578 Y=46168.117 Z=6615.639" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="南据点" Position="X=47741.555 Y=40253.980 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

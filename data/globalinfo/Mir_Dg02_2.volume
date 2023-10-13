@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=63233.000 Y=62000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="石墓三层" Priority="1" ReuseMapVolumeName="" MinPos="X=7296.000 Y=12624.000 Z=-23296.000" MaxPos="X=68736.000 Y=74064.000 Z=38144.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="120.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_16" TemplateID="8471" DisplayName="卫兵" NpcType="4" NpcFuncType="0" Position="X=15506.922 Y=13450.356 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6742" DisplayName="小飞" NpcType="4" NpcFuncType="0" Position="X=19515.785 Y=14664.106 Z=51273.996"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="8471" DisplayName="卫兵" NpcType="4" NpcFuncType="0" Position="X=15490.000 Y=12160.000 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="8470" DisplayName="流浪武士" NpcType="4" NpcFuncType="0" Position="X=45568.000 Y=10816.000 Z=50777.961"/>
+	<NPC Name="NPCServerInstance_32" TemplateID="6741" DisplayName="飞虎" NpcType="4" NpcFuncType="0" Position="X=20492.416 Y=14599.094 Z=51273.996"/>
+	<NPC Name="NPCServerInstance_36" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=18391.133 Y=22909.328 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_37" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=18861.395 Y=20522.127 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_38" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=19225.984 Y=21326.600 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_39" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=18526.158 Y=21970.852 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_40" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=19152.572 Y=25310.555 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_41" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=15410.434 Y=31501.020 Z=51463.203"/>
+	<NPC Name="NPCServerInstance_42" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=18306.125 Y=23733.156 Z=51264.000"/>
+	<NPC Name="NPCServerInstance_43" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=17274.709 Y=23755.309 Z=51463.203"/>
+	<NPC Name="NPCServerInstance_44" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=16330.799 Y=22377.863 Z=51247.996"/>
+	<NPC Name="NPCServerInstance_45" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=14236.263 Y=24334.447 Z=51449.992"/>
+	<NPC Name="NPCServerInstance_46" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=13757.140 Y=25400.297 Z=51213.996"/>
+	<NPC Name="NPCServerInstance_47" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=14228.777 Y=26652.443 Z=51217.996"/>
+	<NPC Name="NPCServerInstance_48" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=14794.251 Y=26448.893 Z=51238.723"/>
+	<NPC Name="NPCServerInstance_49" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=14352.218 Y=27632.650 Z=51257.996"/>
+	<NPC Name="NPCServerInstance_52" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=16499.459 Y=28699.080 Z=51280.070"/>
+	<NPC Name="NPCServerInstance_53" TemplateID="8478" DisplayName="变异矿工尸体" NpcType="5" NpcFuncType="0" Position="X=16595.240 Y=27348.295 Z=51263.176"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="8469" DisplayName="金不换" NpcType="4" NpcFuncType="0" Position="X=20583.543 Y=13707.023 Z=51264.000"/>
+</root>

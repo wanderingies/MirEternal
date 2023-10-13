@@ -11,35 +11,45 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0262 : Package
     {
-        #region public field
+        #region public
 
 		public String Code;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0262;
-        public ushort Size => 9;        
+        public ushort Size => 9;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0262() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

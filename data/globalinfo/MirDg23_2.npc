@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_7" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=29093.008 Y=10692.996 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=29093.008 Y=29840.229 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=23489.795 Y=19148.691 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=13977.538 Y=28860.861 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=12257.167 Y=16846.949 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6422" DisplayName="天师之影" NpcType="4" NpcFuncType="16" Position="X=19269.795 Y=22076.689 Z=5571.264"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6421" DisplayName="通灵古椁" NpcType="4" NpcFuncType="16" Position="X=34807.035 Y=33320.496 Z=5571.906"/>
+</root>

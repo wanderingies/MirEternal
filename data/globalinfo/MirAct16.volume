@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=40000.000 Y=40000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="老者小屋" Priority="1" ReuseMapVolumeName="" MinPos="X=18431.236 Y=19743.785 Z=7231.999" MaxPos="X=24575.236 Y=25887.785 Z=13375.999" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.171429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="12.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

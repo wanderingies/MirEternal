@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_3" DisplayName="虫谷密林" Priority="1" ReuseMapVolumeName="" MinPos="X=3848.041 Y=1729.314 Z=-18002.518" MaxPos="X=48904.039 Y=46785.313 Z=27053.482" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="88.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

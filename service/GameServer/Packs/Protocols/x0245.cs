@@ -11,36 +11,46 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0245 : Package
     {
-        #region public field
+        #region public
 
 		public Int32 活动编号;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0245;
-        public ushort Size => 6;        
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0245() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			活动编号 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

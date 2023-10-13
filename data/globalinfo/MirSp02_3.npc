@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_6" TemplateID="6532" DisplayName="百师" NpcType="4" NpcFuncType="20" Position="X=21473.633 Y=28421.977 Z=12771.032"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="7131" DisplayName="镇魔守卫" NpcType="4" NpcFuncType="0" Position="X=28418.238 Y=38673.707 Z=29900.002"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6533" DisplayName="香毒" NpcType="4" NpcFuncType="20" Position="X=21476.484 Y=28193.283 Z=12771.032"/>
+</root>

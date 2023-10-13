@@ -11,38 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0049 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 装备类型;
 		public Byte 装备位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0049;
-        public ushort Size => 4;        
+        public ushort Size => 4;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0049() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			装备类型 = byteBlock.ReadByte();
 			装备位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=120000.000 Y=120000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_36" Position="X=10148.729 Y=9679.249 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_36" Position="X=10197.175 Y=8899.791 Z=7749.628" Radius="384" DisplayName="虹魔教坛"/>
+		<TeleportTarget Name="TeleportTarget_37" Position="X=11488.237 Y=10857.798 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_37" Position="X=12164.707 Y=10840.014 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_38" Position="X=10147.294 Y=12221.987 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_38" Position="X=10110.715 Y=12867.510 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_39" Position="X=8801.122 Y=10865.978 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_39" Position="X=8112.423 Y=10839.673 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_40" Position="X=30596.941 Y=9692.126 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_40" Position="X=30603.797 Y=8874.484 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_41" Position="X=31943.396 Y=10867.061 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_41" Position="X=32601.605 Y=10840.017 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_42" Position="X=30517.295 Y=12126.272 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_42" Position="X=30531.324 Y=12878.764 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_43" Position="X=29246.443 Y=10858.608 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_43" Position="X=28532.961 Y=10829.798 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_44" Position="X=51136.719 Y=9606.465 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_44" Position="X=51136.129 Y=8882.584 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_45" Position="X=52394.730 Y=10871.128 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_45" Position="X=53119.805 Y=10851.064 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_46" Position="X=51055.289 Y=12217.534 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_46" Position="X=51041.965 Y=12880.814 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_47" Position="X=49679.051 Y=10862.474 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_47" Position="X=49014.395 Y=10859.815 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_48" Position="X=71587.477 Y=9590.338 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_48" Position="X=71594.805 Y=8892.418 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_49" Position="X=73023.445 Y=10852.997 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_49" Position="X=73538.883 Y=10815.271 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_50" Position="X=71501.688 Y=12218.229 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_50" Position="X=71491.391 Y=12866.226 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_51" Position="X=70325.203 Y=10853.018 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_51" Position="X=69491.516 Y=10834.236 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_52" Position="X=92040.156 Y=9781.433 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_52" Position="X=92051.242 Y=8872.211 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_53" Position="X=93308.164 Y=10856.109 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_53" Position="X=94035.859 Y=10837.481 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_54" Position="X=91967.359 Y=12226.666 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_54" Position="X=91971.734 Y=12852.664 Z=7770.417" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_55" Position="X=90610.102 Y=10866.024 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_55" Position="X=89948.883 Y=10840.640 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_56" Position="X=10139.589 Y=30145.316 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_56" Position="X=10187.168 Y=29364.156 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_57" Position="X=11337.304 Y=31320.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_58" Position="X=10045.688 Y=32494.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_59" Position="X=8964.584 Y=31416.656 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_60" Position="X=30593.717 Y=30139.549 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="22" Name="TeleportOrig_60" Position="X=30626.152 Y=29387.934 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_61" Position="X=31949.404 Y=31325.119 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="23" Name="TeleportOrig_61" Position="X=32594.752 Y=31304.264 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_62" Position="X=30500.283 Y=32580.734 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="24" Name="TeleportOrig_62" Position="X=30509.164 Y=33353.883 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_63" Position="X=29234.670 Y=31306.400 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="25" Name="TeleportOrig_63" Position="X=28532.693 Y=31314.646 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_64" Position="X=51130.219 Y=30061.027 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="26" Name="TeleportOrig_64" Position="X=51147.930 Y=29382.340 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_65" Position="X=52395.145 Y=31310.570 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="27" Name="TeleportOrig_65" Position="X=53111.523 Y=31317.293 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_66" Position="X=51051.461 Y=32668.746 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="28" Name="TeleportOrig_66" Position="X=51034.105 Y=33338.414 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_67" Position="X=49707.008 Y=31313.730 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="29" Name="TeleportOrig_67" Position="X=49048.828 Y=31317.520 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_68" Position="X=71599.406 Y=30052.389 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="30" Name="TeleportOrig_68" Position="X=71591.367 Y=29363.732 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_69" Position="X=72869.727 Y=31312.340 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="31" Name="TeleportOrig_69" Position="X=73535.570 Y=31315.336 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_70" Position="X=71503.680 Y=32499.496 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="32" Name="TeleportOrig_70" Position="X=71491.289 Y=33338.766 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_71" Position="X=70144.813 Y=31318.225 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="33" Name="TeleportOrig_71" Position="X=69495.625 Y=31304.660 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_72" Position="X=92050.523 Y=30248.588 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="34" Name="TeleportOrig_72" Position="X=92049.086 Y=29357.314 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_73" Position="X=93505.273 Y=31320.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="35" Name="TeleportOrig_73" Position="X=94036.078 Y=31301.389 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_74" Position="X=91965.711 Y=32666.676 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="36" Name="TeleportOrig_74" Position="X=91971.289 Y=33330.367 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_75" Position="X=90773.633 Y=31316.227 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="37" Name="TeleportOrig_75" Position="X=89982.695 Y=31312.246 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_76" Position="X=10143.973 Y=50602.777 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="38" Name="TeleportOrig_76" Position="X=10186.854 Y=49848.242 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_77" Position="X=11337.304 Y=51800.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_78" Position="X=10045.688 Y=52974.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_79" Position="X=8964.584 Y=51896.656 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_80" Position="X=30600.041 Y=50600.984 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="39" Name="TeleportOrig_80" Position="X=30621.789 Y=49855.293 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_81" Position="X=31934.080 Y=51776.691 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="40" Name="TeleportOrig_81" Position="X=32591.486 Y=51787.602 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_82" Position="X=30587.975 Y=53130.066 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="41" Name="TeleportOrig_82" Position="X=30530.633 Y=53834.770 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_83" Position="X=29313.391 Y=51856.445 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="42" Name="TeleportOrig_83" Position="X=28533.393 Y=51792.512 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_84" Position="X=51110.102 Y=50457.891 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="43" Name="TeleportOrig_84" Position="X=51116.289 Y=49855.977 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_85" Position="X=52297.301 Y=51800.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="44" Name="TeleportOrig_85" Position="X=53098.273 Y=51800.020 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_86" Position="X=51005.688 Y=52974.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="45" Name="TeleportOrig_86" Position="X=51030.891 Y=53833.227 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_87" Position="X=49736.766 Y=51784.766 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="46" Name="TeleportOrig_87" Position="X=49051.035 Y=51798.551 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_88" Position="X=71597.570 Y=50689.684 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="47" Name="TeleportOrig_88" Position="X=71581.828 Y=49856.246 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_89" Position="X=72866.203 Y=51777.094 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="48" Name="TeleportOrig_89" Position="X=73537.820 Y=51793.699 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_90" Position="X=71505.430 Y=53132.516 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="49" Name="TeleportOrig_90" Position="X=71483.844 Y=53824.621 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_91" Position="X=70145.336 Y=51778.813 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="50" Name="TeleportOrig_91" Position="X=69496.891 Y=51802.379 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_92" Position="X=92052.484 Y=50512.867 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="51" Name="TeleportOrig_92" Position="X=92060.609 Y=49873.473 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_93" Position="X=93414.445 Y=51852.426 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="52" Name="TeleportOrig_93" Position="X=94021.469 Y=51800.016 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_94" Position="X=91965.711 Y=53120.469 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="53" Name="TeleportOrig_94" Position="X=91970.531 Y=53817.211 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_95" Position="X=90588.102 Y=51781.898 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="54" Name="TeleportOrig_95" Position="X=89978.977 Y=51812.223 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_96" Position="X=10062.906 Y=71267.211 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_97" Position="X=11337.304 Y=72280.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="55" Name="TeleportOrig_97" Position="X=12168.212 Y=72299.453 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_98" Position="X=10045.688 Y=73454.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_99" Position="X=8964.584 Y=72376.656 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_100" Position="X=30602.232 Y=71039.727 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="56" Name="TeleportOrig_100" Position="X=30627.447 Y=70348.633 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_101" Position="X=31860.152 Y=72309.711 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="57" Name="TeleportOrig_101" Position="X=32604.957 Y=72291.109 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_102" Position="X=30601.508 Y=73586.219 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="58" Name="TeleportOrig_102" Position="X=30530.805 Y=74325.063 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_103" Position="X=29329.211 Y=72314.016 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="59" Name="TeleportOrig_103" Position="X=28528.223 Y=72289.766 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=51138.734 Y=71143.109 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="60" Name="TeleportOrig_104" Position="X=51113.551 Y=70347.148 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_105" Position="X=52324.875 Y=72321.406 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="61" Name="TeleportOrig_105" Position="X=53098.133 Y=72296.641 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_106" Position="X=51044.242 Y=73580.305 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="62" Name="TeleportOrig_106" Position="X=51025.609 Y=74315.391 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_107" Position="X=49782.617 Y=72319.117 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="63" Name="TeleportOrig_107" Position="X=49058.180 Y=72294.148 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_108" Position="X=71592.672 Y=71147.547 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="64" Name="TeleportOrig_108" Position="X=71579.781 Y=70349.383 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_109" Position="X=72941.656 Y=72306.828 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="65" Name="TeleportOrig_109" Position="X=73551.578 Y=72286.828 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_110" Position="X=71505.516 Y=73588.664 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="66" Name="TeleportOrig_110" Position="X=71490.859 Y=74315.313 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_111" Position="X=70157.875 Y=72233.258 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="67" Name="TeleportOrig_111" Position="X=69479.891 Y=72290.664 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_112" Position="X=91965.344 Y=71058.828 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="68" Name="TeleportOrig_112" Position="X=92019.383 Y=70374.078 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_113" Position="X=93257.297 Y=72280.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_114" Position="X=91965.688 Y=73578.039 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="69" Name="TeleportOrig_114" Position="X=91970.859 Y=74311.391 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_115" Position="X=90506.039 Y=72309.188 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="70" Name="TeleportOrig_115" Position="X=89973.070 Y=72303.406 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_116" Position="X=10062.906 Y=91747.203 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_117" Position="X=11337.304 Y=92760.031 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="71" Name="TeleportOrig_117" Position="X=12167.639 Y=92783.023 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_118" Position="X=10045.688 Y=93934.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_119" Position="X=8964.584 Y=92856.656 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_120" Position="X=30594.576 Y=91506.078 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="72" Name="TeleportOrig_120" Position="X=30609.473 Y=90834.477 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_121" Position="X=32069.898 Y=92760.031 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="73" Name="TeleportOrig_121" Position="X=32593.256 Y=92780.406 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_122" Position="X=30525.688 Y=94141.047 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="74" Name="TeleportOrig_122" Position="X=30539.314 Y=94814.391 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_123" Position="X=29226.434 Y=92856.664 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="75" Name="TeleportOrig_123" Position="X=28539.486 Y=92788.367 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_124" Position="X=51139.797 Y=91604.625 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="76" Name="TeleportOrig_124" Position="X=51131.176 Y=90827.953 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_125" Position="X=52314.402 Y=92768.586 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="77" Name="TeleportOrig_125" Position="X=53089.840 Y=92782.023 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_126" Position="X=51048.461 Y=94034.164 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="78" Name="TeleportOrig_126" Position="X=51045.094 Y=94798.914 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_127" Position="X=49712.371 Y=92804.289 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="79" Name="TeleportOrig_127" Position="X=49049.023 Y=92781.133 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_128" Position="X=71594.219 Y=91602.320 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="80" Name="TeleportOrig_128" Position="X=71570.891 Y=90828.391 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_129" Position="X=72956.844 Y=92769.469 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="81" Name="TeleportOrig_129" Position="X=73552.641 Y=92780.766 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_130" Position="X=71501.430 Y=94038.320 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="82" Name="TeleportOrig_130" Position="X=71490.844 Y=94816.859 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_131" Position="X=70237.641 Y=92771.609 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="83" Name="TeleportOrig_131" Position="X=69468.453 Y=92782.516 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_132" Position="X=92058.320 Y=91608.195 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="84" Name="TeleportOrig_132" Position="X=92049.602 Y=90839.414 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_133" Position="X=93403.930 Y=92776.313 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="85" Name="TeleportOrig_133" Position="X=94023.180 Y=92760.016 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_134" Position="X=91965.688 Y=94215.258 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="86" Name="TeleportOrig_134" Position="X=91970.844 Y=94804.086 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_135" Position="X=90510.203 Y=92775.086 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="87" Name="TeleportOrig_135" Position="X=89972.313 Y=92771.680 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_24" Position="X=30542.906 Y=112227.203 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="88" Name="TeleportOrig_24" Position="X=30600.725 Y=111302.555 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_25" Position="X=31817.301 Y=113240.031 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="89" Name="TeleportOrig_25" Position="X=32596.344 Y=113261.438 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_26" Position="X=30525.688 Y=114414.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="90" Name="TeleportOrig_26" Position="X=30532.227 Y=115291.508 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_27" Position="X=29444.582 Y=113336.656 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="91" Name="TeleportOrig_27" Position="X=28534.422 Y=113257.070 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_28" Position="X=51141.484 Y=112062.359 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="92" Name="TeleportOrig_28" Position="X=51134.184 Y=111311.164 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_29" Position="X=52398.523 Y=113315.211 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="93" Name="TeleportOrig_29" Position="X=53098.570 Y=113260.477 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_30" Position="X=51054.840 Y=114674.625 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="94" Name="TeleportOrig_30" Position="X=51045.539 Y=115282.242 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_31" Position="X=49794.445 Y=113229.688 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="95" Name="TeleportOrig_31" Position="X=49066.031 Y=113259.266 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_32" Position="X=71597.773 Y=112059.117 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="96" Name="TeleportOrig_32" Position="X=71585.945 Y=111309.234 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_33" Position="X=72947.500 Y=113233.563 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="97" Name="TeleportOrig_33" Position="X=73557.297 Y=113240.016 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_34" Position="X=71511.563 Y=114500.508 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="98" Name="TeleportOrig_34" Position="X=71492.203 Y=115292.922 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_35" Position="X=70241.953 Y=113236.031 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="99" Name="TeleportOrig_35" Position="X=69502.305 Y=113247.398 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=92047.258 Y=112062.406 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="100" Name="TeleportOrig_1" Position="X=92046.461 Y=111326.727 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=93404.094 Y=113231.547 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="32776" NpcId="0"/>
+		<TeleportOrig ServerID="101" Name="TeleportOrig_2" Position="X=94017.523 Y=113240.016 Z=7749.622" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=91965.688 Y=114679.734 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="49404" NpcId="0"/>
+		<TeleportOrig ServerID="102" Name="TeleportOrig_3" Position="X=91972.203 Y=115287.336 Z=7749.626" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=90695.430 Y=113237.891 Z=7688.750" DisplayName="石墓阵" Radius="512.000000" Rotation="304" NpcId="0"/>
+		<TeleportOrig ServerID="103" Name="TeleportOrig_0" Position="X=89969.203 Y=113263.359 Z=7749.628" Radius="384" DisplayName="石墓阵"/>
+</root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg02_6" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=45619.480 Y=31589.967 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=20884.877 Y=33675.977 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Quest17262" DisplayName="" Position="X=33622.293 Y=23135.145 Z=7714.147" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest1726" DisplayName="" Position="X=32514.959 Y=23323.918 Z=7731.486" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=32537.406 Y=41518.512 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至石墓阵" Position="X=32301.928 Y=21376.420 Z=7715.340" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

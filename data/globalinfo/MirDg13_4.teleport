@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=43000.000 Y=49000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_15" Position="X=30050.250 Y=16217.548 Z=8197.892" Radius="384" DisplayName="至骨魔洞三层"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=29512.369 Y=15114.999 Z=8195.525" DisplayName="至骨魔洞四层" Radius="800.000000" Rotation="40672" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_16" Position="X=20777.299 Y=41331.250 Z=8194.190" Radius="384" DisplayName="至骨魔洞五层"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=19918.848 Y=40468.594 Z=8195.886" DisplayName="至骨魔洞四层" Radius="800.000000" Rotation="41280" NpcId="0"/>
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=7000.000 Y=7000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_16" DisplayName="询问室" Priority="1" ReuseMapVolumeName="" MinPos="X=275.623 Y=467.479 Z=-8765.974" MaxPos="X=6419.623 Y=6611.479 Z=6234.026" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.171429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="11.999999" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

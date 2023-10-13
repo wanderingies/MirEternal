@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg07_7" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至祖玛大厅西" Position="X=24754.395 Y=116078.648 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅西" Position="X=24120.826 Y=96981.109 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅" Position="X=27967.486 Y=91867.313 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛教主之家" Position="X=25478.471 Y=70371.266 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅南" Position="X=24573.375 Y=61275.043 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅南" Position="X=23758.787 Y=38014.059 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅" Position="X=27605.449 Y=32809.754 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛阁" Position="X=26881.426 Y=9381.561 Z=4052.805" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅东" Position="X=22898.945 Y=11723.592 Z=4052.801" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛教主之家" Position="X=25478.471 Y=179163.891 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅东" Position="X=24573.375 Y=170067.656 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅东" Position="X=23532.514 Y=147757.031 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅" Position="X=27333.920 Y=142688.484 Z=4801.898" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛教主之家" Position="X=25704.746 Y=124993.852 Z=5570.925" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_1806XunLu" DisplayName="" Position="X=21022.275 Y=9449.663 Z=4052.805" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅西" Position="X=22898.945 Y=7059.754 Z=4052.744" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛大厅南" Position="X=19289.229 Y=9384.093 Z=4052.779" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

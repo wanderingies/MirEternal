@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=42000.000 Y=42000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=34598.402 Y=14931.180 Z=9140.144" Radius="384" DisplayName="至魔龙东郊"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=33752.055 Y=15564.463 Z=9145.927" DisplayName="至东林间胜地" Radius="800.000000" Rotation="24320" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=17558.156 Y=31408.219 Z=9361.104" Radius="384" DisplayName="至魔龙旧寨"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=17473.840 Y=30231.055 Z=9337.927" DisplayName="至东林间胜地" Radius="800.000000" Rotation="50656" NpcId="0"/>
+</root>

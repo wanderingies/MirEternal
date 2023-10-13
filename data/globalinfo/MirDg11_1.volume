@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_2" DisplayName="赤月峡谷南" Priority="1" ReuseMapVolumeName="" MinPos="X=4436.885 Y=1237.951 Z=-13342.000" MaxPos="X=39252.883 Y=36053.953 Z=21474.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.971429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="68.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

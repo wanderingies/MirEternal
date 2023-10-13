@@ -11,38 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0247 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 回应类型;
 		public Int32 行会编号;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0247;
-        public ushort Size => 7;        
+        public ushort Size => 7;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0247() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			回应类型 = byteBlock.ReadByte();
 			行会编号 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

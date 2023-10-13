@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_7" ServerMapType="1">
+	<NaviPoint Name="molongzhaozhe2" DisplayName="至西林间胜地" Position="X=42159.754 Y=13309.518 Z=16551.869" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongzhaozhe1" DisplayName="至魔龙岭" Position="X=41625.043 Y=58404.258 Z=16578.654" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest1853" DisplayName="枯萎之角" Position="X=21164.676 Y=35846.469 Z=16599.869" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_5504" DisplayName="" Position="X=35371.277 Y=50598.727 Z=16591.869" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

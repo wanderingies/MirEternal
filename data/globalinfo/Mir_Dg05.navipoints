@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg05" ServerMapType="1">
+	<NaviPoint Name="Qst_ShiTu" DisplayName="" Position="X=43890.223 Y=58526.918 Z=19988.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_hunt_1908" DisplayName="" Position="X=62317.637 Y=46948.871 Z=19818.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至沃玛寺庙二层" Position="X=60369.949 Y=46816.125 Z=19780.598" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="西南长廊" Position="X=52767.137 Y=27922.232 Z=19261.754" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至沃玛森林" Position="X=56093.367 Y=78109.844 Z=19145.844" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至沃玛寺庙一层" Position="X=64627.012 Y=77206.719 Z=19848.650" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至沃玛寺庙入口" Position="X=40299.430 Y=49384.336 Z=19988.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至暗影通道一" Position="X=45062.500 Y=26496.705 Z=19624.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_1564" DisplayName="" Position="X=59553.637 Y=77896.531 Z=19146.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="XNCL" DisplayName="" Position="X=54100.406 Y=32295.029 Z=19628.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

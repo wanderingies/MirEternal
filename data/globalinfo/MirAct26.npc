@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="5637" DisplayName="熔岩巨兽" NpcType="6" NpcFuncType="0" Position="X=18004.609 Y=47362.293 Z=5035.000"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6348" DisplayName="小诗" NpcType="4" NpcFuncType="4" Position="X=16201.243 Y=29871.160 Z=6449.694"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6349" DisplayName="娇儿" NpcType="4" NpcFuncType="20" Position="X=15659.323 Y=29864.771 Z=6431.267"/>
+</root>

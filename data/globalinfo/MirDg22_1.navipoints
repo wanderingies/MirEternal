@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg22_1" ServerMapType="1">
+	<NaviPoint Name="Quest_Mage" DisplayName="" Position="X=20093.266 Y=20111.061 Z=8242.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至巨兽大厅" Position="X=38354.883 Y=20060.910 Z=8239.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至石原荒漠" Position="X=10578.061 Y=25956.650 Z=8248.094" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至兽人陵墓浅表" Position="X=38505.414 Y=14876.698 Z=8240.357" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_Orc" DisplayName="废弃矿区" Position="X=20830.832 Y=25956.650 Z=8242.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="右翼回廊" Position="X=23472.646 Y=37938.852 Z=8233.109" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="左翼回廊" Position="X=23472.646 Y=7936.383 Z=8243.117" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_Mineral" DisplayName="奇异晶脉" Position="X=15111.416 Y=17136.736 Z=8246.980" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

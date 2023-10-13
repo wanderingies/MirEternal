@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=60000.000 Y=60000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_2" DisplayName="幽虫洞窟" Priority="1" ReuseMapVolumeName="" MinPos="X=10177.893 Y=10240.000 Z=7168.000" MaxPos="X=51137.891 Y=51200.000 Z=48128.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="80.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

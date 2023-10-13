@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg24_2" ServerMapType="1">
+	<NaviPoint Name="Quest_AwkDaily01" DisplayName="" Position="X=14130.157 Y=29955.268 Z=9474.709" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="石原沙域" Position="X=21093.088 Y=22522.600 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_Orc" DisplayName="" Position="X=28643.252 Y=26872.180 Z=10887.580" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest_Spy" DisplayName="" Position="X=15761.710 Y=31582.344 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest_SandWorm" DisplayName="" Position="X=29581.480 Y=10377.607 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="村落废墟" Position="X=30752.717 Y=28275.523 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="烈日峡谷" Position="X=10335.039 Y=8685.826 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="大沙海" Position="X=27159.055 Y=11931.198 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_Wolf" DisplayName="" Position="X=30946.563 Y=16349.826 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="临时营地" Position="X=17204.246 Y=14582.747 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_Herb" DisplayName="" Position="X=10335.039 Y=8606.041 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="前哨营地" Position="X=15726.521 Y=26793.783 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="兽人峡谷" Position="X=11410.147 Y=27055.016 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_BOSS" DisplayName="" Position="X=21095.400 Y=22237.303 Z=11398.163" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest_Orc" DisplayName="至石原荒漠" Position="X=31872.906 Y=35065.387 Z=10887.580" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

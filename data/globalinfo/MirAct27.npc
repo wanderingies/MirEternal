@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="4775" DisplayName="练功师" NpcType="1" NpcFuncType="0" Position="X=18098.533 Y=24818.564 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6721" DisplayName="容剑" NpcType="4" NpcFuncType="4" Position="X=20467.881 Y=22657.391 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6720" DisplayName="影笑" NpcType="4" NpcFuncType="4" Position="X=19904.000 Y=23232.000 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6719" DisplayName="红芸" NpcType="4" NpcFuncType="4" Position="X=20160.000 Y=22976.000 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="4775" DisplayName="练功师" NpcType="1" NpcFuncType="0" Position="X=18098.533 Y=24190.133 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="4775" DisplayName="练功师" NpcType="1" NpcFuncType="0" Position="X=18501.371 Y=24190.133 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="4775" DisplayName="练功师" NpcType="1" NpcFuncType="0" Position="X=18501.371 Y=24818.566 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="6792" DisplayName="史万千" NpcType="4" NpcFuncType="4" Position="X=19584.000 Y=23552.000 Z=3392.000"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6718" DisplayName="百师" NpcType="4" NpcFuncType="4" Position="X=20715.703 Y=22381.299 Z=3392.000"/>
+</root>

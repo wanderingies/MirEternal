@@ -11,38 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x022E : Package
     {
-        #region public field
+        #region public
 
 		public Byte 处理类型;
 		public Int32 对象编号;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x022E;
-        public ushort Size => 7;        
+        public ushort Size => 7;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x022E() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			处理类型 = byteBlock.ReadByte();
 			对象编号 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

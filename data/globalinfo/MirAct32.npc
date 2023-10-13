@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="2440" DisplayName="小阿飞" NpcType="4" NpcFuncType="20" Position="X=9530.859 Y=54844.863 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="2441" DisplayName="大飞哥" NpcType="4" NpcFuncType="16" Position="X=54829.840 Y=9134.363 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6605" DisplayName="寺庙守将" NpcType="4" NpcFuncType="16" Position="X=9815.100 Y=54844.934 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6804" DisplayName="老吉" NpcType="4" NpcFuncType="4" Position="X=9338.700 Y=54844.863 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6804" DisplayName="老吉" NpcType="4" NpcFuncType="4" Position="X=54829.840 Y=9310.341 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6804" DisplayName="老吉" NpcType="4" NpcFuncType="4" Position="X=54830.805 Y=100009.648 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6804" DisplayName="老吉" NpcType="4" NpcFuncType="4" Position="X=100568.531 Y=54855.414 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6330" DisplayName="提香" NpcType="4" NpcFuncType="0" Position="X=63175.645 Y=55846.898 Z=2172.232"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="2440" DisplayName="小阿飞" NpcType="4" NpcFuncType="20" Position="X=54830.805 Y=9000.000 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="2440" DisplayName="小阿飞" NpcType="4" NpcFuncType="20" Position="X=100889.500 Y=54856.809 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="2443" DisplayName="召唤遗落寺庙中间宝箱" NpcType="5" NpcFuncType="0" Position="X=8106.966 Y=53423.125 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="2441" DisplayName="大飞哥" NpcType="4" NpcFuncType="16" Position="X=100759.680 Y=54855.414 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="2440" DisplayName="小阿飞" NpcType="4" NpcFuncType="20" Position="X=54830.805 Y=100218.625 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="2441" DisplayName="大飞哥" NpcType="4" NpcFuncType="16" Position="X=54831.387 Y=100360.141 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="2441" DisplayName="大飞哥" NpcType="4" NpcFuncType="16" Position="X=9669.660 Y=54844.934 Z=2128.000"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="2444" DisplayName="召唤遗落寺庙四周宝箱" NpcType="5" NpcFuncType="0" Position="X=8254.972 Y=53423.125 Z=2128.000"/>
+</root>

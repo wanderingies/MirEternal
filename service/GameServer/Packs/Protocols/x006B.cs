@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x006B : Package
     {
-        #region public field
+        #region public
 
 		public Byte 放入位置;
 		public Byte 物品容器;
@@ -20,20 +20,30 @@ namespace GameServer.Packs.Protocol
 		public Int32 物品价格;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x006B;
-        public ushort Size => 11;        
+        public ushort Size => 11;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x006B() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -43,12 +53,12 @@ namespace GameServer.Packs.Protocol
 			物品位置 = byteBlock.ReadByte();
 			物品数量 = byteBlock.ReadUInt16();
 			物品价格 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

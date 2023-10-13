@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg04" ServerMapType="1">
+	<NaviPoint Name="ToCongLin" DisplayName="至丛林迷宫" Position="X=62990.648 Y=33580.496 Z=12502.080" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="ToFeiWu" DisplayName="至堕落坟场" Position="X=58284.094 Y=57478.297 Z=12520.266" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="ToBiqi" DisplayName="至比奇省" Position="X=12067.153 Y=52439.047 Z=11880.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="ToWoMaSenLin" DisplayName="至沃玛森林" Position="X=66367.977 Y=83509.961 Z=11809.132" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="ToWoMaSi" DisplayName="至沃玛寺庙" Position="X=52454.824 Y=30241.184 Z=15088.688" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Dg04_Qt_Village" DisplayName="废弃村庄" Position="X=57553.430 Y=47758.324 Z=12703.612" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Dg04_Qt_North" DisplayName="半兽人兵营" Position="X=44427.297 Y=53084.340 Z=12909.965" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Qst_ShuYao" DisplayName="山神林" Position="X=14298.691 Y=43210.047 Z=12075.755" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_Farm" DisplayName="农庄" Position="X=62393.258 Y=49016.598 Z=12793.591" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_Bay" DisplayName="避风湾" Position="X=31249.059 Y=55337.875 Z=12090.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至白日门海岸" Position="X=31501.795 Y=24375.732 Z=11880.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

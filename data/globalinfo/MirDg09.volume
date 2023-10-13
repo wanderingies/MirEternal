@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=20000.000 Y=20000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_11" DisplayName="监狱" Priority="1" ReuseMapVolumeName="" MinPos="X=6997.199 Y=8004.118 Z=-1323.923" MaxPos="X=13141.199 Y=14148.118 Z=2772.077" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.171429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="12.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

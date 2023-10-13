@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=15000.000 Y=15000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="经验武斗场" Priority="1" ReuseMapVolumeName="" MinPos="X=355.616 Y=689.370 Z=336.309" MaxPos="X=14691.615 Y=15025.369 Z=5456.310" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.400000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="28.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

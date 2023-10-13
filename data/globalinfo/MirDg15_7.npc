@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="7121" DisplayName="香菇" NpcType="4" NpcFuncType="4" Position="X=20900.000 Y=14800.000 Z=2127.000"/>
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="6102" DisplayName="宝库守卫" NpcType="4" NpcFuncType="16" Position="X=20084.320 Y=21848.934 Z=7702.556"/>
+</root>

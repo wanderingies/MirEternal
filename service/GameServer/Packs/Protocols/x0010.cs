@@ -11,38 +11,48 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0010 : Package
     {
-        #region public field
+        #region public
 
 		public Int16 转动方向;
 		public UInt32 转动耗时;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0010;
-        public ushort Size => 8;        
+        public ushort Size => 8;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0010() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			转动方向 = byteBlock.ReadInt16();
 			转动耗时 = byteBlock.ReadUInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

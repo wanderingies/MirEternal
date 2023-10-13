@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=40000.000 Y=40000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="血污监牢" Priority="1" ReuseMapVolumeName="" MinPos="X=7936.000 Y=8064.000 Z=-17792.000" MaxPos="X=46336.000 Y=46464.000 Z=33408.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="75.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

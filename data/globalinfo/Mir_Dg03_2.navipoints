@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg03_2" ServerMapType="1">
+	<NaviPoint Name="quest_hunt_1907" DisplayName="" Position="X=29400.000 Y=45000.000 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_hunt_1906" DisplayName="" Position="X=34000.000 Y=33300.000 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Mir2_Dg03_2_JingYing3" DisplayName="" Position="X=30830.379 Y=15737.170 Z=51226.980" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="矿渣堆" Position="X=47336.023 Y=30659.338 Z=51224.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="僵尸冢" Position="X=25856.469 Y=28836.369 Z=50532.191" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="石棺阵" Position="X=29086.941 Y=10547.979 Z=51216.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至矿区二层" Position="X=46635.105 Y=12377.197 Z=51179.906" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="矿道" Position="X=28802.547 Y=45228.742 Z=50915.383" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Mir2_Dg03_2_RrenWuShiWangDianRuKou" DisplayName="" Position="X=84177.305 Y=15553.718 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Mir2_Dg03_2_JingYing2" DisplayName="矿井" Position="X=34551.281 Y=42542.703 Z=51395.629" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Mir2_Dg03_2_JingYing1" DisplayName="" Position="X=47559.000 Y=30786.000 Z=51224.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Mir2_Dg03_2_GuiKuYou" DisplayName="中央深坑" Position="X=34755.340 Y=32489.406 Z=51222.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="MirDg03_shiwangdianrukou" DisplayName="" Position="X=85824.273 Y=16029.547 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

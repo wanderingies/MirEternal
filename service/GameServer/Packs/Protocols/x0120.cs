@@ -11,19 +11,27 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0120 : Package
     {
-        #region public field
+        #region public
+
+
+        #endregion
+
+        #region marshal
 
         public bool ischeckin;
         public byte checkincount;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x0120;
         public ushort Size => 5;        
+        public ushort rSize => 5;
         #endregion
-        
-        #region private field
+
+        public x0120() { }
+
+        #region private
 
 
         #endregion
@@ -38,12 +46,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession session)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

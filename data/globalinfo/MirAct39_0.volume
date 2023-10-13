@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="沙城竞速赛" Priority="1" ReuseMapVolumeName="" MinPos="X=19509.746 Y=34355.094 Z=1994.087" MaxPos="X=42692.773 Y=57598.016 Z=10719.958" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.646848" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="45.279350" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

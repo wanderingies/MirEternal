@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=40000.000 Y=40000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="名人堂" Priority="1" ReuseMapVolumeName="" MinPos="X=11839.029 Y=17903.113 Z=4621.322" MaxPos="X=26175.029 Y=32239.113 Z=10765.322" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.400000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="28.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

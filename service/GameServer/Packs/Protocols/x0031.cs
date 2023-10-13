@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0031 : Package
     {
-        #region public field
+        #region public
 
 		public Int32 StoreId;
 		public Int32 物品位置;
 		public UInt16 购入数量;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0031;
-        public ushort Size => 12;        
+        public ushort Size => 12;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0031() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			StoreId = byteBlock.ReadInt32();
 			物品位置 = byteBlock.ReadInt32();
 			购入数量 = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

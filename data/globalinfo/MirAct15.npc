@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="8619" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55300.063 Y=45411.652 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="8606" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=46884.008 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8605" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=45435.852 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="8604" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.902 Y=45166.309 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="8618" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.586 Y=45166.047 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="8620" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.961 Y=46908.699 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6292" DisplayName="传送员" NpcType="4" NpcFuncType="0" Position="X=46701.785 Y=178570.625 Z=5377.522"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6292" DisplayName="传送员" NpcType="4" NpcFuncType="0" Position="X=46698.215 Y=188718.906 Z=5377.522"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6779" DisplayName="刀妹" NpcType="4" NpcFuncType="4" Position="X=46882.656 Y=180024.156 Z=5430.580"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6776" DisplayName="红菇" NpcType="4" NpcFuncType="4" Position="X=46886.082 Y=179664.406 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6775" DisplayName="月灵香" NpcType="4" NpcFuncType="4" Position="X=46880.613 Y=179295.031 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6779" DisplayName="刀妹" NpcType="4" NpcFuncType="4" Position="X=46882.656 Y=190157.422 Z=5430.580"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6776" DisplayName="红菇" NpcType="4" NpcFuncType="4" Position="X=46886.082 Y=189797.672 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6775" DisplayName="月灵香" NpcType="4" NpcFuncType="4" Position="X=46880.613 Y=189428.297 Z=5374.500"/>
+</root>

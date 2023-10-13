@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct28" ServerMapType="1">
+	<NaviPoint Name="q3" DisplayName="" Position="X=23930.119 Y=32414.596 Z=18303.504" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="q2" DisplayName="" Position="X=14349.775 Y=30207.146 Z=19091.168" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="q1" DisplayName="" Position="X=16566.930 Y=20712.885 Z=20376.264" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="SeaDg03P1" DisplayName="" Position="X=16464.000 Y=14976.000 Z=20031.912" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="q0" DisplayName="" Position="X=16475.455 Y=11093.812 Z=20034.967" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

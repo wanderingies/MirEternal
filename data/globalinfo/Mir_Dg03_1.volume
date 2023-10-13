@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=70000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="比奇矿区二层" Priority="1" ReuseMapVolumeName="" MinPos="X=-6536.000 Y=-5832.000 Z=28371.199" MaxPos="X=69064.000 Y=69768.000 Z=61467.199" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.527344" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="147.656250" WorldMapScale="0.250000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=51200.000 Y=51200.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_1" Position="X=31925.000 Y=33949.512 Z=9681.154" DisplayName="石原废墟" Radius="0.000000" Rotation="41792" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=31889.424 Y=34978.363 Z=9670.449" Radius="800" DisplayName="至石原荒漠"/>
+</root>

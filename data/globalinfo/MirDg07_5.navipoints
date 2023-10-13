@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg07_5" ServerMapType="1">
+	<NaviPoint Name="Qst_hunt_1934" DisplayName="" Position="X=17871.154 Y=29420.715 Z=11728.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_hunt_1933" DisplayName="" Position="X=31307.984 Y=31784.346 Z=11606.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_1806DaGuai" DisplayName="朝圣之路" Position="X=19498.621 Y=28565.400 Z=12004.441" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至祖玛寺庙四层" Position="X=21993.850 Y=27809.096 Z=11994.711" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛阁" Position="X=27892.123 Y=38567.102 Z=11606.707" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

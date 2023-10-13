@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Pb02" ServerMapType="1">
+	<NaviPoint Name="Qst_Ancient" DisplayName="" Position="X=68788.719 Y=43850.793 Z=43752.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Deer" DisplayName="" Position="X=93177.047 Y=61738.273 Z=43553.137" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="biqianquanqu" DisplayName="安全区" Position="X=62718.672 Y=48108.695 Z=45611.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="MirPb02Book" DisplayName="" Position="X=66899.109 Y=49262.086 Z=43773.309" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="wuqidian" DisplayName="" Position="X=56194.848 Y=44695.926 Z=43761.000" RedirectLoc="X=53856.109 Y=44525.855 Z=43713.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="药店" Position="X=59084.219 Y=44725.277 Z=43761.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="服饰" Position="X=59715.621 Y=39385.191 Z=43759.688" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="摆摊" Position="X=51617.906 Y=48495.922 Z=43757.309" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="竞技场" Position="X=50304.500 Y=66565.789 Z=43750.234" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=62701.840 Y=31351.680 Z=45878.480" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="摆摊" Position="X=50780.031 Y=38407.109 Z=45354.770" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="武器" Position="X=54740.801 Y=44185.113 Z=45495.031" RedirectLoc="X=53856.109 Y=44525.855 Z=43713.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="摆摊" Position="X=70466.719 Y=47478.555 Z=43757.309" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="首饰" Position="X=64515.066 Y=41119.160 Z=43778.355" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="书店" Position="X=66760.914 Y=49495.121 Z=43773.309" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="摆摊" Position="X=72391.688 Y=39521.824 Z=45364.574" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="研究院" Position="X=57302.250 Y=66468.008 Z=43810.418" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="皇宫" Position="X=70740.852 Y=64031.313 Z=44575.098" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="坟地" Position="X=98205.773 Y=68639.172 Z=43944.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="猎人小屋" Position="X=91286.281 Y=89884.695 Z=43456.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="溪泉" Position="X=93506.648 Y=59497.938 Z=43501.461" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至沃玛森林" Position="X=99927.883 Y=75331.570 Z=45197.797" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="MirPb02mafu" DisplayName="" Position="X=52043.555 Y=81033.852 Z=43246.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至盟重省" Position="X=64327.605 Y=92339.391 Z=43706.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至比奇矿区" Position="X=49122.027 Y=92033.922 Z=45223.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="MirPb02Gate" DisplayName="" Position="X=62951.484 Y=33798.699 Z=45495.492" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirPb02Master" DisplayName="皇城桥" Position="X=70798.547 Y=51068.105 Z=45473.402" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="MirPb02Emergency" DisplayName="" Position="X=69049.406 Y=82157.547 Z=43475.465" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirPb02OrcL" DisplayName="" Position="X=84557.867 Y=56465.711 Z=43508.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirPb02Zombie" DisplayName="埋骨坑" Position="X=55573.988 Y=81773.188 Z=43246.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="MirPb02Strawman" DisplayName="" Position="X=87278.664 Y=85974.938 Z=43457.051" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirPb02Cat" DisplayName="" Position="X=64643.465 Y=85415.250 Z=43493.672" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_2" TemplateID="2752" DisplayName="虚空之王" NpcType="5" NpcFuncType="0" Position="X=24376.695 Y=25688.055 Z=36870.656"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="2753" DisplayName="元素之心" NpcType="6" NpcFuncType="0" Position="X=23197.346 Y=22945.369 Z=36870.656"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="2751" DisplayName="熔岩之王" NpcType="5" NpcFuncType="0" Position="X=20236.248 Y=22965.311 Z=36870.656"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="2750" DisplayName="寒冰之王" NpcType="5" NpcFuncType="0" Position="X=24332.871 Y=20217.770 Z=36870.656"/>
+</root>

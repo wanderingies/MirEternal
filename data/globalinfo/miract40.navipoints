@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct40" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="起点" Position="X=17688.633 Y=18336.900 Z=8650.975" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="终点" Position="X=20484.748 Y=15138.827 Z=8650.975" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

@@ -7,25 +7,28 @@ namespace GameServer.Packs.Protocol
 {
     /// <summary>
     /// <para>进入传送门触发</para>
-    /// <para>客户进入法阵</para>
+    /// <para>同步列表</para>
     /// </summary>
     internal class x0016 : Package
     {
-        #region public field
+        #region public
 
 		public Int32 TeleportGateNumber;
+        #endregion
+
+        #region marshal
 
         public byte[] Result;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x0016;
-        public ushort Size => 6;
-        public ushort rSize => 338;
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
-
-        public x0016()
+        
+        public x0016() 
         {
             Result = new byte[]
             {
@@ -53,7 +56,7 @@ namespace GameServer.Packs.Protocol
             };
         }
 
-        #region private field
+        #region private
 
 
         #endregion
@@ -67,12 +70,12 @@ namespace GameServer.Packs.Protocol
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			TeleportGateNumber = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

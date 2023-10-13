@@ -11,36 +11,46 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x006C : Package
     {
-        #region public field
+        #region public
 
 		public Byte 取回位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x006C;
-        public ushort Size => 3;        
+        public ushort Size => 3;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x006C() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			取回位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

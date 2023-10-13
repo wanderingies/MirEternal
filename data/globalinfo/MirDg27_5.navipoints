@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg27_5" ServerMapType="1">
+	<NaviPoint Name="Nav_Qst489" DisplayName="" Position="X=46378.379 Y=28208.797 Z=28764.324" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Nav_Qst487" DisplayName="" Position="X=26989.553 Y=50122.492 Z=26569.289" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Nav_Camp" DisplayName="黑岩营地" Position="X=26777.662 Y=43195.160 Z=26611.100" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Nav_Dg26_2" DisplayName="至黑岩峰底" Position="X=18735.057 Y=19067.318 Z=26579.988" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Nav_Qst491" DisplayName="" Position="X=18641.768 Y=24258.977 Z=26585.006" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Nav_Dg27_6" DisplayName="至巨龙之巅" Position="X=49886.066 Y=55687.988 Z=31115.990" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

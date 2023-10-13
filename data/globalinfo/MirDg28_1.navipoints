@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg28_1" ServerMapType="1">
+	<NaviPoint Name="quest_boss" DisplayName="古树栖地" Position="X=25521.619 Y=32439.463 Z=18307.182" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="q2" DisplayName="" Position="X=14349.775 Y=30207.146 Z=19080.359" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="q1" DisplayName="" Position="X=16566.930 Y=20712.885 Z=20356.576" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="nav_cyqd" DisplayName="至赤月群岛" Position="X=16865.875 Y=8660.510 Z=22773.221" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

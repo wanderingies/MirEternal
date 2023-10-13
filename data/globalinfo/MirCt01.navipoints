@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirCt01" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="沙漠小站" Position="X=28985.721 Y=39699.801 Z=6199.129" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="残破庙宇" Position="X=31678.383 Y=49486.160 Z=6192.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="书店" Position="X=47361.359 Y=51698.449 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="药店" Position="X=47387.555 Y=48970.512 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="饰品店" Position="X=49711.707 Y=51707.172 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="服装店" Position="X=49755.359 Y=48926.879 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="杂货铺" Position="X=47343.891 Y=40628.059 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="武器店" Position="X=49633.121 Y=43361.371 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="牢房" Position="X=49659.289 Y=40626.406 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="军械库" Position="X=54910.523 Y=41511.383 Z=6395.243" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="垃圾堆" Position="X=58697.445 Y=40727.383 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="皇宫" Position="X=54835.797 Y=46155.648 Z=6574.653" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="八卦坛" Position="X=56101.426 Y=50293.488 Z=6636.360" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="巨龙骨骸" Position="X=51899.711 Y=65991.313 Z=6192.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至祖玛寺长廊" Position="X=34015.133 Y=67389.453 Z=6192.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至盟重省" Position="X=52201.449 Y=26451.848 Z=6192.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="仓库" Position="X=47326.418 Y=43390.898 Z=6394.066" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至盟重省" Position="X=61032.516 Y=64568.301 Z=6192.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="起点" Position="X=55844.465 Y=36339.633 Z=6304.885" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="终点" Position="X=61920.453 Y=37633.027 Z=6273.238" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x002F : Package
     {
-        #region public field
+        #region public
 
 		public Byte 背包类型;
 		public Byte 物品位置;
 		public UInt16 丢弃数量;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x002F;
-        public ushort Size => 6;        
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x002F() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			背包类型 = byteBlock.ReadByte();
 			物品位置 = byteBlock.ReadByte();
 			丢弃数量 = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

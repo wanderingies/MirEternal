@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0096 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 放入位置;
 		public Byte 放入物品;
@@ -19,20 +19,30 @@ namespace GameServer.Packs.Protocol
 		public Byte 物品位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0096;
-        public ushort Size => 6;        
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0096() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -41,12 +51,12 @@ namespace GameServer.Packs.Protocol
 			放入物品 = byteBlock.ReadByte();
 			物品容器 = byteBlock.ReadByte();
 			物品位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

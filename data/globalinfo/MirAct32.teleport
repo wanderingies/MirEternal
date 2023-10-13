@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=120000.000 Y=120000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_3" Position="X=67613.711 Y=55024.730 Z=2050.722" DisplayName="牛魔寺庙三层" Radius="600.000000" Rotation="32520" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=18723.332 Y=55035.145 Z=2050.722" DisplayName="牛魔寺庙三层" Radius="600.000000" Rotation="32520" NpcId="0"/>
+</root>

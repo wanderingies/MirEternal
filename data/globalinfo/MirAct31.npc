@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_12" TemplateID="6414" DisplayName="道哥" NpcType="4" NpcFuncType="16" Position="X=34941.023 Y=48788.789 Z=7118.532"/>
+	<NPC Name="NPCServerInstance_41" TemplateID="6526" DisplayName="百师" NpcType="4" NpcFuncType="4" Position="X=36197.582 Y=48968.629 Z=7032.501"/>
+	<NPC Name="NPCServerInstance_40" TemplateID="6413" DisplayName="刀妹" NpcType="4" NpcFuncType="20" Position="X=36202.973 Y=49690.000 Z=7032.501"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="6527" DisplayName="香毒" NpcType="4" NpcFuncType="4" Position="X=36193.891 Y=49324.184 Z=7026.500"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6528" DisplayName="玛法通驿" NpcType="4" NpcFuncType="16" Position="X=33771.227 Y=49057.109 Z=7118.532"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6530" DisplayName="风翎" NpcType="4" NpcFuncType="16" Position="X=33768.520 Y=49422.422 Z=7118.532"/>
+</root>

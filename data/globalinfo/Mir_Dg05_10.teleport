@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=84000.000 Y=97000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_1" Position="X=47793.016 Y=66382.305 Z=28990.203" DisplayName="沃玛寺庙二层" Radius="1.000000" Rotation="32536" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_11" Position="X=23589.832 Y=13787.087 Z=28645.266" Radius="800" DisplayName="沃玛寺庙二层"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=17175.023 Y=15160.688 Z=28062.994" DisplayName="藏经阁" Radius="1.000000" Rotation="17372" NpcId="0"/>
+</root>

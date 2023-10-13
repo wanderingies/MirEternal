@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=75000.000 Y=75000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="修罗狩猎场" Priority="1" ReuseMapVolumeName="" MinPos="X=4455.203 Y=4458.250 Z=-31763.703" MaxPos="X=70854.797 Y=70857.844 Z=34636.164" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="129.686707" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

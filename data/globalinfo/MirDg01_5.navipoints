@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg01_5" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="孵化间" Position="X=29510.043 Y=61266.586 Z=27828.363" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷五层" Position="X=38395.984 Y=70875.242 Z=27766.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="毒液池祭祀场" Position="X=19015.506 Y=74359.188 Z=27665.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Quest1685" DisplayName="" Position="X=23486.061 Y=68159.289 Z=27560.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

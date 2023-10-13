@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=43000.000 Y=43000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_4" Position="X=10417.128 Y=25750.658 Z=8298.512" Radius="800" DisplayName="石原荒漠"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=10800.338 Y=25758.697 Z=8484.948" DisplayName="石原矿洞" Radius="0.000000" Rotation="41792" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_0" Position="X=38547.047 Y=19815.047 Z=8283.453" Radius="800" DisplayName="巨兽大厅"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=38271.676 Y=19821.035 Z=8375.534" DisplayName="石原矿洞" Radius="0.000000" Rotation="41792" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=38290.367 Y=15290.135 Z=8192.608" DisplayName="" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_5" Position="X=38703.559 Y=14563.664 Z=8221.848" Radius="800" DisplayName="兽人陵墓浅表"/>
+</root>

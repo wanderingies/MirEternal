@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg15_1" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至牛魔寺庙二层" Position="X=48589.660 Y=43455.730 Z=2102.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至牛魔寺庙入口" Position="X=27786.875 Y=43455.730 Z=2098.255" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_5507" DisplayName="" Position="X=22858.191 Y=43445.996 Z=2096.279" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

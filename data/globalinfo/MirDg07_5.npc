@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6150" DisplayName="无为" NpcType="4" NpcFuncType="0" Position="X=29055.256 Y=37112.809 Z=11576.525"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=24025.428 Y=26156.783 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=13494.205 Y=26094.830 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=29972.473 Y=20581.422 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3353" DisplayName="祖玛卫士" NpcType="6" NpcFuncType="0" Position="X=17954.469 Y=34550.785 Z=33530.402"/>
+</root>

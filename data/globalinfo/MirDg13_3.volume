@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=49000.000 Y=45000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="骨魔洞三层" Priority="1" ReuseMapVolumeName="" MinPos="X=4087.172 Y=-2248.506 Z=3688.928" MaxPos="X=55287.172 Y=48951.492 Z=13688.928" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="100.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

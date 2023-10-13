@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=70000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=8512.974 Y=12760.787 Z=51208.313" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=9057.081 Y=12755.176 Z=51295.438" DisplayName="比奇矿洞" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_0" Position="X=45170.746 Y=32587.260 Z=51209.418" Radius="384" DisplayName="矿区二层"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=45164.020 Y=32042.787 Z=51218.645" DisplayName="矿区一层" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=24798.135 Y=25243.795 Z=51187.352" Radius="384" DisplayName="矿区二层"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=24799.551 Y=24711.252 Z=51214.324" DisplayName="矿区一层" Radius="0.000000" Rotation="0" NpcId="0"/>
+</root>

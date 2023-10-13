@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_5" TemplateID="6485" DisplayName="雪域军需官" NpcType="4" NpcFuncType="16" Position="X=9956.043 Y=75200.945 Z=16006.392"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6488" DisplayName="阿特仔" NpcType="4" NpcFuncType="0" Position="X=11946.306 Y=35572.547 Z=14192.630"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6487" DisplayName="暗雪幸存者" NpcType="4" NpcFuncType="0" Position="X=21912.490 Y=53861.746 Z=13833.464"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6489" DisplayName="卓尔玛" NpcType="4" NpcFuncType="0" Position="X=10718.471 Y=74963.203 Z=16029.236"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6486" DisplayName="雪域护民官" NpcType="4" NpcFuncType="16" Position="X=11854.334 Y=74576.148 Z=15991.767"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="2535" DisplayName="部族精锐" NpcType="5" NpcFuncType="0" Position="X=34205.684 Y=72194.008 Z=14760.831"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=17370.584 Y=38468.266 Z=14224.534"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=15863.694 Y=71503.914 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=22006.744 Y=62272.598 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=30406.936 Y=71910.078 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=44888.902 Y=65263.789 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=40723.930 Y=56204.199 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=36133.805 Y=57727.828 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=17108.855 Y=52313.320 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=27967.572 Y=45424.094 Z=15612.567"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="6315" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=9119.440 Y=46469.633 Z=13980.291"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=32065.922 Y=51578.910 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=28202.895 Y=68913.063 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=11506.691 Y=68878.297 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=16855.510 Y=56923.777 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=12898.042 Y=44181.844 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="3361" DisplayName="龙裔守护者" NpcType="6" NpcFuncType="0" Position="X=37860.477 Y=62276.543 Z=33530.402"/>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg27_2" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="元素节点" Position="X=37561.664 Y=46702.102 Z=2513.063" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="ice_spot" DisplayName="霜灵奇点" Position="X=37674.664 Y=41277.895 Z=2513.063" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="quest_soldier" DisplayName="" Position="X=43456.465 Y=43227.426 Z=2513.079" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="fire_spot" DisplayName="焱灵奇点" Position="X=26563.932 Y=29881.877 Z=3353.211" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="cursed_alter" DisplayName="咒缚坛" Position="X=12405.813 Y=32987.488 Z=3353.211" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="entry_dm3" DisplayName="至龙血地脉" Position="X=16186.411 Y=12752.202 Z=3353.211" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="entry_dm1" DisplayName="至冰川地脉" Position="X=45611.609 Y=24211.395 Z=3353.211" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="quest_ore_void" DisplayName="" Position="X=20380.914 Y=43491.117 Z=2513.063" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_servant_ice" DisplayName="" Position="X=37862.277 Y=24569.955 Z=2513.063" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_elementfire" DisplayName="" Position="X=14557.720 Y=21440.021 Z=2513.079" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

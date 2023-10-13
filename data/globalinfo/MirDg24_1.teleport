@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=51200.000 Y=51200.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_0" Position="X=15073.196 Y=22452.988 Z=9237.904" DisplayName="石原矿洞" Radius="0.000000" Rotation="47040" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=15571.998 Y=23294.699 Z=8568.879" Radius="800" DisplayName="石原矿洞"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=16848.309 Y=33490.246 Z=10323.695" Radius="800" DisplayName="石原废墟"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=33613.391 Y=4229.143 Z=10287.497" Radius="800" DisplayName="白日门城"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=32329.010 Y=4235.173 Z=10240.000" DisplayName="石原荒漠" Radius="0.000000" Rotation="32540" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=16540.146 Y=32273.188 Z=10257.455" DisplayName="石原荒漠" Radius="0.000000" Rotation="47040" NpcId="0"/>
+</root>

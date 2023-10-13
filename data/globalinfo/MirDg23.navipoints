@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg23" ServerMapType="1">
+	<NaviPoint Name="Qst_448_Boss" DisplayName="" Position="X=6265.360 Y=6563.973 Z=5841.761" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至兽人陵墓深层" Position="X=4009.616 Y=4210.636 Z=5841.761" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

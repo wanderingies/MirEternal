@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6197" DisplayName="刷NPC" NpcType="5" NpcFuncType="0" Position="X=35013.895 Y=55839.711 Z=4847.546"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6683" DisplayName="南苍公" NpcType="4" NpcFuncType="0" Position="X=27081.186 Y=56918.453 Z=4759.203"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6684" DisplayName="阿九" NpcType="4" NpcFuncType="0" Position="X=30472.055 Y=52811.836 Z=4588.652"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="4756" DisplayName="小毅" NpcType="4" NpcFuncType="0" Position="X=28310.883 Y=46991.660 Z=4588.000"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6669" DisplayName="边界村老兵" NpcType="4" NpcFuncType="20" Position="X=27408.287 Y=56023.949 Z=4746.999"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6685" DisplayName="朴十八" NpcType="4" NpcFuncType="0" Position="X=44514.891 Y=47821.086 Z=4506.096"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6672" DisplayName="王铁匠" NpcType="4" NpcFuncType="4" Position="X=32157.150 Y=57524.191 Z=4852.099"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6679" DisplayName="王大锤" NpcType="4" NpcFuncType="0" Position="X=31795.344 Y=57522.992 Z=4852.099"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="6686" DisplayName="铁牛" NpcType="4" NpcFuncType="0" Position="X=47062.582 Y=34573.238 Z=4795.999"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="4759" DisplayName="扫地劳工" NpcType="4" NpcFuncType="0" Position="X=23168.799 Y=52462.605 Z=4701.887"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="6682" DisplayName="朴无界" NpcType="4" NpcFuncType="4" Position="X=33585.234 Y=57724.133 Z=4835.693"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=30633.195 Y=56078.422 Z=4709.841"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=30633.123 Y=56694.012 Z=4703.999"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6662" DisplayName="白玉兰" NpcType="4" NpcFuncType="4" Position="X=33919.434 Y=56673.000 Z=4862.209"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=37269.816 Y=52309.438 Z=4588.099"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=37269.816 Y=51282.516 Z=4588.099"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=26758.932 Y=47464.051 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=26762.000 Y=48502.215 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=26381.584 Y=53896.195 Z=4588.108"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=25537.639 Y=53896.156 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=22329.619 Y=52309.438 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=22329.619 Y=51282.516 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_28" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=26545.756 Y=42044.863 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="6723" DisplayName="卫士" NpcType="4" NpcFuncType="0" Position="X=25662.760 Y=42072.441 Z=4588.114"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="4758" DisplayName="王屠夫" NpcType="4" NpcFuncType="0" Position="X=31748.689 Y=54782.125 Z=4858.948"/>
+	<NPC Name="NPCServerInstance_30" TemplateID="6688" DisplayName="贝儿" NpcType="4" NpcFuncType="0" Position="X=30531.557 Y=28953.186 Z=4302.517"/>
+	<NPC Name="NPCServerInstance_31" TemplateID="6676" DisplayName="黑五" NpcType="4" NpcFuncType="0" Position="X=91007.742 Y=41938.434 Z=3990.234"/>
+	<NPC Name="NPCServerInstance_32" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77081.883 Y=35808.465 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_33" TemplateID="6664" DisplayName="醉爷" NpcType="4" NpcFuncType="4" Position="X=33479.484 Y=55418.383 Z=4852.391"/>
+	<NPC Name="NPCServerInstance_34" TemplateID="6661" DisplayName="玲月" NpcType="4" NpcFuncType="0" Position="X=28638.572 Y=47868.031 Z=4610.487"/>
+	<NPC Name="NPCServerInstance_35" TemplateID="850" DisplayName="半兽人 掠骨手" NpcType="5" NpcFuncType="0" Position="X=82788.109 Y=38108.672 Z=4850.471"/>
+	<NPC Name="NPCServerInstance_36" TemplateID="6687" DisplayName="比奇信使" NpcType="4" NpcFuncType="0" Position="X=57819.742 Y=48728.277 Z=4519.381"/>
+	<NPC Name="NPCServerInstance_37" TemplateID="4749" DisplayName="朴有界" NpcType="4" NpcFuncType="4" Position="X=20983.932 Y=92843.273 Z=10385.871"/>
+	<NPC Name="NPCServerInstance_38" TemplateID="841" DisplayName="兵俑 铁皮" NpcType="5" NpcFuncType="0" Position="X=40090.090 Y=55004.973 Z=4584.188"/>
+	<NPC Name="NPCServerInstance_39" TemplateID="6677" DisplayName="良玉" NpcType="4" NpcFuncType="0" Position="X=90995.805 Y=42956.945 Z=3988.099"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="4760" DisplayName="赵婶" NpcType="4" NpcFuncType="0" Position="X=34288.941 Y=50380.883 Z=4592.128"/>
+	<NPC Name="NPCServerInstance_40" TemplateID="846" DisplayName="钉耙猫 太子丹" NpcType="5" NpcFuncType="0" Position="X=60395.328 Y=37834.504 Z=4904.299"/>
+	<NPC Name="NPCServerInstance_41" TemplateID="842" DisplayName="稻草人 符命" NpcType="5" NpcFuncType="0" Position="X=37140.113 Y=26828.473 Z=4651.079"/>
+	<NPC Name="NPCServerInstance_42" TemplateID="845" DisplayName="稻草人 巧魔" NpcType="5" NpcFuncType="0" Position="X=29626.047 Y=35081.172 Z=4231.999"/>
+	<NPC Name="NPCServerInstance_43" TemplateID="848" DisplayName="稻草人 魂十五" NpcType="5" NpcFuncType="0" Position="X=39138.590 Y=63984.738 Z=4043.830"/>
+	<NPC Name="NPCServerInstance_44" TemplateID="839" DisplayName="钉耙猫 九命" NpcType="5" NpcFuncType="0" Position="X=55762.707 Y=63678.516 Z=5076.790"/>
+	<NPC Name="NPCServerInstance_45" TemplateID="843" DisplayName="钉耙猫 稻田偷儿" NpcType="5" NpcFuncType="0" Position="X=52635.070 Y=43217.727 Z=4614.380"/>
+	<NPC Name="NPCServerInstance_46" TemplateID="849" DisplayName="钉耙猫 荒郊强盗" NpcType="5" NpcFuncType="0" Position="X=56034.770 Y=25712.127 Z=4730.193"/>
+	<NPC Name="NPCServerInstance_47" TemplateID="6673" DisplayName="熊大" NpcType="4" NpcFuncType="0" Position="X=91154.820 Y=42104.430 Z=3987.999"/>
+	<NPC Name="NPCServerInstance_48" TemplateID="6674" DisplayName="狼二" NpcType="4" NpcFuncType="0" Position="X=91148.195 Y=42814.668 Z=3987.999"/>
+	<NPC Name="NPCServerInstance_49" TemplateID="4754" DisplayName="吉大爷" NpcType="4" NpcFuncType="0" Position="X=22994.434 Y=44444.668 Z=4778.630"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6678" DisplayName="信使随从" NpcType="4" NpcFuncType="0" Position="X=73375.500 Y=63382.328 Z=4516.037"/>
+	<NPC Name="NPCServerInstance_50" TemplateID="4750" DisplayName="小潘" NpcType="4" NpcFuncType="0" Position="X=34038.910 Y=47850.883 Z=4587.999"/>
+	<NPC Name="NPCServerInstance_51" TemplateID="4751" DisplayName="铁大娘" NpcType="4" NpcFuncType="0" Position="X=34252.105 Y=47611.711 Z=4587.999"/>
+	<NPC Name="NPCServerInstance_52" TemplateID="8460" DisplayName="王氏" NpcType="4" NpcFuncType="0" Position="X=23956.480 Y=46571.398 Z=4785.009"/>
+	<NPC Name="NPCServerInstance_53" TemplateID="8459" DisplayName="乞食者" NpcType="4" NpcFuncType="0" Position="X=24040.613 Y=46909.156 Z=4790.178"/>
+	<NPC Name="NPCServerInstance_54" TemplateID="4755" DisplayName="小涛" NpcType="4" NpcFuncType="0" Position="X=28307.125 Y=46783.461 Z=4588.000"/>
+	<NPC Name="NPCServerInstance_55" TemplateID="6663" DisplayName="药老" NpcType="4" NpcFuncType="4" Position="X=33269.391 Y=54672.871 Z=4858.948"/>
+	<NPC Name="NPCServerInstance_56" TemplateID="6671" DisplayName="阿英" NpcType="4" NpcFuncType="16" Position="X=27379.516 Y=52544.406 Z=4586.100"/>
+	<NPC Name="NPCServerInstance_57" TemplateID="4757" DisplayName="武大娘" NpcType="4" NpcFuncType="0" Position="X=34858.949 Y=52475.172 Z=4592.128"/>
+	<NPC Name="NPCServerInstance_58" TemplateID="6680" DisplayName="玉娘" NpcType="4" NpcFuncType="20" Position="X=27504.113 Y=92590.164 Z=10447.894"/>
+	<NPC Name="NPCServerInstance_59" TemplateID="4752" DisplayName="张屠夫" NpcType="4" NpcFuncType="0" Position="X=33592.629 Y=44892.367 Z=4587.999"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6689" DisplayName="铁牛" NpcType="4" NpcFuncType="0" Position="X=77907.070 Y=37944.137 Z=4943.915"/>
+	<NPC Name="NPCServerInstance_60" TemplateID="4753" DisplayName="张氏" NpcType="4" NpcFuncType="0" Position="X=33850.602 Y=45290.621 Z=4587.999"/>
+	<NPC Name="NPCServerInstance_61" TemplateID="6690" DisplayName="达叔" NpcType="4" NpcFuncType="4" Position="X=46855.836 Y=33927.188 Z=4795.999"/>
+	<NPC Name="NPCServerInstance_62" TemplateID="838" DisplayName="半兽人 刀疤" NpcType="5" NpcFuncType="0" Position="X=68298.602 Y=67510.938 Z=4512.000"/>
+	<NPC Name="NPCServerInstance_63" TemplateID="844" DisplayName="半兽人 保镖" NpcType="5" NpcFuncType="0" Position="X=87178.281 Y=60000.910 Z=4593.690"/>
+	<NPC Name="NPCServerInstance_64" TemplateID="847" DisplayName="半兽人 红魔" NpcType="5" NpcFuncType="0" Position="X=78668.695 Y=49996.168 Z=4791.181"/>
+	<NPC Name="NPCServerInstance_65" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77075.203 Y=36197.035 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_66" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77068.602 Y=35353.371 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_67" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77827.820 Y=35819.332 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_68" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=76710.672 Y=35808.465 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_69" TemplateID="6665" DisplayName="阿吉" NpcType="4" NpcFuncType="8" Position="X=26093.098 Y=93289.852 Z=10371.993"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="4759" DisplayName="扫地劳工" NpcType="4" NpcFuncType="0" Position="X=29481.752 Y=51300.547 Z=4586.100"/>
+	<NPC Name="NPCServerInstance_70" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77510.531 Y=35786.367 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_71" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77510.531 Y=36241.262 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_72" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77510.531 Y=35380.559 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_73" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77152.781 Y=35805.840 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_74" TemplateID="820" DisplayName="魔化半兽人" NpcType="5" NpcFuncType="0" Position="X=77152.781 Y=36244.621 Z=4874.266"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6666" DisplayName="龙爷" NpcType="4" NpcFuncType="16" Position="X=30132.742 Y=45327.711 Z=4588.099"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="6667" DisplayName="百火" NpcType="4" NpcFuncType="16" Position="X=30125.674 Y=45060.969 Z=4588.099"/>
+</root>

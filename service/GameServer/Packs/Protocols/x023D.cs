@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x023D : Package
     {
-        #region public field
+        #region public
 
 		public Byte 原有页面;
 		public Byte 原有位置;
@@ -19,20 +19,30 @@ namespace GameServer.Packs.Protocol
 		public Byte 目标位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x023D;
-        public ushort Size => 8;        
+        public ushort Size => 8;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x023D() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -41,12 +51,12 @@ namespace GameServer.Packs.Protocol
 			原有位置 = byteBlock.ReadByte();
 			目标页面 = byteBlock.ReadByte();
 			目标位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

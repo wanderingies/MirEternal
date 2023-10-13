@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=60000.000 Y=60000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_8" DisplayName="遗落长廊" Priority="1" ReuseMapVolumeName="" MinPos="X=16545.529 Y=28311.801 Z=1753.406" MaxPos="X=30881.529 Y=42647.801 Z=5849.406" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.400000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="28.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

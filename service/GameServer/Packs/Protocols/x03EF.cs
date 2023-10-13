@@ -11,36 +11,46 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x03EF : Package
     {
-        #region public field
+        #region public
 
 		public Int32 ClientTime;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x03EF;
-        public ushort Size => 6;        
+        public ushort Size => 6;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x03EF() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			ClientTime = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

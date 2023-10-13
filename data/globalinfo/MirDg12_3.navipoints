@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_3" ServerMapType="1">
+	<NaviPoint Name="Quest1845" DisplayName="巨龙之寝" Position="X=29255.234 Y=34333.195 Z=9361.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="donglinjianshengdi1" DisplayName="至魔龙旧寨" Position="X=17191.443 Y=30870.494 Z=9385.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="donglinjianshengdi2" DisplayName="至魔龙东郊" Position="X=34026.250 Y=14940.794 Z=9189.455" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

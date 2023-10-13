@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100000.000 Y=100000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_8" Position="X=79847.414 Y=12929.313 Z=27723.791" Radius="384" DisplayName="死亡峡谷四层"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=79451.133 Y=13300.117 Z=27810.273" DisplayName="死亡峡谷五层" Radius="600.000000" Rotation="27264" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_9" Position="X=79617.992 Y=34145.758 Z=27635.451" Radius="384" DisplayName="死亡峡谷六层"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=79180.289 Y=34040.125 Z=27618.996" DisplayName="死亡峡谷五层" Radius="600.000000" Rotation="32256" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_1" Position="X=83584.836 Y=34397.613 Z=27630.688" Radius="384" DisplayName="幽虫洞窟"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=83530.586 Y=33845.844 Z=27614.961" DisplayName="死亡峡谷五层" Radius="600.000000" Rotation="45840" NpcId="0"/>
+</root>

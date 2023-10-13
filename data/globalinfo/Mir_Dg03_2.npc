@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="3116" DisplayName="怨毒利爪僵尸" NpcType="5" NpcFuncType="0" Position="X=30809.047 Y=16306.464 Z=51246.000"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3116" DisplayName="怨毒利爪僵尸" NpcType="5" NpcFuncType="0" Position="X=29510.625 Y=15538.180 Z=51246.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8479" DisplayName="尸王殿入口" NpcType="10" NpcFuncType="0" Position="X=29759.344 Y=10804.821 Z=51404.832"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3116" DisplayName="怨毒利爪僵尸" NpcType="5" NpcFuncType="0" Position="X=31309.650 Y=14788.450 Z=51246.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="3115" DisplayName="怨毒闪电僵尸" NpcType="5" NpcFuncType="0" Position="X=36106.809 Y=42123.742 Z=51236.000"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="3114" DisplayName="怨毒和尚僵尸" NpcType="5" NpcFuncType="0" Position="X=46514.559 Y=31787.115 Z=51254.000"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="6346" DisplayName="刷刷矿洞NPC" NpcType="5" NpcFuncType="0" Position="X=28410.156 Y=13837.760 Z=0.000"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="3114" DisplayName="怨毒和尚僵尸" NpcType="5" NpcFuncType="0" Position="X=46514.559 Y=31160.783 Z=51254.000"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="3114" DisplayName="怨毒和尚僵尸" NpcType="5" NpcFuncType="0" Position="X=46514.559 Y=30504.619 Z=51254.000"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="3114" DisplayName="怨毒和尚僵尸" NpcType="5" NpcFuncType="0" Position="X=47218.445 Y=30504.619 Z=51254.000"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="3114" DisplayName="怨毒和尚僵尸" NpcType="5" NpcFuncType="0" Position="X=47218.445 Y=31124.994 Z=51254.000"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="3115" DisplayName="怨毒闪电僵尸" NpcType="5" NpcFuncType="0" Position="X=34785.379 Y=42123.742 Z=51236.000"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="3115" DisplayName="怨毒闪电僵尸" NpcType="5" NpcFuncType="0" Position="X=34785.379 Y=42769.938 Z=51236.000"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="3115" DisplayName="怨毒闪电僵尸" NpcType="5" NpcFuncType="0" Position="X=35373.488 Y=42769.938 Z=51236.000"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="3115" DisplayName="怨毒闪电僵尸" NpcType="5" NpcFuncType="0" Position="X=35373.488 Y=42058.383 Z=51236.000"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6747" DisplayName="七叶长老" NpcType="4" NpcFuncType="0" Position="X=32491.736 Y=44245.305 Z=50971.508"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6748" DisplayName="玄衣道长" NpcType="4" NpcFuncType="0" Position="X=31959.691 Y=19637.879 Z=51258.000"/>
+</root>

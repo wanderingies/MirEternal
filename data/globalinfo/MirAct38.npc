@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_3" TemplateID="6534" DisplayName="曜香" NpcType="4" NpcFuncType="20" Position="X=25880.152 Y=26699.047 Z=3911.681"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6718" DisplayName="百师" NpcType="4" NpcFuncType="4" Position="X=25708.615 Y=26883.150 Z=3911.681"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6572" DisplayName="秘境大门" NpcType="4" NpcFuncType="16" Position="X=25344.742 Y=27412.043 Z=3960.949"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="7119" DisplayName="玛法通驿" NpcType="4" NpcFuncType="16" Position="X=25526.201 Y=26163.635 Z=3901.697"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6571" DisplayName="熄焰恶魔" NpcType="4" NpcFuncType="16" Position="X=26054.471 Y=27612.080 Z=3960.949"/>
+</root>

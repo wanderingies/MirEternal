@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct27" ServerMapType="1">
+	<NaviPoint Name="DstPb01001" DisplayName="" Position="X=17320.957 Y=21294.061 Z=3378.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="DragonBoneDst" DisplayName="" Position="X=8854.972 Y=15009.327 Z=4916.536" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

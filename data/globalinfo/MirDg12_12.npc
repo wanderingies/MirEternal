@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6232" DisplayName="老药叔" NpcType="4" NpcFuncType="4" Position="X=32492.971 Y=34212.652 Z=9322.496"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=34109.805 Y=20573.910 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=38439.422 Y=32672.096 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=27355.607 Y=33364.848 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=38389.930 Y=26016.859 Z=33530.402"/>
+</root>

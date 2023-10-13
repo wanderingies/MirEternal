@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=19104.549 Y=55756.074 Z=8203.117" Radius="384" DisplayName="香石墓穴二层"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=19113.006 Y=55021.602 Z=8251.658" DisplayName="香石墓穴三层" Radius="512.000000" Rotation="33088" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_3" Position="X=15411.643 Y=52660.844 Z=8192.922" Radius="384" DisplayName="石墓二层"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=15471.719 Y=53235.656 Z=8238.162" DisplayName="香石墓穴三层" Radius="512.000000" Rotation="15648" NpcId="0"/>
+</root>

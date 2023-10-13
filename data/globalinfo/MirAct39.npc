@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="9623" DisplayName="沙城管理员" NpcType="4" NpcFuncType="16" Position="X=30837.035 Y=46520.375 Z=6228.378"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6530" DisplayName="风翎" NpcType="4" NpcFuncType="16" Position="X=31956.445 Y=46520.375 Z=6241.947"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="9623" DisplayName="沙城管理员" NpcType="4" NpcFuncType="16" Position="X=33576.102 Y=45980.746 Z=6375.998"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="9660" DisplayName="战盟使者" NpcType="4" NpcFuncType="16" Position="X=33583.891 Y=46163.160 Z=6242.009"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="6527" DisplayName="香毒" NpcType="4" NpcFuncType="4" Position="X=32305.369 Y=45424.566 Z=6244.345"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6528" DisplayName="玛法通驿" NpcType="4" NpcFuncType="16" Position="X=32314.938 Y=46513.449 Z=6242.009"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="8245" DisplayName="受伤的观战者" NpcType="4" NpcFuncType="0" Position="X=36831.227 Y=50691.066 Z=6221.999"/>
+	<NPC Name="NPCServerInstance_40" TemplateID="6413" DisplayName="刀妹" NpcType="4" NpcFuncType="20" Position="X=32668.631 Y=45439.031 Z=6253.692"/>
+	<NPC Name="NPCServerInstance_41" TemplateID="6526" DisplayName="百师" NpcType="4" NpcFuncType="4" Position="X=31948.744 Y=45428.375 Z=6241.999"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="9652" DisplayName="巅峰沙巴克公告" NpcType="4" NpcFuncType="16" Position="X=32656.018 Y=46513.449 Z=6242.009"/>
+</root>

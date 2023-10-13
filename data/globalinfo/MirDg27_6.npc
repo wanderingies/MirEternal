@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_2" TemplateID="6538" DisplayName="雪域勇士" NpcType="4" NpcFuncType="0" Position="X=17201.551 Y=12202.104 Z=8271.467"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6538" DisplayName="雪域勇士" NpcType="4" NpcFuncType="0" Position="X=17836.705 Y=11947.188 Z=8271.467"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6540" DisplayName="前线指挥官" NpcType="4" NpcFuncType="16" Position="X=17461.293 Y=11947.652 Z=8271.467"/>
+</root>

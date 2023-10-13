@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=8181.839 Y=27851.035 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="8238" DisplayName="哨探鹰卫" NpcType="4" NpcFuncType="0" Position="X=11891.257 Y=23656.932 Z=9540.000"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="8250" DisplayName="荒漠鹰卫" NpcType="4" NpcFuncType="16" Position="X=15661.212 Y=21091.344 Z=9540.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=28758.764 Y=20446.318 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=22924.170 Y=12098.386 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=10042.321 Y=11106.706 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="8243" DisplayName="荒漠守卫" NpcType="4" NpcFuncType="0" Position="X=27509.064 Y=7909.310 Z=11090.785"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="8244" DisplayName="荒漠守卫" NpcType="4" NpcFuncType="0" Position="X=27943.572 Y=8178.339 Z=11084.702"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="8233" DisplayName="难民首领" NpcType="4" NpcFuncType="16" Position="X=21909.869 Y=11929.828 Z=10199.133"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="8234" DisplayName="难民游侠" NpcType="4" NpcFuncType="0" Position="X=12303.961 Y=22906.814 Z=10304.000"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="2706" DisplayName="精锐狼骑兵" NpcType="5" NpcFuncType="0" Position="X=5722.688 Y=6259.336 Z=11283.998"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8235" DisplayName="逃亡半兽人" NpcType="4" NpcFuncType="0" Position="X=27853.512 Y=7787.703 Z=11085.329"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="2708" DisplayName="兽人大祭司" NpcType="6" NpcFuncType="0" Position="X=15854.825 Y=6162.099 Z=11283.998"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="8232" DisplayName="石原难民" NpcType="4" NpcFuncType="0" Position="X=31861.031 Y=4802.736 Z=10319.529"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="8236" DisplayName="受伤的半兽人斥候" NpcType="4" NpcFuncType="0" Position="X=5068.164 Y=33398.156 Z=10861.750"/>
+</root>

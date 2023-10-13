@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct06" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=60491.426 Y=67101.133 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=62748.398 Y=66398.672 Z=4531.278" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=12883.360 Y=67101.133 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=15140.328 Y=66398.672 Z=4531.278" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=12883.360 Y=40310.273 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=15140.328 Y=39607.809 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=60491.426 Y=40310.273 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=62748.398 Y=39607.809 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=12883.360 Y=13700.441 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=15140.328 Y=12997.979 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=34605.668 Y=13700.441 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=36862.641 Y=12997.979 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=34605.668 Y=67101.133 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=36862.641 Y=66398.672 Z=4531.278" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=34605.668 Y=40310.273 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=36862.641 Y=39607.809 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=62748.398 Y=12997.979 Z=4531.277" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=60491.426 Y=13700.441 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="寒冰祭坛" Position="X=12883.360 Y=91965.133 Z=4371.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="烈火祭坛" Position="X=15140.328 Y=91262.672 Z=4531.278" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

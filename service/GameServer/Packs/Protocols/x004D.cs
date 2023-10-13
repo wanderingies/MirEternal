@@ -11,23 +11,30 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x004D : Package
     {
-        #region public field
+        #region public
 
 		public Byte 装备类型;
 		public Byte 装备位置;
+        #endregion
+
+        #region marshal
 
         public Byte StatId;
         public Int32 Value;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x004D;
-        public ushort Size => 4;
+        public ushort Size => 4;     
         public ushort rSize => 7;
         #endregion
+        
+        public x004D() 
+        {
+        }
 
-        #region private field
+        #region private
 
 
         #endregion
@@ -43,12 +50,12 @@ namespace GameServer.Packs.Protocol
         {
 			装备类型 = byteBlock.ReadByte();
 			装备位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

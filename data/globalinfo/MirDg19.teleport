@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=65000.000 Y=65000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=43523.609 Y=36965.957 Z=7892.023" Radius="384" DisplayName="白日门城"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=42971.809 Y=36964.410 Z=7938.000" DisplayName="白日门海岸" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=13612.817 Y=33455.500 Z=7336.156" DisplayName="白日门海岸" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=12587.643 Y=33466.926 Z=7332.733" Radius="800" DisplayName="龙耀崖"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=16612.656 Y=51739.750 Z=7329.350" DisplayName="" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_0" Position="X=16625.338 Y=52522.410 Z=7283.855" Radius="384" DisplayName="沃玛森林"/>
+</root>

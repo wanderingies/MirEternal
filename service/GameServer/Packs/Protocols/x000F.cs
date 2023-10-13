@@ -11,7 +11,11 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x000F : Package
     {
-        #region public field
+        #region public
+
+        #endregion
+
+        #region marshal
 
         public byte PackSize;
         public byte BackpackSize;
@@ -24,14 +28,18 @@ namespace GameServer.Packs.Protocol
         public byte u5;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x000F;
-        public ushort Size => 2;
-        public ushort rSize => 13;
+        public ushort Size => 2;     
+        public ushort rSize => 11;
         #endregion
+        
+        public x000F() 
+        {
+        }
 
-        #region private field
+        #region private
 
 
         #endregion
@@ -52,12 +60,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

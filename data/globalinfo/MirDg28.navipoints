@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg28" ServerMapType="1">
+	<NaviPoint Name="quest_501" DisplayName="" Position="X=47250.813 Y=12191.372 Z=6168.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="spring" DisplayName="悠然泉" Position="X=42956.645 Y=22726.428 Z=6590.854" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="forest_aby" DisplayName="深渊密林" Position="X=48492.789 Y=12744.590 Z=6590.854" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="cavern" DisplayName="夜航洞窟" Position="X=56284.969 Y=44311.578 Z=6590.854" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="forest_revive" DisplayName="复生林地" Position="X=26994.484 Y=39710.949 Z=6590.854" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="sunrise_alter" DisplayName="日出平台" Position="X=34336.043 Y=13975.576 Z=7438.639" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="nav_hkml" DisplayName="至嚎哭密林" Position="X=68742.969 Y=15566.684 Z=7438.639" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="quest_495" DisplayName="" Position="X=25188.863 Y=14480.407 Z=4142.585" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_497" DisplayName="" Position="X=31415.861 Y=37103.668 Z=4982.884" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_499" DisplayName="" Position="X=40511.781 Y=22469.326 Z=6076.666" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="coast" DisplayName="蜿蜒海岸" Position="X=23298.922 Y=15873.852 Z=7438.639" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

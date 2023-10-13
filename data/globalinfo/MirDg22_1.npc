@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="8251" DisplayName="矿洞鹰卫" NpcType="4" NpcFuncType="16" Position="X=11891.257 Y=26528.088 Z=8281.591"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=32035.994 Y=21271.938 Z=8267.590"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=25886.338 Y=15835.292 Z=8271.341"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=26513.855 Y=22455.594 Z=8273.903"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=26162.326 Y=26612.658 Z=8274.813"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=29428.445 Y=31675.424 Z=8270.999"/>
+	<NPC Name="NPCServerInstance_42" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=37569.961 Y=16119.034 Z=8269.356"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=26698.914 Y=35484.195 Z=8262.108"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=19825.879 Y=33131.086 Z=8270.999"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=20642.520 Y=13486.348 Z=8269.865"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=19544.383 Y=30133.609 Z=8270.999"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=35472.402 Y=21265.203 Z=8267.999"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=15928.896 Y=16738.611 Z=8275.979"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6313" DisplayName="矿脉" NpcType="1" NpcFuncType="0" Position="X=15651.174 Y=23344.365 Z=8284.590"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="7121" DisplayName="香菇" NpcType="4" NpcFuncType="4" Position="X=37800.000 Y=20300.000 Z=8271.000"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="8252" DisplayName="无为" NpcType="4" NpcFuncType="16" Position="X=12526.089 Y=26507.197 Z=8281.591"/>
+</root>

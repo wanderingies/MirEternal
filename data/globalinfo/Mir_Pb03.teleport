@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=130000.000 Y=120000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_8" Position="X=81460.656 Y=70688.250 Z=4299.440" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=81466.555 Y=70130.734 Z=4313.919" DisplayName="边界村" Radius="0.000000" Rotation="49168" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_9" Position="X=45810.574 Y=66155.305 Z=4524.030" Radius="384" DisplayName="隐秘洞穴"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=45338.359 Y=66073.719 Z=4542.560" DisplayName="边界村" Radius="0.000000" Rotation="40080" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_10" Position="X=70148.523 Y=25887.613 Z=5331.157" Radius="384" DisplayName="森林深处"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=70236.961 Y=25243.637 Z=5399.215" DisplayName="边界村" Radius="0.000000" Rotation="46096" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_11" Position="X=91970.625 Y=103202.977 Z=4648.808" Radius="384" DisplayName="边界村"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=92418.273 Y=103176.953 Z=4660.673" DisplayName="森林深处" Radius="0.000000" Rotation="188" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_12" Position="X=63259.375 Y=88332.227 Z=10113.999" Radius="384" DisplayName="边界村"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=63807.332 Y=88337.766 Z=10063.228" DisplayName="隐秘洞穴" Radius="0.000000" Rotation="1820" NpcId="0"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_13" Position="X=51839.152 Y=61946.313 Z=5212.699" Radius="256" DisplayName="书院"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=51331.281 Y=61894.488 Z=5190.834" DisplayName="边界村" Radius="0.000000" Rotation="32832" NpcId="0"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_16" Position="X=27894.373 Y=52941.570 Z=4640.105" Radius="256" DisplayName="首饰和仓库"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=27889.748 Y=52407.957 Z=4515.128" DisplayName="边界村" Radius="0.000000" Rotation="49152" NpcId="0"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_14" Position="X=34498.820 Y=58105.824 Z=4804.146" Radius="256" DisplayName="书店"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=34121.887 Y=57923.961 Z=4765.811" DisplayName="边界村" Radius="0.000000" Rotation="40736" NpcId="0"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_18" Position="X=29164.025 Y=47879.500 Z=4640.141" Radius="256" DisplayName="藏书阁"/>
+		<TeleportTarget Name="TeleportTarget_18" Position="X=28798.193 Y=47880.969 Z=4556.285" DisplayName="边界村" Radius="0.000000" Rotation="32768" NpcId="0"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_15" Position="X=24228.234 Y=45917.980 Z=4730.008" Radius="256" DisplayName="客栈"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=23915.775 Y=45887.906 Z=4704.999" DisplayName="边界村" Radius="0.000000" Rotation="32588" NpcId="0"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_7" Position="X=34104.977 Y=44815.598 Z=4520.912" Radius="256" DisplayName="低级民居"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=33781.047 Y=45079.305 Z=4510.999" DisplayName="边界村" Radius="0.000000" Rotation="26592" NpcId="0"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_17" Position="X=34333.313 Y=48791.016 Z=4542.506" Radius="256" DisplayName="高级民居"/>
+		<TeleportTarget Name="TeleportTarget_17" Position="X=34307.266 Y=48331.094 Z=4510.999" DisplayName="边界村" Radius="0.000000" Rotation="49536" NpcId="0"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_1" Position="X=26966.953 Y=97481.938 Z=10327.219" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_0" Position="X=26932.578 Y=85162.672 Z=10368.417" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_2" Position="X=26916.008 Y=91400.531 Z=10376.952" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_3" Position="X=18946.746 Y=86614.289 Z=10386.823" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_4" Position="X=20074.412 Y=92587.945 Z=10307.817" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_5" Position="X=20912.842 Y=97512.969 Z=10332.328" Radius="256" DisplayName="边界村"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_6" Position="X=20257.572 Y=104903.484 Z=10341.305" Radius="256" DisplayName="边界村"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=20905.482 Y=97920.805 Z=10326.162" DisplayName="高级民居" Radius="0.000000" Rotation="16300" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=20450.818 Y=92588.094 Z=10311.100" DisplayName="书店" Radius="0.000000" Rotation="0" NpcId="4749"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=19357.695 Y=86618.883 Z=10386.371" DisplayName="书院" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=26967.391 Y=92041.852 Z=10370.904" DisplayName="仓库首饰店" Radius="0.000000" Rotation="16384" NpcId="6665"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=26954.273 Y=98115.133 Z=10322.771" DisplayName="藏书阁" Radius="0.000000" Rotation="16416" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=26942.813 Y=85528.250 Z=10375.264" DisplayName="客栈" Radius="0.000000" Rotation="16448" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=20637.533 Y=104900.852 Z=10456.101" DisplayName="低级民居" Radius="0.000000" Rotation="12128" NpcId="0"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_19" Position="X=25287.623 Y=104903.258 Z=10422.112" Radius="256" DisplayName="边界村"/>
+		<TeleportTarget Name="TeleportTarget_19" Position="X=25698.191 Y=104904.141 Z=10467.313" DisplayName="地牢" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_20" Position="X=23460.381 Y=59379.910 Z=4616.417" Radius="256" DisplayName="地牢"/>
+		<TeleportTarget Name="TeleportTarget_20" Position="X=23444.496 Y=58822.547 Z=4650.853" DisplayName="边界村" Radius="0.000000" Rotation="49012" NpcId="0"/>
+</root>

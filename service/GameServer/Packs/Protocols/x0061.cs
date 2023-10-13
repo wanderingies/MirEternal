@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0061 : Package
     {
-        #region public field
+        #region public
 
 		public Byte BackpackType;
 		public Byte Unknown;
 		public Byte Slot;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0061;
-        public ushort Size => 5;        
+        public ushort Size => 5;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0061() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			BackpackType = byteBlock.ReadByte();
 			Unknown = byteBlock.ReadByte();
 			Slot = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

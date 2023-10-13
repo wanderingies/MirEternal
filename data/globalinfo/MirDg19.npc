@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_27" TemplateID="6591" DisplayName="船夫" NpcType="4" NpcFuncType="16" Position="X=13898.431 Y=32076.771 Z=7342.561"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6482" DisplayName="白日门哨探" NpcType="4" NpcFuncType="16" Position="X=13401.824 Y=33758.309 Z=7409.459"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="8217" DisplayName="林溪" NpcType="4" NpcFuncType="20" Position="X=30320.738 Y=45073.813 Z=8055.360"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="8216" DisplayName="月霞" NpcType="4" NpcFuncType="4" Position="X=30238.086 Y=45524.980 Z=8055.360"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="8219" DisplayName="阿浪" NpcType="4" NpcFuncType="0" Position="X=29616.131 Y=45628.070 Z=8055.360"/>
+</root>

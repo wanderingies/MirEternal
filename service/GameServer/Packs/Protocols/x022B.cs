@@ -11,37 +11,47 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x022B : Package
     {
-        #region public field
+        #region public
 
 		public Int32 行会编号;
 		public String GuildName;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x022B;
-        public ushort Size => 31;        
+        public ushort Size => 31;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x022B() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			行会编号 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

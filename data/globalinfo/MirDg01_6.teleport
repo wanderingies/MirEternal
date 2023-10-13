@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=60000.000 Y=60000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=35464.688 Y=24679.559 Z=27976.574" Radius="384" DisplayName="虫巢"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=35479.656 Y=24178.344 Z=27968.945" DisplayName="毒虫回廊" Radius="600.000000" Rotation="46572" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=11218.801 Y=24733.016 Z=27734.750" Radius="384" DisplayName="死亡峡谷二层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=10870.814 Y=25081.285 Z=27716.998" DisplayName="毒虫回廊" Radius="600.000000" Rotation="25676" NpcId="0"/>
+</root>

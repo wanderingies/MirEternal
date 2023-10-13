@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="8619" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55300.063 Y=45411.652 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="8606" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=46884.008 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8605" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=45435.852 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="8604" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.902 Y=45166.309 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="8618" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.586 Y=45166.047 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6924" DisplayName="沙城旗帜传送" NpcType="4" NpcFuncType="0" Position="X=56569.961 Y=50861.027 Z=6652.460"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="8620" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.961 Y=46908.699 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6292" DisplayName="传送员" NpcType="4" NpcFuncType="0" Position="X=46707.258 Y=178576.859 Z=5377.522"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6292" DisplayName="传送员" NpcType="4" NpcFuncType="0" Position="X=46707.008 Y=188711.359 Z=5377.522"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6779" DisplayName="刀妹" NpcType="4" NpcFuncType="4" Position="X=46882.656 Y=190157.422 Z=5430.580"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6776" DisplayName="红菇" NpcType="4" NpcFuncType="4" Position="X=46888.188 Y=189797.672 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6775" DisplayName="月灵香" NpcType="4" NpcFuncType="4" Position="X=46882.719 Y=189428.297 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6779" DisplayName="刀妹" NpcType="4" NpcFuncType="4" Position="X=46882.656 Y=180025.391 Z=5430.580"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6776" DisplayName="红菇" NpcType="4" NpcFuncType="4" Position="X=46888.188 Y=179665.641 Z=5374.500"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6775" DisplayName="月灵香" NpcType="4" NpcFuncType="4" Position="X=46882.719 Y=179296.266 Z=5374.500"/>
+</root>

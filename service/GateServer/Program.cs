@@ -6,6 +6,9 @@ using TouchSocket.Sockets;
 
 using GateServer.Service;
 using System.Runtime.InteropServices;
+using Configurations;
+using Configurations.Core;
+using System.Text;
 
 namespace GateServer
 {
@@ -13,6 +16,17 @@ namespace GateServer
     {
         static void Main(string[] args)
         {
+            // 注册Nuget包System.Text.Encoding.CodePages中的编码到.NET Core
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+
+            #region Configurations
+
+            //var run = ReadWithFileChangeChecking();
+            const string dcc = "GateServer.dcc";
+            FileConfigurationRepo repo = ConfigurationFactory.FromFile(dcc);
+            _configura = repo.CreateAppConfigurator().Of<Configura>();
+            #endregion
+
             #region GateService
 
             service = new GateService();
@@ -30,6 +44,7 @@ namespace GateServer
                 }))
                 .Start();//启动
 
+            service.Logger.Info(_configura.Message);
             service.Logger.Info("网关服务器启动成功");
             #endregion
 
@@ -39,6 +54,15 @@ namespace GateServer
         }
         
         public static GateService service;
+        public static Configura _configura;
+
+        public static async Task ReadWithFileChangeChecking()
+        {
+            const string dcc = "GateServer.dcc";
+            FileConfigurationRepo repo = ConfigurationFactory.FromFile(dcc);
+            _configura = repo.CreateAppConfigurator().Of<Configura>();
+            await repo.ReloadExternalChangesAsync().ConfigureAwait(false);
+        }
 
         #region capture event
 

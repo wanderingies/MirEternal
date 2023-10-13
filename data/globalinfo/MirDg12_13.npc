@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_14" TemplateID="6226" DisplayName="神秘人" NpcType="4" NpcFuncType="0" Position="X=40267.086 Y=35293.664 Z=9408.295"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6229" DisplayName="雷老大" NpcType="4" NpcFuncType="0" Position="X=32011.992 Y=39359.898 Z=9447.477"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="7121" DisplayName="香菇" NpcType="4" NpcFuncType="4" Position="X=21400.000 Y=43000.000 Z=9737.414"/>
+</root>

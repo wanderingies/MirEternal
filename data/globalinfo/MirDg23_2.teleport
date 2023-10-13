@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100.000 Y=100.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=21474.588 Y=22073.834 Z=5510.623" Radius="800" DisplayName="至远古禁域"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=9513.989 Y=9627.783 Z=5494.581" DisplayName="兽人陵墓深层" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_6" Position="X=9466.168 Y=8686.619 Z=5504.647" Radius="800" DisplayName="兽人陵墓浅表"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_1" Position="X=34234.016 Y=21774.652 Z=5504.647" Radius="800" DisplayName="兽人陵墓浅表"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=34271.074 Y=22797.254 Z=5494.581" DisplayName="兽人陵墓深层" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=20324.482 Y=22061.861 Z=5494.581" DisplayName="兽人陵墓深层" Radius="0.000000" Rotation="0" NpcId="0"/>
+</root>

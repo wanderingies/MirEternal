@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_7" TemplateID="5563" DisplayName="跨服战场刷怪" NpcType="0" NpcFuncType="0" Position="X=58578.895 Y=41056.703 Z=6423.166"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6195" DisplayName="幻境守将" NpcType="4" NpcFuncType="0" Position="X=53717.402 Y=51437.488 Z=6423.166"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=47511.891 Y=51270.445 Z=6423.187"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=47511.891 Y=40243.305 Z=6423.187"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=58030.145 Y=40196.641 Z=6423.166"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6195" DisplayName="幻境守将" NpcType="4" NpcFuncType="0" Position="X=47654.875 Y=46858.664 Z=6423.166"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6195" DisplayName="幻境守将" NpcType="4" NpcFuncType="0" Position="X=53576.234 Y=40641.141 Z=6423.167"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=58761.918 Y=52885.645 Z=6423.183"/>
+</root>

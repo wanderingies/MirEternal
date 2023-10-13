@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=86000.000 Y=80000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=18590.240 Y=18410.947 Z=26522.408" Radius="800" DisplayName="至黑岩峰底"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=18910.238 Y=19620.660 Z=26531.090" DisplayName="黑岩山麓" Radius="0.000000" Rotation="9880" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=49762.750 Y=55182.898 Z=31067.990" DisplayName="黑岩山麓" Radius="0.000000" Rotation="9880" NpcId="0"/>
+</root>

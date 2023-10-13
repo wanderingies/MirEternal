@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirPb04" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至尸魔洞一层" Position="X=14184.605 Y=43273.012 Z=4146.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至牛魔寺庙入口" Position="X=21425.471 Y=59024.402 Z=4146.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="仓库" Position="X=57192.504 Y=23104.615 Z=4146.456" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="首饰" Position="X=51843.664 Y=26255.553 Z=4145.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="书店" Position="X=56645.359 Y=31078.145 Z=4145.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="杂货" Position="X=56356.953 Y=28620.756 Z=4144.728" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="服饰" Position="X=55198.828 Y=27080.850 Z=4144.728" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="药店" Position="X=52655.922 Y=29983.809 Z=4145.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至骨魔洞一层" Position="X=37627.391 Y=53685.211 Z=4179.263" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="安全区" Position="X=54090.258 Y=25982.498 Z=4144.728" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="武器" Position="X=59269.395 Y=27907.646 Z=4146.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

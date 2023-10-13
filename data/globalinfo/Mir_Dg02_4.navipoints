@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg02_4" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="通灵平台" Position="X=41408.000 Y=45952.000 Z=7629.862" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="祈光殿" Position="X=40256.000 Y=30080.521 Z=7350.009" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="小迷阵" Position="X=28616.045 Y=30004.480 Z=7351.378" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至石墓四层" Position="X=47616.000 Y=58145.176 Z=7970.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="sm5_shimuzhen" DisplayName="至石墓阵" Position="X=22183.219 Y=28899.297 Z=7714.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="6994" DisplayName="勇者商人" NpcType="4" NpcFuncType="0" Position="X=10589.434 Y=9964.115 Z=7757.999"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6815" DisplayName="钱一万" NpcType="4" NpcFuncType="4" Position="X=10595.060 Y=9774.483 Z=7757.999"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6996" DisplayName="小游" NpcType="4" NpcFuncType="16" Position="X=10224.743 Y=10143.571 Z=7757.999"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6813" DisplayName="麻老" NpcType="4" NpcFuncType="4" Position="X=10594.032 Y=9593.687 Z=7757.999"/>
+</root>

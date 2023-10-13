@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=21358.658 Y=52405.043 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=24527.473 Y=55033.063 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=8502.735 Y=41370.547 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=10140.812 Y=39551.012 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=10772.494 Y=43805.695 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=13740.143 Y=43002.168 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=13578.329 Y=46611.523 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=17836.828 Y=47066.816 Z=5999.000"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="6568" DisplayName="地脉陷阱图腾" NpcType="5" NpcFuncType="0" Position="X=21268.645 Y=52500.531 Z=5999.000"/>
+</root>

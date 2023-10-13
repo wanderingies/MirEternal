@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x00B0 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 发放方式;
 		public Int32 发放总额;
@@ -19,20 +19,30 @@ namespace GameServer.Packs.Protocol
 		public Int32 对象编号;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x00B0;
-        public ushort Size => 0;        
+        public ushort Size => 0;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x00B0() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -41,12 +51,12 @@ namespace GameServer.Packs.Protocol
 			发放总额 = byteBlock.ReadInt32();
 			发放人数 = byteBlock.ReadUInt16();
 			对象编号 = byteBlock.ReadInt32();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

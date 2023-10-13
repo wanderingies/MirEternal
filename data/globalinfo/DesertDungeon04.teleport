@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=55000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=44779.766 Y=21203.158 Z=5576.094" Radius="800" DisplayName="龙骨沙漠"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=44717.680 Y=23205.717 Z=5376.100" DisplayName="" Radius="0.000000" Rotation="32292" NpcId="0"/>
+</root>

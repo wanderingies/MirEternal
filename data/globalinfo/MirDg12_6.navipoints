@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_6" ServerMapType="1">
+	<NaviPoint Name="xilinjianshengdi1" DisplayName="至魔龙沼泽" Position="X=21092.248 Y=53771.965 Z=9402.786" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="xilinjianshengdi2" DisplayName="至魔龙西郊" Position="X=58110.664 Y=20192.877 Z=9363.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

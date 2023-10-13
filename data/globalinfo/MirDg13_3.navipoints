@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg13_3" ServerMapType="1">
+	<NaviPoint Name="Qst_5505" DisplayName="" Position="X=19517.484 Y=13971.103 Z=8242.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至骨魔洞四层" Position="X=39368.387 Y=21893.594 Z=8248.520" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest303" DisplayName="绝境窟" Position="X=25627.400 Y=20080.016 Z=8242.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至骨魔洞二层" Position="X=22254.787 Y=10061.544 Z=8242.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

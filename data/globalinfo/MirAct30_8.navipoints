@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct30_8" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=45619.480 Y=31589.967 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=20884.877 Y=33675.977 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="虹魔教坛" Position="X=32537.406 Y=41518.512 Z=7580.771" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

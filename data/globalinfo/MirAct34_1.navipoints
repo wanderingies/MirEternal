@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct34_1" ServerMapType="1">
+	<NaviPoint Name="Center_Treasure" DisplayName="中央营地" Position="X=35241.172 Y=45580.703 Z=9004.435" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Boss_W" DisplayName="神秘祭坛" Position="X=55281.215 Y=67960.539 Z=9118.495" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Boss_S" DisplayName="神秘祭坛" Position="X=20345.396 Y=24755.014 Z=9019.159" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Boss_N" DisplayName="神秘祭坛" Position="X=54023.754 Y=26127.430 Z=9302.981" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Path_Valley" DisplayName="峡谷秘径" Position="X=47602.555 Y=29109.479 Z=8872.729" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Highland" DisplayName="废墟高地" Position="X=31696.898 Y=67045.609 Z=9136.207" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Boss_E" DisplayName="神秘祭坛" Position="X=20384.268 Y=67609.641 Z=9456.699" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

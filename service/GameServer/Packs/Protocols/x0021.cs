@@ -11,20 +11,28 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0021 : Package
     {
-        #region public field
+        #region public
 
 		public UInt16 SkillId;
+        #endregion
+
+        #region marshal
 
         public int roleid;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x0021;
-        public ushort Size => 4;        
+        public ushort Size => 4;     
+        public ushort rSize => 6;
         #endregion
         
-        #region private field
+        public x0021() 
+        {
+        }
+
+        #region private
 
 
         #endregion
@@ -38,12 +46,12 @@ namespace GameServer.Packs.Protocol
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
 			SkillId = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

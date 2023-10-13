@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct25" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="荒砂村落" Position="X=17728.838 Y=29238.770 Z=14375.888" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至未知暗殿二层" Position="X=28048.922 Y=56932.875 Z=18226.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="惩戒坛" Position="X=47425.590 Y=18914.500 Z=16690.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至中庭" Position="X=33476.211 Y=29238.963 Z=15922.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至回廊" Position="X=31938.807 Y=29150.199 Z=16050.002" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="暗殿之巅" Position="X=27965.188 Y=46711.316 Z=18264.027" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="回廊入口" Position="X=40582.422 Y=29179.645 Z=14898.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至惩戒坛" Position="X=39820.414 Y=25799.455 Z=15922.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

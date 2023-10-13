@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirPb05" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至赤月群岛" Position="X=43809.809 Y=28975.834 Z=6977.501" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="白日门驿站" Position="X=45006.730 Y=46040.938 Z=6927.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="白虎堂" Position="X=35007.043 Y=64294.941 Z=7955.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_407" DisplayName="" Position="X=51751.441 Y=59862.941 Z=6965.501" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至白日门海岸" Position="X=24696.564 Y=60132.828 Z=7941.228" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_405" DisplayName="" Position="X=43287.258 Y=39117.297 Z=6698.317" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="安全区" Position="X=34986.418 Y=48325.578 Z=7089.533" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_402" DisplayName="" Position="X=27902.570 Y=37147.504 Z=6971.500" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至石原荒漠" Position="X=62910.199 Y=34190.063 Z=6921.948" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

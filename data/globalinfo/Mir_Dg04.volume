@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=85000.000 Y=80000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="沃玛森林" Priority="1" ReuseMapVolumeName="" MinPos="X=1024.000 Y=1024.000 Z=8192.000" MaxPos="X=82944.000 Y=82944.000 Z=16384.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="160.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+	<VolumeMapSize Name="MMOVolume_MapSize_1" DisplayName="堕落坟场" Priority="3" ReuseMapVolumeName="" MinPos="X=52224.000 Y=77824.000 Z=8192.000" MaxPos="X=72704.000 Y=98304.000 Z=16384.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.571429" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="40.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

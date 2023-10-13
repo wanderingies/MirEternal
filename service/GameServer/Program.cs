@@ -2,6 +2,8 @@
 
 using GameServer.Data;
 using GameServer.Service;
+using GameServer.Template;
+using GameServer.Utility;
 using System.Runtime.InteropServices;
 using TouchSocket.Core;
 using TouchSocket.Sockets;
@@ -12,7 +14,14 @@ namespace GameServer
     {
         static void Main(string[] args)
         {
-            _rolebox = new Rolebox();            
+            _rolebox = new Rolebox();
+
+            #region Template
+
+            /*var templates = Reflection.CreateAllInstancesOf<TemplateInterface>().OrderBy(q => q.TemplateLevel);
+            foreach (var template in templates)
+                template.ReaderTemplate();*/
+            #endregion
 
             #region GameService
 
@@ -22,7 +31,8 @@ namespace GameServer
                 .SetListenIPHosts("tcp://127.0.0.1:29300")
                 .ConfigureContainer(a =>//容器的配置顺序应该在最前面
                 {
-                    a.AddConsoleLogger();//添加一个控制台日志注入（注意：在maui中控制台日志不可用）
+                    a.AddConsoleLogger();
+                    a.AddFileLogger("logs\\GameServer");
                 })
                 .ConfigurePlugins(a =>
                 {

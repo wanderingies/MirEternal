@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="3352" DisplayName="白野猪" NpcType="6" NpcFuncType="0" Position="X=37052.000 Y=31581.678 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3352" DisplayName="白野猪" NpcType="6" NpcFuncType="0" Position="X=21473.420 Y=41311.266 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="3352" DisplayName="白野猪" NpcType="6" NpcFuncType="0" Position="X=31259.246 Y=58520.832 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3352" DisplayName="白野猪" NpcType="6" NpcFuncType="0" Position="X=46500.383 Y=53684.152 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6819" DisplayName="虾老大" NpcType="4" NpcFuncType="0" Position="X=20400.672 Y=29872.000 Z=7760.000"/>
+</root>

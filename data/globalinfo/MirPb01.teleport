@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100.000 Y=100.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_4" Position="X=24068.809 Y=23245.004 Z=6162.116" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_28" Position="X=24454.006 Y=23634.266 Z=6144.101" DisplayName="盟重省" Radius="0.000000" Rotation="7640" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_3" Position="X=82640.492 Y=48513.879 Z=6671.783" Radius="384" DisplayName="死亡峡谷一层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=81916.938 Y=48694.219 Z=6710.920" DisplayName="盟重省" Radius="0.000000" Rotation="31104" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_16" Position="X=42529.574 Y=53493.301 Z=6970.413" Radius="256" DisplayName="石墓一层"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=42540.473 Y=52943.855 Z=6886.351" DisplayName="盟重省" Radius="0.000000" Rotation="49152" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_1" Position="X=39276.328 Y=81548.234 Z=6202.051" Radius="384" DisplayName="沙巴克"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=38828.027 Y=81101.070 Z=6160.938" DisplayName="盟重省" Radius="0.000000" Rotation="46916" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=19823.545 Y=64621.867 Z=5494.103" DisplayName="盟重省" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_2" Position="X=19087.344 Y=64808.672 Z=5500.954" Radius="384" DisplayName="沙巴克"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_0" Position="X=46609.309 Y=56837.688 Z=6543.707" Radius="384" DisplayName="首饰店"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_5" Position="X=45524.930 Y=58102.902 Z=6547.940" Radius="384" DisplayName="服饰店"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_6" Position="X=41182.504 Y=57753.898 Z=6556.969" Radius="384" DisplayName="铁匠铺"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=46085.965 Y=56837.289 Z=6526.100" DisplayName="盟重省" Radius="0.000000" Rotation="32764" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=45521.707 Y=57572.309 Z=6526.100" DisplayName="盟重省" Radius="0.000000" Rotation="49308" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=41184.984 Y=57208.367 Z=6522.110" DisplayName="盟重省" Radius="0.000000" Rotation="49184" NpcId="0"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_7" Position="X=36652.918 Y=111322.383 Z=4484.570" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_8" Position="X=44075.613 Y=109287.266 Z=4498.646" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_9" Position="X=38936.238 Y=116133.695 Z=4882.765" Radius="384" DisplayName="盟重省"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=38371.070 Y=116127.898 Z=4905.766" DisplayName="服饰店" Radius="0.000000" Rotation="18784" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=37199.117 Y=111142.422 Z=4484.126" DisplayName="首饰店" Radius="0.000000" Rotation="48608" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=44082.984 Y=109867.102 Z=4473.021" DisplayName="铁匠铺" Radius="0.000000" Rotation="16296" NpcId="0"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_10" Position="X=42538.965 Y=54943.359 Z=6543.798" Radius="256" DisplayName="随机长廊"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_11" Position="X=50491.367 Y=111959.094 Z=4419.920" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_12" Position="X=50593.570 Y=117856.656 Z=4314.842" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_13" Position="X=50595.652 Y=123273.813 Z=4556.680" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_14" Position="X=57470.965 Y=124363.734 Z=4014.057" Radius="384" DisplayName="酒馆一层"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_15" Position="X=56391.652 Y=116928.680 Z=4022.249" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_17" Position="X=56929.203 Y=111151.797 Z=4374.601" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_18" Position="X=61823.156 Y=111510.953 Z=4564.481" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_19" Position="X=62274.594 Y=117025.734 Z=5995.327" Radius="384" DisplayName="盟重省"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_20" Position="X=63084.336 Y=118273.836 Z=6062.061" Radius="384" DisplayName="旅馆二层"/>
+		<TeleportOrig ServerID="22" Name="TeleportOrig_21" Position="X=63087.738 Y=124538.180 Z=4778.165" Radius="384" DisplayName="旅馆一层"/>
+		<TeleportOrig ServerID="23" Name="TeleportOrig_22" Position="X=57025.258 Y=118284.641 Z=4026.781" Radius="384" DisplayName="酒馆二层"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=51043.629 Y=111953.430 Z=4348.553" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=51137.098 Y=117843.805 Z=4300.679" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=51142.738 Y=123280.000 Z=4529.569" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=56935.949 Y=124366.047 Z=3995.678" DisplayName="酒馆二层" Radius="0.000000" Rotation="32648" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=56393.602 Y=117479.492 Z=3995.584" DisplayName="酒馆一层" Radius="0.000000" Rotation="16188" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=56929.754 Y=111687.125 Z=4348.569" DisplayName="药店" Radius="0.000000" Rotation="15980" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_17" Position="X=62089.754 Y=111959.234 Z=4527.991" DisplayName="书店" Radius="0.000000" Rotation="15976" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_18" Position="X=62270.434 Y=117576.977 Z=5986.647" DisplayName="旅馆一层" Radius="0.000000" Rotation="16400" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_19" Position="X=62990.641 Y=117742.727 Z=5987.303" DisplayName="旅馆一层" Radius="0.000000" Rotation="40996" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_20" Position="X=62624.984 Y=124629.609 Z=4744.553" DisplayName="旅馆二层" Radius="0.000000" Rotation="32680" NpcId="0"/>
+		<TeleportOrig ServerID="24" Name="TeleportOrig_23" Position="X=31758.662 Y=67209.016 Z=6242.197" Radius="384" DisplayName="书店"/>
+		<TeleportTarget Name="TeleportTarget_21" Position="X=31772.830 Y=66780.852 Z=6148.209" DisplayName="盟重省" Radius="0.000000" Rotation="48888" NpcId="0"/>
+		<TeleportOrig ServerID="25" Name="TeleportOrig_24" Position="X=37564.059 Y=67045.797 Z=6209.259" Radius="384" DisplayName="酒馆一层"/>
+		<TeleportTarget Name="TeleportTarget_22" Position="X=37567.898 Y=66617.594 Z=6144.099" DisplayName="盟重省" Radius="0.000000" Rotation="49100" NpcId="0"/>
+		<TeleportOrig ServerID="26" Name="TeleportOrig_25" Position="X=37830.973 Y=49170.309 Z=6545.228" Radius="384" DisplayName="旅馆一层"/>
+		<TeleportTarget Name="TeleportTarget_23" Position="X=37830.020 Y=48597.398 Z=6399.000" DisplayName="盟重省" Radius="0.000000" Rotation="49180" NpcId="0"/>
+		<TeleportOrig ServerID="27" Name="TeleportOrig_26" Position="X=39753.281 Y=47963.070 Z=6447.455" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_24" Position="X=39182.270 Y=47971.059 Z=6398.099" DisplayName="盟重省" Radius="0.000000" Rotation="32856" NpcId="0"/>
+		<TeleportOrig ServerID="28" Name="TeleportOrig_27" Position="X=43716.461 Y=46888.754 Z=6400.551" Radius="384" DisplayName="药店"/>
+		<TeleportTarget Name="TeleportTarget_25" Position="X=43716.199 Y=46341.813 Z=6398.099" DisplayName="盟重省" Radius="0.000000" Rotation="49216" NpcId="0"/>
+		<TeleportOrig ServerID="29" Name="TeleportOrig_28" Position="X=46943.902 Y=47517.742 Z=6400.941" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_26" Position="X=46509.691 Y=47513.660 Z=6398.099" DisplayName="盟重省" Radius="0.000000" Rotation="32756" NpcId="0"/>
+		<TeleportOrig ServerID="30" Name="TeleportOrig_29" Position="X=46489.227 Y=51582.121 Z=6538.806" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_27" Position="X=45892.727 Y=51591.855 Z=6534.100" DisplayName="盟重省" Radius="0.000000" Rotation="32740" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=56665.742 Y=118293.188 Z=3995.584" DisplayName="酒馆一层" Radius="0.000000" Rotation="41272" NpcId="0"/>
+</root>

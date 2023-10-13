@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="3118" DisplayName="雷术鬼尸" NpcType="5" NpcFuncType="0" Position="X=85590.992 Y=15539.587 Z=51997.805"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="3118" DisplayName="雷术鬼尸" NpcType="5" NpcFuncType="0" Position="X=85575.781 Y=16467.488 Z=51997.805"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="3118" DisplayName="雷术鬼尸" NpcType="5" NpcFuncType="0" Position="X=83476.438 Y=17271.252 Z=51997.805"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="3118" DisplayName="雷术鬼尸" NpcType="5" NpcFuncType="0" Position="X=82725.836 Y=16744.289 Z=51997.805"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6746" DisplayName="飞虎" NpcType="4" NpcFuncType="0" Position="X=88697.477 Y=14572.523 Z=51273.727"/>
+</root>

@@ -11,35 +11,45 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x022F : Package
     {
-        #region public field
+        #region public
 
 		public String 对象名字;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x022F;
-        public ushort Size => 34;        
+        public ushort Size => 34;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x022F() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

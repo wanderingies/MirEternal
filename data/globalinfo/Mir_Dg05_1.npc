@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_2" TemplateID="6762" DisplayName="奇云生" NpcType="4" NpcFuncType="0" Position="X=58557.445 Y=75496.438 Z=28638.951"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6163" DisplayName="使者" NpcType="4" NpcFuncType="0" Position="X=48694.199 Y=66524.602 Z=29053.604"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6148" DisplayName="无为" NpcType="4" NpcFuncType="0" Position="X=46610.230 Y=41097.656 Z=28126.094"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3351" DisplayName="沃玛领主" NpcType="6" NpcFuncType="0" Position="X=51989.914 Y=48023.004 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="3351" DisplayName="沃玛领主" NpcType="6" NpcFuncType="0" Position="X=61341.199 Y=59324.301 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="3351" DisplayName="沃玛领主" NpcType="6" NpcFuncType="0" Position="X=46892.398 Y=80613.094 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3351" DisplayName="沃玛领主" NpcType="6" NpcFuncType="0" Position="X=34371.836 Y=68849.328 Z=33530.402"/>
+</root>

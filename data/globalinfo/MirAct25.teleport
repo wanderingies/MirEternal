@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=64000.000 Y=68000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=33212.406 Y=29143.227 Z=15897.651" Radius="384" DisplayName="至中庭"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=33952.520 Y=29143.293 Z=15875.819" DisplayName="至回廊" Radius="400.000000" Rotation="57624" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=32318.266 Y=29141.947 Z=16020.421" Radius="384" DisplayName="至回廊"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=31588.531 Y=29137.605 Z=16004.100" DisplayName="至中庭" Radius="400.000000" Rotation="39808" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=43086.895 Y=18916.752 Z=16402.553" DisplayName="至惩戒坛" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=40188.379 Y=25787.479 Z=15895.597" Radius="384" DisplayName="至惩戒坛"/>
+</root>

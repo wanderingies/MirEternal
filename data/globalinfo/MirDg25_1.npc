@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="6990" DisplayName="洛命" NpcType="4" NpcFuncType="16" Position="X=10224.743 Y=10143.571 Z=7757.999"/>
+</root>

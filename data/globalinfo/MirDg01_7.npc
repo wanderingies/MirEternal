@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="3350" DisplayName="邪恶钳虫" NpcType="6" NpcFuncType="0" Position="X=24769.328 Y=30595.389 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6164" DisplayName="使者" NpcType="4" NpcFuncType="0" Position="X=33941.125 Y=17920.914 Z=27152.900"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3350" DisplayName="邪恶钳虫" NpcType="6" NpcFuncType="0" Position="X=20841.180 Y=39650.105 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="3350" DisplayName="邪恶钳虫" NpcType="6" NpcFuncType="0" Position="X=29463.141 Y=36554.199 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3350" DisplayName="邪恶钳虫" NpcType="6" NpcFuncType="0" Position="X=32280.818 Y=27133.287 Z=33530.402"/>
+</root>

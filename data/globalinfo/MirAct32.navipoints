@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct32" ServerMapType="1">
+	<NaviPoint Name="Qst_5513" DisplayName="" Position="X=57061.098 Y=55143.082 Z=2098.964" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_5511" DisplayName="" Position="X=55560.602 Y=93593.445 Z=2102.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="休息区" Position="X=9810.349 Y=55051.250 Z=3062.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="中央大厅" Position="X=64909.270 Y=55119.305 Z=2098.722" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_5512" DisplayName="" Position="X=93493.164 Y=55468.512 Z=2102.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="西侧大厅" Position="X=54821.852 Y=17380.023 Z=2102.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="东侧大厅" Position="X=54585.402 Y=93481.766 Z=2102.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="北侧大厅" Position="X=92252.297 Y=55097.570 Z=2102.589" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

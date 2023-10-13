@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Pb03" ServerMapType="1">
+	<NaviPoint Name="Quest1461" DisplayName="森林" Position="X=71955.188 Y=66298.328 Z=4302.234" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Quest1445" DisplayName="农田" Position="X=42077.137 Y=56844.660 Z=4544.820" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="书店" Position="X=34395.918 Y=58046.285 Z=4805.533" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至隐秘洞穴" Position="X=45739.063 Y=66170.422 Z=4564.624" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至比奇省" Position="X=81451.523 Y=70692.320 Z=4329.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至森林深处" Position="X=70240.109 Y=25796.703 Z=5779.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=63488.000 Y=88320.000 Z=10115.980" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=92032.211 Y=103271.422 Z=5114.680" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=26924.715 Y=85233.594 Z=10418.993" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=19139.344 Y=86619.242 Z=10431.070" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=20212.486 Y=92594.469 Z=10356.870" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=20894.805 Y=97699.148 Z=10371.720" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="农庄" Position="X=46528.000 Y=34496.000 Z=4767.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=20408.832 Y=104895.953 Z=10376.236" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=25428.381 Y=104895.953 Z=10465.918" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=26924.715 Y=97620.180 Z=10369.161" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至边界村" Position="X=26924.715 Y=91531.289 Z=10418.894" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest1454" DisplayName="村落废墟" Position="X=77336.992 Y=35910.207 Z=4834.039" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Quest1451" DisplayName="" Position="X=49487.711 Y=61939.598 Z=4981.640" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="书院" Position="X=54286.012 Y=60912.980 Z=5238.834" RedirectLoc="X=51810.582 Y=61958.773 Z=5238.834" IsShow=2/>
+	<NaviPoint Name="Quest1452" DisplayName="磨坊" Position="X=61210.895 Y=38344.313 Z=4849.631" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Quest1454_2" DisplayName="" Position="X=82581.070 Y=37499.629 Z=4949.216" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest1447" DisplayName="桃花林" Position="X=39006.074 Y=45958.379 Z=4560.435" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="地下擂台" Position="X=89088.000 Y=42496.000 Z=3960.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="渔村" Position="X=26496.000 Y=29952.000 Z=3628.796" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="首饰和仓库" Position="X=27883.773 Y=52981.895 Z=4667.082" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

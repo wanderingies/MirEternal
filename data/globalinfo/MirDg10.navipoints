@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg10" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="日出林" Position="X=83760.000 Y=93966.063 Z=9885.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="迷宫花园" Position="X=73148.547 Y=66496.445 Z=9110.816" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Quset_1822" DisplayName="腐骨窟" Position="X=58542.543 Y=36429.484 Z=8705.968" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="盘丝窟" Position="X=41210.563 Y=65102.797 Z=8733.558" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="断魂桥" Position="X=56052.223 Y=50674.250 Z=8665.035" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Quset_1824" DisplayName="蘑花林" Position="X=111975.430 Y=66825.086 Z=10807.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷东" Position="X=60958.262 Y=100692.008 Z=9885.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至沃玛森林" Position="X=24256.590 Y=68877.859 Z=8737.145" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="大瀑布" Position="X=77692.164 Y=107580.477 Z=9885.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="诚心池" Position="X=94923.078 Y=78079.531 Z=9459.665" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="不老泉" Position="X=99855.078 Y=63845.840 Z=9825.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="阳明湖" Position="X=66630.555 Y=85153.805 Z=9886.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="小瀑布" Position="X=40569.656 Y=86763.195 Z=8726.292" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷南" Position="X=65055.621 Y=21547.383 Z=8737.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷北" Position="X=92591.391 Y=41280.488 Z=9481.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

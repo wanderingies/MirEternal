@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg26" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="雪原巨坑" Position="X=39206.992 Y=62832.656 Z=22032.740" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至黑岩峰底" Position="X=68621.523 Y=58349.180 Z=19446.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_Emg" DisplayName="" Position="X=36181.105 Y=62477.344 Z=24464.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Bear" DisplayName="" Position="X=50134.762 Y=29232.625 Z=19418.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至白日门海岸" Position="X=64193.793 Y=42627.926 Z=17968.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_Savage" DisplayName="" Position="X=62043.980 Y=23121.605 Z=19414.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Wolf" DisplayName="" Position="X=69205.977 Y=36686.367 Z=19444.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_IceElement" DisplayName="" Position="X=59219.488 Y=52717.543 Z=19130.525" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Tiger" DisplayName="" Position="X=53226.000 Y=30298.008 Z=19407.809" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="元素节点" Position="X=50988.391 Y=43995.270 Z=19116.945" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="highland_baishuang" DisplayName="白霜台地" Position="X=74892.836 Y=23797.617 Z=19414.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="码头" Position="X=62196.848 Y=36433.508 Z=18028.152" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="village_shuangfeng" DisplayName="霜峰镇" Position="X=72968.547 Y=60492.945 Z=22524.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12" ServerMapType="1">
+	<NaviPoint Name="Quest1841" DisplayName="砌石亭" Position="X=23690.285 Y=48769.598 Z=9082.211" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="杂货店" Position="X=45752.695 Y=45196.750 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_Daily_1135" DisplayName="" Position="X=21647.088 Y=36431.230 Z=9312.489" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="碧水泉" Position="X=31091.742 Y=58935.043 Z=9001.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="首饰店" Position="X=50217.500 Y=45282.984 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="仓库" Position="X=50008.164 Y=39986.914 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="服饰店" Position="X=47750.523 Y=39898.043 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="武器店" Position="X=45759.547 Y=39761.203 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="渔民小屋" Position="X=19976.510 Y=21722.658 Z=8999.244" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="战场残骸" Position="X=34584.699 Y=43405.844 Z=9001.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="陨石坑" Position="X=22028.934 Y=40961.500 Z=9005.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="药店" Position="X=47995.457 Y=45308.473 Z=9303.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="观霞坡" Position="X=43085.762 Y=55334.418 Z=9378.706" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="安全区" Position="X=46780.250 Y=42552.641 Z=9311.489" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_2003" DisplayName="将进酒" Position="X=46501.164 Y=44451.926 Z=9311.489" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Daily_1139" DisplayName="" Position="X=26319.666 Y=49987.594 Z=9312.489" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Daily_1138" DisplayName="" Position="X=24814.383 Y=41150.121 Z=9312.489" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="垂钓谷" Position="X=54041.750 Y=24326.877 Z=9287.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="molongcheng1" DisplayName="至魔龙西郊" Position="X=50493.879 Y=63628.539 Z=9013.928" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongcheng2" DisplayName="至魔龙东郊" Position="X=19438.195 Y=63006.238 Z=8995.928" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg24_1" ServerMapType="1">
+	<NaviPoint Name="Mineral" DisplayName="至石原矿洞" Position="X=15129.034 Y=22923.850 Z=8516.499" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Dg24_2704" DisplayName="Dg24_2704" Position="X=10619.681 Y=17814.822 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="至白日门城" DisplayName="至白日门城" Position="X=34010.059 Y=4236.902 Z=12338.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Dg24_2706" DisplayName="Dg24_2706" Position="X=5933.560 Y=6862.058 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="焚骨高地" DisplayName="焚骨高地" Position="X=13349.938 Y=6206.322 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="至石原矿洞" DisplayName="至石原矿洞" Position="X=35232.527 Y=26073.096 Z=8758.841" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="至石原矿洞" DisplayName="至石原矿洞" Position="X=15681.500 Y=23197.596 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="至石原废墟" DisplayName="至石原废墟" Position="X=17328.078 Y=33799.180 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="古代废墟" DisplayName="古代废墟" Position="X=22112.010 Y=12587.478 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="burialPoint" DisplayName="burialPoint" Position="X=25904.578 Y=23502.680 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Dg24_2703" DisplayName="Dg24_2703" Position="X=24499.051 Y=18291.951 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Dg24_Boss_2708" DisplayName="Dg24_Boss_2708" Position="X=12025.101 Y=6259.294 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Dg24_2705" DisplayName="Dg24_2705" Position="X=11465.705 Y=25164.578 Z=8759.840" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

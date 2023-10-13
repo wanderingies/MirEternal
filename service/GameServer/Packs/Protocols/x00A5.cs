@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x00A5 : Package
     {
-        #region public field
+        #region public
 
 		public Byte 原来容器;
 		public Byte 原来位置;
@@ -19,20 +19,30 @@ namespace GameServer.Packs.Protocol
 		public Byte 仓库位置;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x00A5;
-        public ushort Size => 8;        
+        public ushort Size => 8;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x00A5() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -41,12 +51,12 @@ namespace GameServer.Packs.Protocol
 			原来位置 = byteBlock.ReadByte();
 			仓库页面 = byteBlock.ReadByte();
 			仓库位置 = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

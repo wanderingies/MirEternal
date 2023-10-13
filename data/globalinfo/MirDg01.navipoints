@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg01" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至死亡峡谷二层" Position="X=63180.031 Y=31276.424 Z=27791.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="quest_hunt_1913-14-15" DisplayName="" Position="X=65900.000 Y=23800.000 Z=27760.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quet_hunt_1917" DisplayName="" Position="X=61300.000 Y=35200.000 Z=27791.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至盟重省" Position="X=76352.000 Y=23424.000 Z=28021.420" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="迷雾石柱群" Position="X=57078.762 Y=32213.102 Z=27764.908" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

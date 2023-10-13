@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=71000.000 Y=85000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_1" Position="X=18012.068 Y=45602.832 Z=19958.449" DisplayName="沃玛回廊" Radius="600.000000" Rotation="49056" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=18011.645 Y=46325.539 Z=19945.023" Radius="384" DisplayName="暗影通道四"/>
+</root>

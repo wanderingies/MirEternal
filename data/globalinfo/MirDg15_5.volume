@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=70000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_2" DisplayName="牛魔寺庙五层" Priority="1" ReuseMapVolumeName="" MinPos="X=635.402 Y=-3075.504 Z=-384.007" MaxPos="X=72315.406 Y=68604.500 Z=9615.992" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="140.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="8602" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55300.063 Y=45411.652 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6919" DisplayName="沙城老兵" NpcType="4" NpcFuncType="16" Position="X=92855.914 Y=48603.387 Z=6335.677"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="8609" DisplayName="沙巴克城门" NpcType="1" NpcFuncType="0" Position="X=45342.398 Y=46159.930 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="8606" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=46884.008 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8605" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.406 Y=45435.852 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="8604" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.902 Y=45166.309 Z=6878.735"/>
+	<NPC Name="NPCServerInstance_33" TemplateID="6266" DisplayName="裁判" NpcType="4" NpcFuncType="16" Position="X=57831.066 Y=37665.395 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_32" TemplateID="6914" DisplayName="墨风" NpcType="4" NpcFuncType="20" Position="X=46342.605 Y=113198.805 Z=4864.000"/>
+	<NPC Name="NPCServerInstance_31" TemplateID="6200" DisplayName="李药师" NpcType="4" NpcFuncType="0" Position="X=45953.523 Y=137786.172 Z=4864.507"/>
+	<NPC Name="NPCServerInstance_30" TemplateID="8617" DisplayName="沙巴克公告牌" NpcType="4" NpcFuncType="0" Position="X=45021.973 Y=47004.742 Z=6427.098"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="8607" DisplayName="沙巴克城门" NpcType="1" NpcFuncType="0" Position="X=45336.891 Y=46159.930 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="8601" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55574.586 Y=45166.047 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_28" TemplateID="6912" DisplayName="流影" NpcType="4" NpcFuncType="4" Position="X=46721.863 Y=196857.031 Z=5611.599"/>
+	<NPC Name="NPCServerInstance_27" TemplateID="8613" DisplayName="透明计数怪" NpcType="4" NpcFuncType="0" Position="X=53038.664 Y=46159.930 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_26" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=45097.879 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_25" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=44732.750 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_24" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=44348.316 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_23" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=43949.762 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_22" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=43581.781 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_21" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=43176.488 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_20" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=48690.738 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6916" DisplayName="老十" NpcType="4" NpcFuncType="8" Position="X=46248.281 Y=123815.461 Z=4800.000"/>
+	<NPC Name="NPCServerInstance_19" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=48306.305 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_18" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=47904.371 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_17" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=47536.391 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_16" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=47169.094 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="8612" DisplayName="沙巴克弓箭手" NpcType="4" NpcFuncType="0" Position="X=45616.871 Y=49055.867 Z=6969.244"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6913" DisplayName="无崖" NpcType="4" NpcFuncType="20" Position="X=46711.668 Y=184381.359 Z=5326.611"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6918" DisplayName="铁如意" NpcType="4" NpcFuncType="20" Position="X=45360.711 Y=157856.016 Z=5144.237"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6915" DisplayName="唐巧" NpcType="4" NpcFuncType="20" Position="X=45696.000 Y=147764.563 Z=4992.000"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=45952.000 Y=137319.594 Z=4864.000"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="8603" DisplayName="墙" NpcType="1" NpcFuncType="0" Position="X=55301.961 Y=46908.699 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6347" DisplayName="检测刷暗之BOSS" NpcType="5" NpcFuncType="0" Position="X=52630.805 Y=45992.227 Z=6428.022"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6923" DisplayName="沙城旗帜传送" NpcType="4" NpcFuncType="0" Position="X=56581.234 Y=50859.133 Z=6697.715"/>
+</root>

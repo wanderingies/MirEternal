@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=59000.000 Y=58000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_16" Position="X=21273.080 Y=42721.277 Z=9329.927" DisplayName="至魔龙血域" Radius="1200.000000" Rotation="56892" NpcId="0"/>
+</root>

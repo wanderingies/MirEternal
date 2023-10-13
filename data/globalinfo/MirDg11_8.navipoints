@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg11_8" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至恶魔祭坛" Position="X=25352.439 Y=23099.041 Z=9374.968" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至抉择之地" Position="X=9764.071 Y=20740.332 Z=9372.932" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

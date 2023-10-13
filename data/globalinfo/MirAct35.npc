@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25155.875 Y=32488.797 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6555" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25708.016 Y=32488.797 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="6555" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25708.016 Y=33400.586 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24081.723 Y=33400.586 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6553" DisplayName="玛法侍从" NpcType="4" NpcFuncType="16" Position="X=27698.709 Y=33216.477 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24611.270 Y=32488.797 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24608.760 Y=33400.586 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25155.875 Y=33400.586 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24074.189 Y=32488.797 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25256.393 Y=35293.277 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="6555" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25798.664 Y=35293.277 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24154.441 Y=34750.496 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24711.787 Y=34750.496 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25256.393 Y=34750.496 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=26882.633 Y=34750.668 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=26348.775 Y=34752.629 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24162.238 Y=35293.277 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6555" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=25794.191 Y=34750.496 Z=4830.897"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6556" DisplayName="长廊雕像" NpcType="3" NpcFuncType="0" Position="X=24711.787 Y=35293.277 Z=4830.897"/>
+</root>

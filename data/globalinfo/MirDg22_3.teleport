@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=43000.000 Y=43000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=9061.954 Y=13376.979 Z=19965.434" Radius="800" DisplayName="石原矿洞"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=8736.898 Y=13122.884 Z=20265.207" DisplayName="石原矿洞" Radius="0.000000" Rotation="41792" NpcId="0"/>
+</root>

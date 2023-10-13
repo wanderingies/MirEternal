@@ -11,7 +11,7 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x03EA : Package
     {
-        #region public field
+        #region public
 
 		public String name;
 		public Byte gender;
@@ -21,20 +21,30 @@ namespace GameServer.Packs.Protocol
 		public Byte facestyle;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x03EA;
-        public ushort Size => 40;        
+        public ushort Size => 40;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x03EA() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -44,12 +54,12 @@ namespace GameServer.Packs.Protocol
 			hairstyle = byteBlock.ReadByte();
 			haircolor = byteBlock.ReadByte();
 			facestyle = byteBlock.ReadByte();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

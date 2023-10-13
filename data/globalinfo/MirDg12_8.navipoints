@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_8" ServerMapType="1">
+	<NaviPoint Name="molongling2" DisplayName="至魔龙祭坛" Position="X=42891.969 Y=13682.209 Z=9444.319" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongling4" DisplayName="至西魔龙关" Position="X=68321.445 Y=43090.699 Z=9395.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongling1" DisplayName="至魔龙沼泽" Position="X=15196.023 Y=33775.355 Z=9321.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongling3" DisplayName="至东魔龙关" Position="X=51758.207 Y=66532.703 Z=9285.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

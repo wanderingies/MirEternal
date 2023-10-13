@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg03" ServerMapType="1">
+	<NaviPoint Name="MirDg03_jiajiangjun" DisplayName="" Position="X=11623.589 Y=48070.199 Z=50699.895" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_hunt_1905" DisplayName="" Position="X=19200.000 Y=18200.000 Z=51232.527" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_jingyingjiangshi2" DisplayName="" Position="X=33447.172 Y=30820.350 Z=51476.613" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_shanzaishanzai" DisplayName="" Position="X=32019.400 Y=42622.066 Z=51476.613" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_jingyingjiangshi3" DisplayName="" Position="X=36296.129 Y=41965.980 Z=51422.813" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_daodaodao" DisplayName="" Position="X=34783.223 Y=31566.955 Z=51476.613" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="熔岩矿坑" Position="X=11327.577 Y=48275.586 Z=51251.098" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至比奇省" Position="X=8869.947 Y=12716.608 Z=51245.887" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="MirDg03_xiaofei" DisplayName="" Position="X=20000.773 Y=14601.380 Z=51244.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="储矿区" Position="X=27697.334 Y=8705.569 Z=51216.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="矿道" Position="X=33735.500 Y=21266.355 Z=51232.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="MirDg03_dongkoujiangshi1" DisplayName="" Position="X=19786.863 Y=16719.939 Z=51242.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="深渊桥" Position="X=47256.629 Y=23743.219 Z=51235.699" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至矿区二层" Position="X=45254.914 Y=31918.043 Z=51239.820" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="金矿坑" Position="X=33949.707 Y=32692.887 Z=51222.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至矿区二层" Position="X=24697.367 Y=24811.684 Z=51231.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="休息区" Position="X=14503.646 Y=27066.773 Z=51229.973" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="银矿坑" Position="X=12638.814 Y=40403.984 Z=51251.098" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="MirDg03_dongkoujiangshi2" DisplayName="" Position="X=27718.865 Y=11007.858 Z=51216.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_KING" DisplayName="" Position="X=44215.781 Y=47841.637 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_taobing" DisplayName="" Position="X=16438.877 Y=37383.285 Z=51298.203" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_shizilukou" DisplayName="" Position="X=33996.070 Y=20719.338 Z=51389.844" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_jieduyao" DisplayName="" Position="X=47692.004 Y=17895.371 Z=51419.191" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_jingyingjiangshi1" DisplayName="" Position="X=46795.340 Y=31106.535 Z=51238.359" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="MirDg03_shiwangdianrukou" DisplayName="" Position="X=45648.277 Y=46621.547 Z=51931.285" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

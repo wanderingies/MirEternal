@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_11" TemplateID="6227" DisplayName="雷老大" NpcType="4" NpcFuncType="0" Position="X=46225.234 Y=38617.609 Z=9521.032"/>
+	<NPC Name="NPCServerInstance_15" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=55871.219 Y=44294.055 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=40906.016 Y=49229.441 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=40906.016 Y=28284.396 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="3355" DisplayName="魔龙巨蛾" NpcType="6" NpcFuncType="0" Position="X=28561.168 Y=33828.184 Z=33530.402"/>
+</root>

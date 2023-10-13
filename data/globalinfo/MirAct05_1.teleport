@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=55000.000 Y=52000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=22083.979 Y=54735.012 Z=16748.264" Radius="384" DisplayName="幽冥海二层"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=22096.752 Y=54221.375 Z=16724.367" DisplayName="幽冥海一层" Radius="500.000000" Rotation="51916" NpcId="0"/>
+</root>

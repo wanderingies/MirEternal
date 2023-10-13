@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg01_2" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="虫巢裂谷" Position="X=78698.172 Y=29493.709 Z=27666.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷六层" Position="X=79305.313 Y=34096.594 Z=27663.461" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至幽虫洞窟" Position="X=83452.414 Y=34179.586 Z=27665.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="迷雾水城" Position="X=88684.867 Y=31335.832 Z=27901.352" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷四层" Position="X=79647.297 Y=13024.816 Z=27757.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="环形水池" Position="X=71678.383 Y=18622.004 Z=27890.016" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

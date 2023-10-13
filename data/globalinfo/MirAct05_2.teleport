@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=75000.000 Y=85000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=32691.143 Y=39111.727 Z=37978.805" Radius="384" DisplayName="幽冥海一层"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=32687.225 Y=39642.617 Z=37952.996" DisplayName="幽冥海二层" Radius="500.000000" Rotation="18212" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=72048.328 Y=43898.328 Z=37952.098" DisplayName="幽冥海二层" Radius="500.000000" Rotation="32752" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=72592.797 Y=43893.992 Z=37964.234" Radius="384" DisplayName="幽冥海三层"/>
+</root>

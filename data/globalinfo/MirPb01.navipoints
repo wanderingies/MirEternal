@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirPb01" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至沙巴克" Position="X=19677.432 Y=64568.973 Z=5543.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="书院" Position="X=31477.141 Y=66632.117 Z=6193.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_Green" DisplayName="" Position="X=54920.008 Y=57579.188 Z=6339.698" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="狼王巢穴" Position="X=21923.943 Y=53632.938 Z=6193.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_ShiMu" DisplayName="" Position="X=42108.762 Y=53007.430 Z=6933.272" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="红名村" Position="X=18202.232 Y=36911.445 Z=6499.272" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_Phy" DisplayName="" Position="X=41324.746 Y=55349.215 Z=6568.504" RedirectLoc="X=42485.219 Y=52828.211 Z=6879.256" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至比奇省" Position="X=24988.389 Y=24882.797 Z=6200.790" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="安全区" Position="X=39317.574 Y=55600.301 Z=6622.232" RedirectLoc="X=42485.219 Y=52828.211 Z=6879.256" IsShow=1/>
+	<NaviPoint Name="Quest1840" DisplayName="" Position="X=37562.770 Y=56311.746 Z=6473.688" RedirectLoc="X=41184.984 Y=57373.320 Z=6522.110" IsShow=0/>
+	<NaviPoint Name="" DisplayName="武器" Position="X=40526.410 Y=59515.426 Z=6575.000" RedirectLoc="X=41184.984 Y=57373.320 Z=6522.110" IsShow=1/>
+	<NaviPoint Name="Qst_Wolf" DisplayName="" Position="X=48326.121 Y=35212.266 Z=6114.921" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="旅馆" Position="X=37179.313 Y=48706.465 Z=6446.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="药店" Position="X=43192.734 Y=46714.559 Z=6446.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="首饰" Position="X=47729.473 Y=54445.410 Z=8079.424" RedirectLoc="X=46245.254 Y=56837.289 Z=6526.100" IsShow=1/>
+	<NaviPoint Name="" DisplayName="服饰" Position="X=45607.309 Y=59364.988 Z=6571.000" RedirectLoc="X=45524.629 Y=57739.012 Z=6526.100" IsShow=1/>
+	<NaviPoint Name="Quest300" DisplayName="" Position="X=35648.270 Y=57661.207 Z=6320.916" RedirectLoc="X=41184.984 Y=57373.320 Z=6522.110" IsShow=0/>
+	<NaviPoint Name="" DisplayName="牧羊人小屋" Position="X=40036.469 Y=39876.582 Z=6191.689" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至沙巴克" Position="X=39019.246 Y=81328.391 Z=6216.398" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="酒馆" Position="X=37549.965 Y=66783.391 Z=6193.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至石墓" Position="X=42426.887 Y=52356.324 Z=6910.114" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="守墓人小屋" Position="X=50391.133 Y=21942.570 Z=5803.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷" Position="X=81819.516 Y=48793.238 Z=6799.360" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="绿洲" Position="X=54979.121 Y=56461.910 Z=6184.578" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="虫窟" Position="X=73665.508 Y=71439.586 Z=6932.865" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="码头" Position="X=57091.641 Y=77142.219 Z=5419.830" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="古城墙遗迹" Position="X=56450.219 Y=67672.352 Z=6427.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Qst_MaTou" DisplayName="" Position="X=57809.262 Y=78925.258 Z=5410.426" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_BigBug" DisplayName="" Position="X=63248.113 Y=58822.164 Z=6036.824" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_Dead" DisplayName="" Position="X=81952.578 Y=48769.633 Z=6777.529" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

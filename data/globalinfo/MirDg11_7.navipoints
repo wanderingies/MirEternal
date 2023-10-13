@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg11_7" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至左回廊" Position="X=31676.893 Y=11528.820 Z=4709.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest_5503" DisplayName="" Position="X=37193.609 Y=23807.271 Z=4585.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest_1828" DisplayName="蛛魔山谷" Position="X=25021.969 Y=36474.172 Z=4583.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至山谷秘道" Position="X=28861.102 Y=19567.273 Z=4685.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至右回廊" Position="X=32659.902 Y=16688.961 Z=4571.557" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至山谷秘道" Position="X=31647.203 Y=27260.352 Z=4696.837" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

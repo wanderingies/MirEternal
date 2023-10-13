@@ -1,52 +1,60 @@
-﻿#pragma warning disable CS8618
-
+﻿using GameServer.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using TouchSocket.Core;
-using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
     /// <summary>
-    /// <para>SyncPrivilegedInfoPacket</para>
-    /// <para>SyncPrivilegedInfoPacket</para>
+    /// <para>不知道干嘛的, 离开进入安全区触发</para>
+    /// <para>特权信息</para>
     /// </summary>
     internal class x0142 : Package
     {
-        #region public field
+        #region public
 
-        public byte[] Result;
+
         #endregion
 
-        #region public attribute
+        #region marshal
+
+        public byte[] PrivilegedInfo;
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0142;
-        public ushort Size => 0;        
+        public ushort Size => 0;
+        public ushort rSize => 0;
         #endregion
 
         public x0142()
         {
-            Result = new byte[] { 0 };
+            PrivilegedInfo = new byte[] { 2 };
         }
-        
-        #region private field
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            byteBlock.Write(Result);
+            byteBlock.Write(PrivilegedInfo);
             return byteBlock;
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gateSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }
-

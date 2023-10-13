@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg07_4" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至祖玛寺庙五层" Position="X=40999.434 Y=17694.641 Z=8013.849" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_hunt_1932" DisplayName="" Position="X=14903.616 Y=19165.557 Z=8013.849" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛寺庙三层" Position="X=28555.799 Y=22989.455 Z=8013.849" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

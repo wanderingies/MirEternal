@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg05_1" ServerMapType="1">
+	<NaviPoint Name="Qst_1602" DisplayName="" Position="X=58243.035 Y=75441.188 Z=28607.287" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="zhenliaoshi" DisplayName="诊疗室" Position="X=20647.518 Y=65449.801 Z=28060.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="quest_hunt_1909_1910" DisplayName="" Position="X=49600.000 Y=70700.000 Z=28060.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至藏经阁" Position="X=32196.326 Y=81352.180 Z=28592.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至幽闭通道一" Position="X=49033.613 Y=89321.727 Z=27497.230" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="huoyantan" DisplayName="火焰坛" Position="X=56923.031 Y=76172.781 Z=28614.232" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="七星池" Position="X=40312.207 Y=53012.727 Z=27699.633" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="yongbing" DisplayName="半兽人之门" Position="X=61738.223 Y=39218.262 Z=28093.885" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="quest_hunt_1909" DisplayName="" Position="X=47495.352 Y=58280.648 Z=28958.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至沃玛寺庙三层" Position="X=46171.242 Y=40503.074 Z=28055.223" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="HYT" DisplayName="" Position="X=59255.160 Y=77205.391 Z=29953.547" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_2001" DisplayName="" Position="X=54163.379 Y=42886.859 Z=28094.994" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至沃玛寺庙一层" Position="X=48765.516 Y=65986.664 Z=29002.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

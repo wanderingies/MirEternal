@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=9976.568 Y=32677.848 Z=4753.833" Radius="384" DisplayName="丛林迷宫"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=9970.168 Y=32136.705 Z=4751.002" DisplayName="赤月峡谷北" Radius="600.000000" Rotation="49384" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=31858.209 Y=21975.100 Z=4562.048" Radius="384" DisplayName="赤月峡谷广场"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=31292.627 Y=21991.650 Z=4543.000" DisplayName="赤月峡谷北" Radius="600.000000" Rotation="32856" NpcId="0"/>
+</root>

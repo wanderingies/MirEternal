@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct05_4" ServerMapType="1">
+	<NaviPoint Name="BOSSPOINT" DisplayName="" Position="X=42205.398 Y=102184.414 Z=4533.776" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_113" DisplayName="" Position="X=31534.992 Y=88861.992 Z=3957.184" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_115" DisplayName="" Position="X=42297.688 Y=15289.814 Z=3741.773" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_112" DisplayName="冥灵之路" Position="X=33086.363 Y=14332.783 Z=3836.419" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="BOSSPOINT" DisplayName="" Position="X=42205.398 Y=45352.414 Z=4533.776" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至幽冥海三层" Position="X=12030.730 Y=25904.049 Z=3832.821" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

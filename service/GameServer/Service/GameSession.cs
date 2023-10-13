@@ -21,9 +21,9 @@ namespace GameServer.Service
 
             byteBlock.Write(value);
 
-            /*if (size != 0 && size != byteBlock.Len)
+            if (size != 0 && size != byteBlock.Len)
                 GameService.Instance.clientSession.Send($"Error;0x{type.ToString("X4")}:{SessionId} GameService => GateService");
-            else */this.Send(byteBlock);
+            else this.Send(byteBlock);
             return true;
         }
 
@@ -38,9 +38,9 @@ namespace GameServer.Service
 
             byteBlock.Write(marshal);
 
-            /*if (size != 0 && size != byteBlock.Len)
+            if (size != 0 && size != byteBlock.Len)
                 GameService.Instance.clientSession.Send($"Error;0x{type.ToString("X4")}:{SessionId} GameService => GateService");
-            else */this.Send(byteBlock);
+            else this.Send(byteBlock);
             return true;
         }
 
@@ -55,6 +55,7 @@ namespace GameServer.Service
             var request = requestInfo as PackageRequest;
             if (request != null && Package.AllPackage.TryGetValue(request.Type, out var package))
             {
+                Program.service.Logger.Info($"0x{request.Type.ToString("X4")} => HandleReceivedData");
                 package.UnMarshal(request.ByteBlock);
                 package.Process(this);
                 return true;

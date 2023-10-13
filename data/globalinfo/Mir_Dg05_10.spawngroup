@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPCGroup DisplayName="沃玛战士" GroupNpcID="942" GroupNpcLv="2" GroupType="3" Position="X=58206.215 Y=76947.070 Z=29960.281"/>
+	<NPCGroup DisplayName="沃玛战士" GroupNpcID="942" GroupNpcLv="4" GroupType="3" Position="X=51342.609 Y=56813.527 Z=29960.281"/>
+	<NPCGroup DisplayName="沃玛战将" GroupNpcID="944" GroupNpcLv="5" GroupType="2" Position="X=56585.395 Y=40542.402 Z=29960.281"/>
+</root>

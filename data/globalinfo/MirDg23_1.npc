@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6420" DisplayName="负伤的大祭司" NpcType="4" NpcFuncType="16" Position="X=26719.557 Y=23303.076 Z=4405.738"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=24138.430 Y=31003.322 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=24888.832 Y=17162.350 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=14674.863 Y=34880.473 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="3360" DisplayName="巨灵圣兽" NpcType="6" NpcFuncType="0" Position="X=35728.164 Y=31003.322 Z=33530.402"/>
+</root>

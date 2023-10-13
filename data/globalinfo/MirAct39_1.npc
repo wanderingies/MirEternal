@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="9633" DisplayName="巅峰沙巴克城门西" NpcType="1" NpcFuncType="0" Position="X=53046.766 Y=37916.852 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="9651" DisplayName="战盟激励官" NpcType="4" NpcFuncType="0" Position="X=57943.234 Y=52154.891 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="9649" DisplayName="战盟激励官" NpcType="4" NpcFuncType="0" Position="X=57681.688 Y=40196.641 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="9645" DisplayName="传送使者" NpcType="4" NpcFuncType="16" Position="X=40139.363 Y=59068.711 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="9645" DisplayName="传送使者" NpcType="4" NpcFuncType="16" Position="X=66078.852 Y=59020.945 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="9645" DisplayName="传送使者" NpcType="4" NpcFuncType="16" Position="X=40078.320 Y=33121.551 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="9645" DisplayName="传送使者" NpcType="4" NpcFuncType="16" Position="X=65980.484 Y=33098.965 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="9639" DisplayName="巅峰沙巴克城门东" NpcType="1" NpcFuncType="0" Position="X=53046.766 Y=54393.051 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="9638" DisplayName="巅峰沙巴克城门北" NpcType="1" NpcFuncType="0" Position="X=60172.391 Y=46189.438 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="9634" DisplayName="巅峰沙巴克城门西" NpcType="1" NpcFuncType="0" Position="X=53042.852 Y=37916.969 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="9637" DisplayName="巅峰沙巴克城门北" NpcType="1" NpcFuncType="0" Position="X=60173.613 Y=46186.340 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="9647" DisplayName="传送使者" NpcType="4" NpcFuncType="16" Position="X=92655.914 Y=48427.984 Z=6197.846"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="9640" DisplayName="巅峰沙巴克城门东" NpcType="1" NpcFuncType="0" Position="X=53042.852 Y=54393.004 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="9650" DisplayName="战盟激励官" NpcType="4" NpcFuncType="0" Position="X=47966.297 Y=40221.438 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="9648" DisplayName="战盟激励官" NpcType="4" NpcFuncType="0" Position="X=47959.480 Y=52148.535 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="9627" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52576.160 Y=47065.285 Z=6603.653"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="6917" DisplayName="丹心" NpcType="4" NpcFuncType="20" Position="X=45952.000 Y=137319.594 Z=4864.000"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="6915" DisplayName="唐巧" NpcType="4" NpcFuncType="20" Position="X=45696.000 Y=147764.563 Z=4992.000"/>
+	<NPC Name="NPCServerInstance_13" TemplateID="6918" DisplayName="铁如意" NpcType="4" NpcFuncType="20" Position="X=45360.711 Y=157856.016 Z=5144.237"/>
+	<NPC Name="NPCServerInstance_14" TemplateID="6913" DisplayName="无崖" NpcType="4" NpcFuncType="20" Position="X=46711.668 Y=184381.359 Z=5326.611"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6916" DisplayName="老十" NpcType="4" NpcFuncType="8" Position="X=46248.281 Y=123815.461 Z=4800.000"/>
+	<NPC Name="NPCServerInstance_28" TemplateID="6912" DisplayName="流影" NpcType="4" NpcFuncType="4" Position="X=46721.863 Y=196857.031 Z=5611.599"/>
+	<NPC Name="NPCServerInstance_29" TemplateID="9625" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52894.359 Y=44973.500 Z=6602.322"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="9635" DisplayName="巅峰沙巴克城门南" NpcType="1" NpcFuncType="0" Position="X=45336.891 Y=46159.930 Z=6426.187"/>
+	<NPC Name="NPCServerInstance_31" TemplateID="6200" DisplayName="李药师" NpcType="4" NpcFuncType="0" Position="X=45953.523 Y=137786.172 Z=4864.507"/>
+	<NPC Name="NPCServerInstance_32" TemplateID="6914" DisplayName="墨风" NpcType="4" NpcFuncType="20" Position="X=46342.605 Y=113198.805 Z=4864.000"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="9628" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52898.539 Y=44973.105 Z=6602.267"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="9629" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52572.684 Y=45311.336 Z=6602.395"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="9630" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52574.016 Y=47068.184 Z=6598.535"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="9636" DisplayName="巅峰沙巴克城门南" NpcType="1" NpcFuncType="0" Position="X=45342.398 Y=46159.930 Z=6425.657"/>
+	<NPC Name="NPCServerInstance_9" TemplateID="9626" DisplayName="巅峰沙巴克墙" NpcType="1" NpcFuncType="0" Position="X=52571.340 Y=45307.504 Z=6603.653"/>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=70000.000 Y=70000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=30162.320 Y=20778.693 Z=2069.322" Radius="384" DisplayName="牛魔寺庙四层"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=55660.773 Y=31860.432 Z=2064.257" Radius="384" DisplayName="牛魔寺庙六层"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=30675.178 Y=20819.520 Z=2054.000" DisplayName="牛魔寺庙五层" Radius="600.000000" Rotation="65492" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=55136.270 Y=31858.473 Z=2054.000" DisplayName="牛魔寺庙五层" Radius="600.000000" Rotation="32576" NpcId="0"/>
+</root>

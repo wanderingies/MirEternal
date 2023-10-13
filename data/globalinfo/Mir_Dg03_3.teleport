@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=95000.000 Y=95000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=88525.984 Y=12385.620 Z=51173.336" Radius="384" DisplayName="矿区三层"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_5" Position="X=80525.477 Y=19458.416 Z=51173.977" Radius="384" DisplayName="矿区三层"/>
+</root>

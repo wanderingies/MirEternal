@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg23_1" ServerMapType="1">
+	<NaviPoint Name="Qst_443" DisplayName="" Position="X=24455.541 Y=16852.799 Z=4376.738" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至兽人陵墓深层" Position="X=38727.516 Y=15527.210 Z=4376.738" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至兽人陵墓深层" Position="X=31046.344 Y=35799.930 Z=4377.200" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至石原矿洞" Position="X=19246.004 Y=12686.192 Z=4376.738" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_445" DisplayName="" Position="X=14291.573 Y=17585.066 Z=4376.738" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

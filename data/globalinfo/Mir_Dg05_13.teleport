@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=84000.000 Y=97000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_5" Position="X=23439.285 Y=13224.407 Z=28605.395" Radius="384" DisplayName="幽闭通道二"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=23437.135 Y=13757.552 Z=28623.682" DisplayName="幽闭通道三" Radius="600.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=23797.408 Y=20963.924 Z=28659.898" DisplayName="幽闭通道三" Radius="600.000000" Rotation="49152" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_6" Position="X=23823.813 Y=21533.555 Z=28605.012" Radius="384" DisplayName="幽闭通道四"/>
+</root>

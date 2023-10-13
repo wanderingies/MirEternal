@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_2" TemplateID="6332" DisplayName="比奇老兵" NpcType="4" NpcFuncType="0" Position="X=9503.515 Y=44530.758 Z=1538.664"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=37161.727 Y=14218.077 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=25789.150 Y=31280.859 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=15500.864 Y=37172.852 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=37165.180 Y=59970.258 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=48994.434 Y=44455.664 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="3358" DisplayName="牛魔统帅" NpcType="6" NpcFuncType="0" Position="X=60959.648 Y=36946.250 Z=33530.402"/>
+</root>

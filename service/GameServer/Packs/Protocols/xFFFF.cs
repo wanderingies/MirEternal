@@ -5,7 +5,6 @@ using GameServer.Data;
 using GameServer.Packs.Protocol;
 using GameServer.Service;
 using GameServer.Utility;
-using Newtonsoft.Json.Linq;
 using System.Text;
 using TouchSocket.Core;
 
@@ -19,6 +18,7 @@ namespace GameServer.Packs.Protocols
         public ushort Type => ushort.MaxValue;
 
         public ushort Size => ushort.MaxValue;
+        public ushort rSize => ushort.MaxValue;
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
@@ -96,7 +96,7 @@ namespace GameServer.Packs.Protocols
             var sbpip = new x0011();
             gameSession.SendPackage(sbpip.Type, sbpip.Size, sbpip);
 
-            var x0014=new x0014();
+            var x0014 = new x0014();
             gameSession.SendPackage(x0014.Type, x0014.rSize, x0014);
 
             var srsp = new x000E();
@@ -106,7 +106,7 @@ namespace GameServer.Packs.Protocols
             gameSession.SendPackage(srlp.Type, srlp.rSize, srlp);
 
             var scvp = new x00BA();
-            gameSession.SendPackage(scvp.Type, scvp.Size, scvp);
+            gameSession.SendPackage(scvp.Type, scvp.rSize, scvp);
 
             var scqp = new x0094();
             gameSession.SendPackage(scqp.Type, scqp.rSize, scqp);
@@ -115,10 +115,7 @@ namespace GameServer.Packs.Protocols
             gameSession.SendPackage(scip.Type, scip.Size, scip);
 
             var spiip = new x0142();
-            gameSession.SendPackage(spiip.Type, 0, spiip);
-
-            var sedp = new x0021() { roleid = roleid };
-            gameSession.SendPackage(sedp.Type, sedp.Size, sedp);
+            gameSession.SendPackage(spiip.Type, 0, spiip);            
 
             xbb = new x00BB() { VariableType = 0x0001, VariableIndex = 0x00BB, VariableKey = roleid, VariableValue = 0x0000 };
             gameSession.SendPackage(xbb.Type, xbb.rSize, xbb);
@@ -196,6 +193,12 @@ namespace GameServer.Packs.Protocols
             gameSession.SendPackage(x4d.Type, x4d.rSize, x4d);
             x4d = new x004D() { StatId = 0x34, Value = 0x00000043 };
             gameSession.SendPackage(x4d.Type, x4d.rSize, x4d);
+
+            x9 = new x0009() { code = 0x0791, param = 0x0000, extra = 0x0000 };
+            gameSession.SendPackage(x9.Type, x9.rSize, x9);
+
+            var sedp = new x0021() { roleid = roleid };
+            gameSession.SendPackage(sedp.Type, sedp.Size, sedp);
         }
     }
 }

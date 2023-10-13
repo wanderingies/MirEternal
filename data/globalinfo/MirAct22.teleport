@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=75000.000 Y=75000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_0" Position="X=8367.051 Y=37646.516 Z=1470.337" Radius="384" DisplayName="恶魔祭坛"/>
+</root>

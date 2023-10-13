@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg11_2" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至丛林迷宫" Position="X=19729.350 Y=33052.832 Z=8801.505" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_5501" DisplayName="" Position="X=20212.674 Y=31075.898 Z=8665.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至赤月峡谷广场" Position="X=32133.150 Y=8344.243 Z=8793.244" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

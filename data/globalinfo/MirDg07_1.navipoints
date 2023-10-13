@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg07_1" ServerMapType="1">
+	<NaviPoint Name="Qst_hunt_1926" DisplayName="" Position="X=10447.418 Y=33057.934 Z=4393.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛寺庙一层" Position="X=27333.920 Y=39009.668 Z=4398.887" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛寺庙一层" Position="X=14815.916 Y=39009.668 Z=4398.888" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛寺庙二层" Position="X=10091.828 Y=33579.086 Z=4393.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至祖玛书阁" Position="X=24003.621 Y=38466.609 Z=4393.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至祖玛书阁" Position="X=18006.594 Y=38466.609 Z=4393.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_hunt_1924-1925" DisplayName="" Position="X=20282.104 Y=23701.408 Z=3667.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Qst_1802" DisplayName="中央大厅" Position="X=20997.348 Y=21559.545 Z=3682.181" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至祖玛寺长廊" Position="X=22907.211 Y=14300.527 Z=3862.073" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_1801" DisplayName="" Position="X=20939.324 Y=14398.883 Z=3672.710" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

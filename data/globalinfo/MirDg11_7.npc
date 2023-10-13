@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_1" TemplateID="3354" DisplayName="双头金刚" NpcType="6" NpcFuncType="0" Position="X=28908.986 Y=22809.980 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6175" DisplayName="白十一" NpcType="4" NpcFuncType="4" Position="X=20365.262 Y=24075.453 Z=4745.722"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6176" DisplayName="幽妹" NpcType="4" NpcFuncType="4" Position="X=20456.164 Y=24528.334 Z=4746.860"/>
+	<NPC Name="NPCServerInstance_2" TemplateID="6845" DisplayName="无涯" NpcType="4" NpcFuncType="0" Position="X=28958.102 Y=30315.895 Z=4739.952"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="6172" DisplayName="无为" NpcType="4" NpcFuncType="0" Position="X=28512.896 Y=20456.199 Z=4720.000"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6173" DisplayName="无为" NpcType="4" NpcFuncType="0" Position="X=30869.043 Y=26972.648 Z=4731.547"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="3354" DisplayName="双头金刚" NpcType="6" NpcFuncType="0" Position="X=21182.520 Y=27495.180 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="3354" DisplayName="双头金刚" NpcType="6" NpcFuncType="0" Position="X=12346.395 Y=20344.082 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="3354" DisplayName="双头金刚" NpcType="6" NpcFuncType="0" Position="X=34539.461 Y=31235.121 Z=33530.402"/>
+</root>

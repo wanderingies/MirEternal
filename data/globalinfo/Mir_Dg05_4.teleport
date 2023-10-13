@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=71000.000 Y=85000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=11132.674 Y=16831.250 Z=19089.594" Radius="384" DisplayName="暗影通道三"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=11128.773 Y=16284.852 Z=19113.381" DisplayName="暗影通道四" Radius="600.000000" Rotation="48992" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=11313.695 Y=10493.882 Z=19118.176" DisplayName="暗影通道四" Radius="600.000000" Rotation="16180" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_4" Position="X=11313.299 Y=9964.751 Z=19094.990" Radius="384" DisplayName="沃玛回廊"/>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="8239" DisplayName="营地将领" NpcType="4" NpcFuncType="0" Position="X=15833.320 Y=26414.039 Z=10032.303"/>
+	<NPC Name="NPCServerInstance_8" TemplateID="8240" DisplayName="药剂师" NpcType="4" NpcFuncType="16" Position="X=16862.709 Y=14570.902 Z=11071.563"/>
+	<NPC Name="NPCServerInstance_7" TemplateID="8238" DisplayName="哨探鹰卫" NpcType="4" NpcFuncType="0" Position="X=9515.725 Y=35855.535 Z=9540.000"/>
+	<NPC Name="NPCServerInstance_6" TemplateID="8241" DisplayName="幸存者" NpcType="4" NpcFuncType="0" Position="X=24673.545 Y=27338.842 Z=10066.000"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="8229" DisplayName="离魅" NpcType="4" NpcFuncType="0" Position="X=28011.354 Y=33122.016 Z=10005.973"/>
+	<NPC Name="NPCServerInstance_4" TemplateID="2441" DisplayName="大飞哥" NpcType="4" NpcFuncType="16" Position="X=17412.240 Y=15162.278 Z=11049.534"/>
+	<NPC Name="NPCServerInstance_3" TemplateID="6308" DisplayName="李回春" NpcType="4" NpcFuncType="4" Position="X=17420.453 Y=13977.411 Z=11047.888"/>
+	<NPC Name="NPCServerInstance_12" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=11093.747 Y=26314.570 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_11" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=30058.363 Y=26002.822 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_10" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=25771.840 Y=12649.653 Z=33530.402"/>
+	<NPC Name="NPCServerInstance_1" TemplateID="8242" DisplayName="幸存者勇士" NpcType="4" NpcFuncType="0" Position="X=34358.207 Y=13219.275 Z=10335.998"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="3359" DisplayName="荒漠食尸虫" NpcType="6" NpcFuncType="0" Position="X=12730.416 Y=13299.129 Z=33530.402"/>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=13200.393 Y=29059.051 Z=4505.655" Radius="384" DisplayName="抉择之地"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=13213.854 Y=28495.980 Z=4532.999" DisplayName="山谷秘道" Radius="600.000000" Rotation="49084" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_12" Position="X=32318.758 Y=17017.791 Z=4502.394" Radius="384" DisplayName="赤月魔穴"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=31780.549 Y=17015.328 Z=4532.999" DisplayName="山谷秘道" Radius="600.000000" Rotation="32688" NpcId="0"/>
+</root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg05_12" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至幽闭通道一" Position="X=23453.316 Y=13239.238 Z=30190.002" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至幽闭通道三" Position="X=23643.854 Y=21416.000 Z=29230.002" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="quest_hunt_1910" DisplayName="" Position="X=22539.873 Y=16134.269 Z=28591.668" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

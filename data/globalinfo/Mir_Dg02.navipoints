@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg02" ServerMapType="1">
+	<NaviPoint Name="Qst_hunt_1918-1919-1921" DisplayName="" Position="X=55986.617 Y=26756.715 Z=0.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Quest1654" DisplayName="" Position="X=47640.000 Y=38948.641 Z=7285.958" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至盟重省" Position="X=56320.000 Y=19799.242 Z=7288.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Qst_hunt_1920" DisplayName="" Position="X=59140.773 Y=43614.727 Z=0.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="至石墓二层" Position="X=16832.000 Y=56256.000 Z=7740.786" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至石墓二层" Position="X=17856.000 Y=29416.766 Z=7728.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="祭祀间" Position="X=30208.000 Y=47936.000 Z=8363.769" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="石墓小站" Position="X=47424.000 Y=38848.000 Z=7285.958" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="置棺之地" Position="X=57280.000 Y=46208.000 Z=7838.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

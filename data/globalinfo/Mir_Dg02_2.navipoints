@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg02_2" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="天门" Position="X=47016.855 Y=38652.004 Z=9005.531" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="先祖雕像" Position="X=55552.000 Y=57472.000 Z=7438.343" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至石墓二层" Position="X=47700.328 Y=58048.000 Z=7970.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至石墓四层" Position="X=18496.000 Y=28800.000 Z=7728.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="供奉台" Position="X=30336.000 Y=48192.000 Z=8376.594" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="Quest1722" DisplayName="" Position="X=57840.000 Y=54144.770 Z=7424.999" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="将军之墓" Position="X=18176.000 Y=56301.516 Z=7757.862" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+</root>

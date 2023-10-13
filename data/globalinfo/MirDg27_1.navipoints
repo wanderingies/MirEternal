@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg27_1" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="元素节点" Position="X=30048.670 Y=21993.516 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="quest_barbarian" DisplayName="" Position="X=35522.977 Y=11362.004 Z=3144.040" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_element" DisplayName="" Position="X=29780.404 Y=15638.335 Z=3144.055" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="entry_dm2" DisplayName="至霜火地脉" Position="X=19856.207 Y=38781.414 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="quest_beast" DisplayName="" Position="X=23278.533 Y=27274.711 Z=3144.040" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="quest_ore_ice" DisplayName="" Position="X=21848.156 Y=10237.303 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="valley" DisplayName="千针雪窟" Position="X=18131.686 Y=10275.613 Z=3144.040" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="cave_entry" DisplayName="巨龙之口" Position="X=17443.045 Y=38925.578 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="entry_xs3" DisplayName="至龙栖峰" Position="X=43479.418 Y=27156.297 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="camp" DisplayName="暗雪避难营" Position="X=39691.641 Y=9993.915 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="alter" DisplayName="英烈祭坛" Position="X=24316.396 Y=21597.871 Z=3144.024" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+</root>

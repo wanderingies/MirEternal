@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg03_1" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至矿区三层" Position="X=28300.045 Y=46472.754 Z=50913.414" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="断桥" Position="X=41334.320 Y=13054.489 Z=51200.414" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="废弃矿坑" Position="X=30878.629 Y=20097.543 Z=51208.457" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="" DisplayName="至矿区一层" Position="X=18837.336 Y=21591.260 Z=51313.934" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至矿区一层" Position="X=27899.605 Y=9118.849 Z=51216.996" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="长桥" Position="X=16882.270 Y=38154.965 Z=50940.270" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=2/>
+	<NaviPoint Name="Mir2_Dg03_1_JiangJun" DisplayName="" Position="X=31692.000 Y=19524.000 Z=51216.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Mir2_Dg03_1_Taobing" DisplayName="" Position="X=16358.000 Y=36978.199 Z=51161.008" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="Mir_Dg03_1_KuangShi" DisplayName="" Position="X=31120.000 Y=13824.000 Z=51216.992" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

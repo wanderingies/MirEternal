@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=20000.000 Y=20000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_12" Position="X=11215.308 Y=9875.283 Z=4538.742" Radius="384" DisplayName="山谷秘道"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=10690.775 Y=9865.061 Z=4537.000" DisplayName="赤月魔穴" Radius="600.000000" Rotation="32688" NpcId="0"/>
+</root>

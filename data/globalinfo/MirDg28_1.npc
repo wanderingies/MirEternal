@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_9" TemplateID="6593" DisplayName="老旧园丁" NpcType="4" NpcFuncType="16" Position="X=17587.371 Y=14122.041 Z=19971.531"/>
+	<NPC Name="NPCServerInstance_5" TemplateID="6595" DisplayName="密林管理员" NpcType="4" NpcFuncType="16" Position="X=22508.543 Y=32485.768 Z=18264.693"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="6594" DisplayName="密林管理员" NpcType="4" NpcFuncType="16" Position="X=18661.930 Y=32993.273 Z=18451.078"/>
+</root>

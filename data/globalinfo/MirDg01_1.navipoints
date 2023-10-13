@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg01_1" ServerMapType="1">
+	<NaviPoint Name="quest_hunt_1917" DisplayName="" Position="X=60242.762 Y=14675.321 Z=27754.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="" DisplayName="孵化平台" Position="X=76222.391 Y=12341.046 Z=27254.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷二层" Position="X=77825.438 Y=18519.908 Z=27733.135" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="至死亡峡谷四层" Position="X=77696.773 Y=34357.453 Z=27776.590" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest1683" DisplayName="幽暗之路" Position="X=68568.141 Y=23803.861 Z=27768.463" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="chongchao" DisplayName="虫巢" Position="X=64094.742 Y=36488.199 Z=27791.000" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=1/>
+	<NaviPoint Name="quest_hunt_1916" DisplayName="" Position="X=68600.000 Y=24100.000 Z=27774.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

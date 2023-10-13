@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=80000.000 Y=80000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_4" Position="X=45708.820 Y=177648.500 Z=5293.473" Radius="500" DisplayName="沙城战场西门"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_5" Position="X=45259.492 Y=179442.094 Z=5301.178" Radius="500" DisplayName="沙城战场正门"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_6" Position="X=46282.977 Y=181119.141 Z=5289.334" Radius="500" DisplayName="沙城战场东门"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_2" Position="X=45708.820 Y=187798.609 Z=5303.957" Radius="500" DisplayName="沙城战场西门"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_3" Position="X=45259.492 Y=189592.203 Z=5303.958" Radius="500" DisplayName="沙城战场正门"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_1" Position="X=46282.977 Y=191269.250 Z=5303.964" Radius="500" DisplayName="沙城战场东门"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=46527.297 Y=46089.328 Z=6345.334" DisplayName="" Radius="500.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=52974.508 Y=52797.406 Z=6345.334" DisplayName="" Radius="500.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=52974.508 Y=39642.086 Z=6345.334" DisplayName="" Radius="500.000000" Rotation="0" NpcId="0"/>
+</root>

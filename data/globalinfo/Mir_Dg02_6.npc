@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<NPC Name="NPCServerInstance_0" TemplateID="6821" DisplayName="蒙小茶" NpcType="4" NpcFuncType="0" Position="X=32616.125 Y=23671.629 Z=7783.844"/>
+	<NPC Name="NPCServerInstance_0" TemplateID="5297" DisplayName="虹魔教主" NpcType="6" NpcFuncType="0" Position="X=32658.809 Y=41551.391 Z=7609.770"/>
+</root>

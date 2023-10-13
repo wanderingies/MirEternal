@@ -11,7 +11,11 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x00BB : Package
     {
-        #region public field
+        #region public
+
+        #endregion
+
+        #region marshal
 
         public Byte VariableType;
         public UInt16 VariableIndex;
@@ -19,14 +23,18 @@ namespace GameServer.Packs.Protocol
         public Int32 VariableValue;
         #endregion
 
-        #region public attribute
+        #region attribute
 
         public ushort Type => 0x00BB;
-        public ushort Size => 9;
+        public ushort Size => 9;     
         public ushort rSize => 13;
         #endregion
         
-        #region private field
+        public x00BB() 
+        {
+        }
+
+        #region private
 
 
         #endregion
@@ -42,12 +50,12 @@ namespace GameServer.Packs.Protocol
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+			throw new NotImplementedException();
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

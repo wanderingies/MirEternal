@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="Mir_Dg05_8" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="至幽闭通道四" Position="X=23204.416 Y=12320.628 Z=19624.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="XNCL" DisplayName="" Position="X=25920.662 Y=16574.451 Z=19626.998" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

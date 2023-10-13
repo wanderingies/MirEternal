@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=45000.000 Y=45000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_10" Position="X=32647.414 Y=21385.705 Z=7744.537" Radius="384" DisplayName="石墓阵"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=31773.447 Y=21367.359 Z=7667.340" DisplayName="虹魔教坛" Radius="800.000000" Rotation="32836" NpcId="0"/>
+</root>

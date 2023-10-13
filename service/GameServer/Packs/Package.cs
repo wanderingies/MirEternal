@@ -8,6 +8,7 @@ namespace GameServer.Packs
     {
         public ushort Type { get; }
         public ushort Size { get; }
+        public ushort rSize {  get; }
 
         static Package()
         {

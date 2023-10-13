@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=24800.000 Y=49500.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_2" Position="X=20357.527 Y=39282.871 Z=28507.625" DisplayName="沃玛寺庙三层" Radius="600.000000" Rotation="32768" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_9" Position="X=21096.988 Y=39279.727 Z=28457.828" Radius="384" DisplayName="沃玛寺庙二层"/>
+</root>

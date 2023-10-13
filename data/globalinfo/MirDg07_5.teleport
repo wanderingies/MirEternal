@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=35000.000 Y=35000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=21989.871 Y=27516.123 Z=11965.882" Radius="384" DisplayName="祖玛寺庙四层"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=21994.154 Y=28235.637 Z=11992.841" DisplayName="祖玛寺庙五层" Radius="600.000000" Rotation="16420" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=27979.307 Y=38378.090 Z=11584.322" DisplayName="祖玛寺庙五层" Radius="600.000000" Rotation="49108" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_0" Position="X=27967.592 Y=38926.254 Z=11575.715" Radius="384" DisplayName="祖玛阁"/>
+</root>

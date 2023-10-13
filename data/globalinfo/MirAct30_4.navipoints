@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct30_4" ServerMapType="1">
+	<NaviPoint Name="Quest1856" DisplayName="熔岩巨坑" Position="X=31766.703 Y=39282.336 Z=9423.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="Quest1857" DisplayName="" Position="X=40171.719 Y=35392.145 Z=9405.729" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="exin" DisplayName="恶心树" Position="X=40890.793 Y=45896.402 Z=9379.492" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

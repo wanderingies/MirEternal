@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100000.000 Y=120000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_4" Position="X=49152.531 Y=92890.891 Z=43471.555" Radius="384" DisplayName="比奇矿区"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=49151.465 Y=92143.516 Z=43443.973" DisplayName="比奇省" Radius="0.000000" Rotation="49168" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=64258.938 Y=93495.922 Z=43686.125" Radius="384" DisplayName="盟重省"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=64265.074 Y=92769.695 Z=43662.992" DisplayName="比奇省" Radius="0.000000" Rotation="54176" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_1" Position="X=62727.816 Y=31313.266 Z=44225.609" Radius="384" DisplayName="边界村"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=62627.773 Y=32498.434 Z=43718.492" DisplayName="比奇省" Radius="0.000000" Rotation="16384" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_0" Position="X=100631.875 Y=75923.820 Z=43481.035" Radius="384" DisplayName="沃玛森林"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=100187.188 Y=75468.914 Z=43459.645" DisplayName="比奇省" Radius="0.000000" Rotation="41076" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_9" Position="X=59894.367 Y=39374.109 Z=43746.492" Radius="384" DisplayName="服饰店"/>
+		<TeleportOrig ServerID="6" Name="TeleportOrig_12" Position="X=59904.664 Y=41898.668 Z=43747.930" Radius="384" DisplayName="服饰店"/>
+		<TeleportOrig ServerID="7" Name="TeleportOrig_13" Position="X=64683.422 Y=41132.555 Z=43759.090" Radius="384" DisplayName="首饰店"/>
+		<TeleportOrig ServerID="8" Name="TeleportOrig_14" Position="X=64887.785 Y=43259.043 Z=43761.543" Radius="384" DisplayName="首饰店"/>
+		<TeleportOrig ServerID="9" Name="TeleportOrig_16" Position="X=59643.789 Y=44531.398 Z=43791.277" Radius="384" DisplayName="药店"/>
+		<TeleportOrig ServerID="10" Name="TeleportOrig_17" Position="X=56214.031 Y=45069.648 Z=43745.238" Radius="384" DisplayName="武器店"/>
+		<TeleportOrig ServerID="11" Name="TeleportOrig_19" Position="X=53763.094 Y=45048.188 Z=43752.648" Radius="384" DisplayName="武器店"/>
+		<TeleportOrig ServerID="12" Name="TeleportOrig_20" Position="X=67243.938 Y=49938.309 Z=43759.539" Radius="384" DisplayName="书店"/>
+		<TeleportOrig ServerID="13" Name="TeleportOrig_21" Position="X=70140.961 Y=44534.680 Z=43807.930" Radius="384" DisplayName="仓库"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=70140.164 Y=44164.266 Z=43702.004" DisplayName="比奇省" Radius="0.000000" Rotation="49152" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_13" Position="X=67252.383 Y=49420.652 Z=43725.309" DisplayName="比奇省" Radius="0.000000" Rotation="49152" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_14" Position="X=64355.168 Y=41087.211 Z=43700.992" DisplayName="比奇省" Radius="0.000000" Rotation="32416" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_15" Position="X=64349.719 Y=43259.848 Z=43710.992" DisplayName="比奇省" Radius="0.000000" Rotation="32448" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_17" Position="X=59371.398 Y=39365.133 Z=43713.844" DisplayName="比奇省" Radius="0.000000" Rotation="29788" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_18" Position="X=59366.391 Y=41909.492 Z=43713.000" DisplayName="比奇省" Radius="0.000000" Rotation="32580" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_20" Position="X=59103.133 Y=44531.082 Z=43713.000" DisplayName="比奇省" Radius="0.000000" Rotation="32680" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_21" Position="X=56210.648 Y=44534.645 Z=43713.000" DisplayName="比奇省" Radius="0.000000" Rotation="48912" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_22" Position="X=53755.695 Y=44438.840 Z=43713.000" DisplayName="比奇省" Radius="0.000000" Rotation="48920" NpcId="0"/>
+		<TeleportOrig ServerID="14" Name="TeleportOrig_22" Position="X=9676.732 Y=41631.457 Z=44465.324" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="15" Name="TeleportOrig_23" Position="X=9679.639 Y=43987.973 Z=44477.203" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="16" Name="TeleportOrig_24" Position="X=9777.855 Y=53855.051 Z=44476.824" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="17" Name="TeleportOrig_25" Position="X=9956.712 Y=61635.699 Z=44499.301" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="18" Name="TeleportOrig_28" Position="X=3260.773 Y=61274.238 Z=44451.645" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="19" Name="TeleportOrig_30" Position="X=4882.616 Y=51303.816 Z=44506.488" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="20" Name="TeleportOrig_36" Position="X=2355.305 Y=51304.250 Z=44525.363" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="21" Name="TeleportOrig_40" Position="X=2701.029 Y=40634.637 Z=44453.391" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="22" Name="TeleportOrig_41" Position="X=2699.225 Y=43354.910 Z=44469.820" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_26" Position="X=9774.033 Y=53305.711 Z=44464.664" DisplayName="药店" Radius="0.000000" Rotation="56220" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_27" Position="X=9956.925 Y=62178.527 Z=44486.180" DisplayName="书店" Radius="0.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_28" Position="X=3263.281 Y=61820.844 Z=44426.582" DisplayName="仓库一层" Radius="0.000000" Rotation="16296" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_30" Position="X=4893.313 Y=51858.254 Z=44468.453" DisplayName="武器店" Radius="0.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_36" Position="X=2356.538 Y=51862.035 Z=44468.453" DisplayName="武器店" Radius="0.000000" Rotation="16384" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_40" Position="X=3166.873 Y=40725.414 Z=44435.973" DisplayName="饰品店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_41" Position="X=3170.879 Y=43267.707 Z=44435.973" DisplayName="饰品店" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_31" Position="X=10230.307 Y=41639.508 Z=44455.063" DisplayName="服饰店" Radius="0.000000" Rotation="5856" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_32" Position="X=10147.731 Y=43904.227 Z=44455.063" DisplayName="服饰店" Radius="0.000000" Rotation="59968" NpcId="0"/>
+		<TeleportOrig ServerID="23" Name="TeleportOrig_3" Position="X=1791.829 Y=84782.922 Z=45220.020" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=1901.466 Y=85263.008 Z=45208.867" DisplayName="肉铺" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="24" Name="TeleportOrig_5" Position="X=64876.758 Y=45440.000 Z=43757.203" Radius="384" DisplayName="肉铺"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=64900.633 Y=44887.113 Z=43710.992" DisplayName="比奇省" Radius="0.000000" Rotation="48352" NpcId="0"/>
+		<TeleportOrig ServerID="25" Name="TeleportOrig_6" Position="X=8322.903 Y=16259.287 Z=39953.391" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_6" Position="X=8323.880 Y=16750.764 Z=39911.199" DisplayName="皇宫" Radius="0.000000" Rotation="16296" NpcId="0"/>
+		<TeleportOrig ServerID="26" Name="TeleportOrig_7" Position="X=70779.266 Y=64737.633 Z=44545.055" Radius="384" DisplayName="皇宫"/>
+		<TeleportTarget Name="TeleportTarget_7" Position="X=70776.789 Y=64158.984 Z=44527.094" DisplayName="比奇省" Radius="0.000000" Rotation="49024" NpcId="0"/>
+		<TeleportOrig ServerID="27" Name="TeleportOrig_8" Position="X=4605.980 Y=61367.930 Z=44456.957" Radius="384" DisplayName="仓库二层"/>
+		<TeleportTarget Name="TeleportTarget_8" Position="X=4165.595 Y=61461.801 Z=44426.578" DisplayName="仓库一层" Radius="0.000000" Rotation="24492" NpcId="0"/>
+		<TeleportOrig ServerID="28" Name="TeleportOrig_10" Position="X=6708.203 Y=74333.891 Z=44402.813" Radius="384" DisplayName="仓库一层"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=6240.160 Y=74394.609 Z=44384.680" DisplayName="仓库二层" Radius="0.000000" Rotation="24448" NpcId="0"/>
+		<TeleportOrig ServerID="29" Name="TeleportOrig_11" Position="X=14298.468 Y=70849.344 Z=45748.527" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_10" Position="X=14840.201 Y=70862.234 Z=45708.547" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="30" Name="TeleportOrig_15" Position="X=13507.547 Y=79101.414 Z=46380.359" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_11" Position="X=13939.029 Y=79020.547 Z=46361.934" DisplayName="旅馆" Radius="0.000000" Rotation="56704" NpcId="0"/>
+		<TeleportOrig ServerID="31" Name="TeleportOrig_18" Position="X=15480.484 Y=78740.445 Z=46454.496" Radius="384" DisplayName="厨房"/>
+		<TeleportTarget Name="TeleportTarget_16" Position="X=14946.550 Y=78741.195 Z=46361.934" DisplayName="旅馆" Radius="0.000000" Rotation="32672" NpcId="0"/>
+		<TeleportOrig ServerID="32" Name="TeleportOrig_26" Position="X=9709.339 Y=89056.781 Z=44510.199" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_19" Position="X=10231.098 Y=89050.109 Z=44489.070" DisplayName="竞技场一层" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="33" Name="TeleportOrig_27" Position="X=12802.200 Y=88972.133 Z=44547.258" Radius="384" DisplayName="竞技场二层"/>
+		<TeleportTarget Name="TeleportTarget_23" Position="X=12310.943 Y=88972.023 Z=44480.359" DisplayName="竞技场一层" Radius="0.000000" Rotation="32704" NpcId="0"/>
+		<TeleportOrig ServerID="34" Name="TeleportOrig_29" Position="X=1334.433 Y=90592.359 Z=45608.391" Radius="384" DisplayName="旅馆"/>
+		<TeleportTarget Name="TeleportTarget_24" Position="X=1818.415 Y=90595.258 Z=45585.816" DisplayName="厨房" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="35" Name="TeleportOrig_31" Position="X=5152.657 Y=102451.477 Z=46815.691" Radius="384" DisplayName="竞技场一层"/>
+		<TeleportTarget Name="TeleportTarget_25" Position="X=4616.573 Y=102453.641 Z=46784.957" DisplayName="竞技场二层" Radius="0.000000" Rotation="33344" NpcId="0"/>
+		<TeleportOrig ServerID="36" Name="TeleportOrig_32" Position="X=2991.164 Y=112124.797 Z=45773.043" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_29" Position="X=2991.505 Y=112779.078 Z=45741.766" DisplayName="民居" Radius="0.000000" Rotation="16256" NpcId="0"/>
+		<TeleportOrig ServerID="37" Name="TeleportOrig_33" Position="X=7672.056 Y=113038.336 Z=45668.613" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_33" Position="X=8328.148 Y=113048.977 Z=45690.402" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="38" Name="TeleportOrig_34" Position="X=16102.466 Y=113588.242 Z=45621.391" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_34" Position="X=16648.236 Y=113591.953 Z=45583.906" DisplayName="民居" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="39" Name="TeleportOrig_35" Position="X=15406.155 Y=100554.766 Z=46974.648" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_35" Position="X=15925.847 Y=100560.969 Z=46964.496" DisplayName="研究院" Radius="0.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="40" Name="TeleportOrig_37" Position="X=64894.313 Y=38196.953 Z=43903.426" Radius="384" DisplayName="旅馆"/>
+		<TeleportTarget Name="TeleportTarget_37" Position="X=64354.555 Y=38194.348 Z=43766.016" DisplayName="比奇省" Radius="0.000000" Rotation="32704" NpcId="0"/>
+		<TeleportOrig ServerID="41" Name="TeleportOrig_38" Position="X=50652.566 Y=66433.219 Z=43770.801" Radius="384" DisplayName="竞技场一层"/>
+		<TeleportOrig ServerID="42" Name="TeleportOrig_39" Position="X=57944.703 Y=66522.844 Z=43904.066" Radius="384" DisplayName="研究院"/>
+		<TeleportTarget Name="TeleportTarget_39" Position="X=57383.043 Y=66522.461 Z=43776.813" DisplayName="比奇省" Radius="0.000000" Rotation="32928" NpcId="0"/>
+		<TeleportOrig ServerID="43" Name="TeleportOrig_42" Position="X=59011.715 Y=68503.828 Z=43875.000" Radius="384" DisplayName="研究院"/>
+		<TeleportTarget Name="TeleportTarget_42" Position="X=59008.375 Y=69062.109 Z=43702.234" DisplayName="比奇省" Radius="0.000000" Rotation="16704" NpcId="0"/>
+		<TeleportOrig ServerID="44" Name="TeleportOrig_43" Position="X=59007.906 Y=64550.906 Z=43872.109" Radius="384" DisplayName="研究院"/>
+		<TeleportTarget Name="TeleportTarget_43" Position="X=59012.477 Y=63982.902 Z=43698.230" DisplayName="比奇省" Radius="0.000000" Rotation="49248" NpcId="0"/>
+		<TeleportOrig ServerID="45" Name="TeleportOrig_44" Position="X=74016.469 Y=38839.848 Z=43684.230" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_44" Position="X=73481.070 Y=38831.590 Z=43587.574" DisplayName="比奇省" Radius="0.000000" Rotation="32800" NpcId="0"/>
+		<TeleportOrig ServerID="46" Name="TeleportOrig_45" Position="X=72767.445 Y=41542.980 Z=43642.309" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_45" Position="X=72226.672 Y=41544.645 Z=43587.574" DisplayName="比奇省" Radius="0.000000" Rotation="32800" NpcId="0"/>
+		<TeleportOrig ServerID="47" Name="TeleportOrig_46" Position="X=50430.488 Y=44722.953 Z=43767.344" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_46" Position="X=50409.934 Y=44161.238 Z=43725.219" DisplayName="比奇省" Radius="0.000000" Rotation="48928" NpcId="0"/>
+		<TeleportOrig ServerID="48" Name="TeleportOrig_47" Position="X=56399.543 Y=57201.746 Z=43726.629" Radius="384" DisplayName="民居"/>
+		<TeleportTarget Name="TeleportTarget_47" Position="X=55846.379 Y=57203.063 Z=43686.477" DisplayName="比奇省" Radius="0.000000" Rotation="32696" NpcId="0"/>
+		<TeleportOrig ServerID="49" Name="TeleportOrig_48" Position="X=16467.576 Y=98567.688 Z=46991.875" Radius="384" DisplayName="比奇省"/>
+		<TeleportOrig ServerID="50" Name="TeleportOrig_49" Position="X=16478.773 Y=102555.477 Z=46983.277" Radius="384" DisplayName="比奇省"/>
+		<TeleportTarget Name="TeleportTarget_48" Position="X=16466.377 Y=99104.695 Z=46964.496" DisplayName="研究院" Radius="0.000000" Rotation="16224" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_49" Position="X=16558.527 Y=102094.836 Z=46964.496" DisplayName="研究院" Radius="0.000000" Rotation="56000" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_50" Position="X=50244.352 Y=66432.172 Z=43702.234" DisplayName="比奇省" Radius="0.000000" Rotation="32272" NpcId="0"/>
+</root>

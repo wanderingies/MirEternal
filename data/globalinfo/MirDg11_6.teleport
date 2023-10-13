@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=50000.000 Y=50000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_9" Position="X=15180.150 Y=11123.191 Z=4710.121" Radius="384" DisplayName="赤月峡谷广场"/>
+		<TeleportTarget Name="TeleportTarget_9" Position="X=15206.182 Y=11676.948 Z=4533.000" DisplayName="右回廊" Radius="600.000000" Rotation="16332" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_1" Position="X=26877.947 Y=23170.098 Z=4539.519" Radius="384" DisplayName="抉择之地"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=26356.381 Y=23169.328 Z=4533.000" DisplayName="右回廊" Radius="600.000000" Rotation="32684" NpcId="0"/>
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=100.000 Y=50.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_5" DisplayName="富贵神殿" Priority="1" IsNeedShowInUI="0" MinPos="X=8020.137 Y=10552.102 Z=-6082.146" MaxPos="X=35544.426 Y=38076.379 Z=21442.141" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.767976" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="53.758354" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

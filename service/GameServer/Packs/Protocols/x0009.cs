@@ -1,52 +1,58 @@
-﻿#pragma warning disable CS8618
-
+﻿using GameServer.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using TouchSocket.Core;
-using GameServer.Service;
 
-namespace GameServer.Packs.Protocol
+namespace GameServer.Packs.Protocols
 {
-    /// <summary>
-    /// <para>服务端提示</para>
-    /// <para>GameErrorMessagePacket</para>
-    /// </summary>
     internal class x0009 : Package
     {
-        #region public field
+        #region public
 
-		public Int32 code;
-		public Int32 param;
-		public Int32 extra;
         #endregion
 
-        #region public attribute
+        #region marshal
 
-        public ushort Type => 0x0009;
-        public ushort Size => 14;
+        public Int32 code;
+        public Int32 param;
+        public Int32 extra;
+        #endregion
+
+        #region attribute
+
+        public ushort Type => 0x000A;
+        public ushort Size => 6;
         public ushort rSize => 14;
         #endregion
 
-        #region private field
+        public x0009()
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-			byteBlock.Write(code);
-			byteBlock.Write(param);
-			byteBlock.Write(extra);
+            byteBlock.Write(code);
+            byteBlock.Write(param);
+            byteBlock.Write(extra);
             return byteBlock;
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public void Process(GameSession session)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }
-

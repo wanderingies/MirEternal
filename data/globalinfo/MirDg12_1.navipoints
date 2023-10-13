@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirDg12_1" ServerMapType="1">
+	<NaviPoint Name="Quest1842" DisplayName="寄魂树" Position="X=47753.477 Y=47771.223 Z=9385.180" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongdongjiao2" DisplayName="至魔龙城" Position="X=60834.578 Y=42275.688 Z=9327.902" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="molongdongjiao1" DisplayName="至东林间胜地" Position="X=21915.447 Y=35396.945 Z=9329.927" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+</root>

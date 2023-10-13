@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=20000.000 Y=20000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_12" Position="X=13582.856 Y=10591.601 Z=4543.932" Radius="384" DisplayName="山谷秘道"/>
+		<TeleportTarget Name="TeleportTarget_12" Position="X=13047.396 Y=10589.138 Z=4529.000" DisplayName="恶魔祭坛" Radius="600.000000" Rotation="32688" NpcId="0"/>
+</root>

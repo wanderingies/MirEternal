@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=71000.000 Y=85000.000" ServerMapType="1">
+	<VolumeMapSize Name="MMOVolume_MapSize_2" DisplayName="沃玛寺庙入口" Priority="3" ReuseMapVolumeName="" MinPos="X=53748.922 Y=70901.109 Z=11904.000" MaxPos="X=68084.922 Y=85237.109 Z=26240.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="0.400000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="28.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+	<VolumeMapSize Name="MMOVolume_MapSize_0" DisplayName="沃玛寺庙一层" Priority="1" ReuseMapVolumeName="" MinPos="X=23168.000 Y=13312.000 Z=-10112.000" MaxPos="X=84608.000 Y=74752.000 Z=51328.000" MiniMapTileRowNum="2" MiniMapTileColNum="2" MiniMapPixelSize="70.000000" MiniMapScale="1.000000" MiniMapOffsetX="0" MiniMapOffsetY="512" WorldMapTileRowNum="2" WorldMapTileColNum="2" WorldMapPixelSize="120.000000" WorldMapScale="1.000000" WorldMapOffsetX="0" WorldMapOffsetY="512"/>
+</root>

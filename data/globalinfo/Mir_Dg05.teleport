@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=71000.000 Y=85000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=56120.930 Y=78116.383 Z=19106.357" Radius="384" DisplayName="沃玛森林"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=56657.383 Y=78117.352 Z=19185.889" DisplayName="沃玛寺庙入口" Radius="600.000000" Rotation="0" NpcId="0"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_3" Position="X=64700.777 Y=77118.445 Z=19090.213" Radius="384" DisplayName="沃玛寺庙一层"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=64177.355 Y=77116.422 Z=19141.217" DisplayName="沃玛寺庙入口" Radius="600.000000" Rotation="32768" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_2" Position="X=60217.840 Y=46886.980 Z=19767.742" Radius="384" DisplayName="沃玛寺庙二层"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_6" Position="X=40349.094 Y=49324.699 Z=19935.064" Radius="384" DisplayName="沃玛寺庙入口"/>
+		<TeleportTarget Name="TeleportTarget_0" Position="X=40905.313 Y=49333.977 Z=20018.998" DisplayName="沃玛寺庙一层" Radius="600.000000" Rotation="0" NpcId="6761"/>
+		<TeleportTarget Name="TeleportTarget_5" Position="X=59644.266 Y=46884.793 Z=19804.498" DisplayName="沃玛寺庙一层" Radius="600.000000" Rotation="32768" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=45067.789 Y=27050.045 Z=19597.203" DisplayName="沃玛寺庙一层" Radius="600.000000" Rotation="16096" NpcId="0"/>
+		<TeleportOrig ServerID="5" Name="TeleportOrig_4" Position="X=45073.813 Y=26522.195 Z=19567.334" Radius="384" DisplayName="暗影通道一"/>
+</root>

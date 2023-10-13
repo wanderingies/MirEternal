@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ServerMapName="MirAct34" ServerMapType="1">
+	<NaviPoint Name="" DisplayName="战备区" Position="X=20662.240 Y=13995.962 Z=3760.920" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="" DisplayName="居民区" Position="X=16654.105 Y=24164.100 Z=3764.921" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=3/>
+	<NaviPoint Name="DragonBoneDst" DisplayName="" Position="X=8854.972 Y=15009.327 Z=5204.536" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+	<NaviPoint Name="DstPb01001" DisplayName="" Position="X=17320.957 Y=21294.061 Z=3370.839" RedirectLoc="X=0.000 Y=0.000 Z=0.000" IsShow=0/>
+</root>

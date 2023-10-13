@@ -11,27 +11,37 @@ namespace GameServer.Packs.Protocol
     /// </summary>
     internal class x0070 : Package
     {
-        #region public field
+        #region public
 
 		public Int32 对象编号;
 		public Byte 物品位置;
 		public UInt16 购买数量;
         #endregion
 
-        #region public attribute
+        #region marshal
+
+
+        #endregion
+
+        #region attribute
 
         public ushort Type => 0x0070;
-        public ushort Size => 17;        
+        public ushort Size => 17;     
+        public ushort rSize => 0;
         #endregion
         
-        #region private field
+        public x0070() 
+        {
+        }
+
+        #region private
 
 
         #endregion
 
         public ByteBlock Marshal(ByteBlock byteBlock)
         {
-            return byteBlock;
+            throw new NotImplementedException();
         }
 
         public ByteBlock UnMarshal(ByteBlock byteBlock)
@@ -39,12 +49,12 @@ namespace GameServer.Packs.Protocol
 			对象编号 = byteBlock.ReadInt32();
 			物品位置 = byteBlock.ReadByte();
 			购买数量 = byteBlock.ReadUInt16();
-            return byteBlock;
+			return byteBlock;
         }
 
-        public void Process(GameSession session)
+        public void Process(GameSession gameSession)
         {
-            
+            throw new NotImplementedException();
         }
     }
 }

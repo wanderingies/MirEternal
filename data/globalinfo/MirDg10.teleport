@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=125000.000 Y=125000.000" ServerMapType="1">
+		<TeleportTarget Name="TeleportTarget_0" Position="X=60822.234 Y=100380.367 Z=9868.295" DisplayName="丛林迷宫" Radius="0.000000" Rotation="56704" NpcId="0"/>
+		<TeleportOrig ServerID="1" Name="TeleportOrig_1" Position="X=60608.066 Y=101090.125 Z=9849.175" Radius="384" DisplayName="赤月峡谷东"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_2" Position="X=24246.428 Y=69602.172 Z=8681.359" Radius="384" DisplayName="沃玛森林"/>
+		<TeleportTarget Name="TeleportTarget_1" Position="X=24334.311 Y=68603.586 Z=8688.928" DisplayName="丛林迷宫" Radius="0.000000" Rotation="57632" NpcId="0"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=65702.281 Y=21453.588 Z=8693.930" Radius="384" DisplayName="赤月峡谷南"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=64799.387 Y=21444.471 Z=8688.928" DisplayName="丛林迷宫" Radius="0.000000" Rotation="32800" NpcId="0"/>
+		<TeleportOrig ServerID="4" Name="TeleportOrig_5" Position="X=93394.906 Y=41363.012 Z=9436.929" Radius="384" DisplayName="赤月峡谷北"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=92507.914 Y=41359.953 Z=9469.320" DisplayName="丛林迷宫" Radius="0.000000" Rotation="33408" NpcId="0"/>
+</root>

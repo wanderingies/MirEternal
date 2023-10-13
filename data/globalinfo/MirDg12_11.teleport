@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root CanvasDrawSize="X=65000.000 Y=63000.000" ServerMapType="1">
+		<TeleportOrig ServerID="1" Name="TeleportOrig_2" Position="X=60564.367 Y=31672.506 Z=8723.471" Radius="383" DisplayName="至龙源血路"/>
+		<TeleportOrig ServerID="2" Name="TeleportOrig_3" Position="X=24762.488 Y=24382.939 Z=8738.587" Radius="384" DisplayName="至东魔龙关"/>
+		<TeleportOrig ServerID="3" Name="TeleportOrig_4" Position="X=17850.221 Y=41765.992 Z=8732.101" Radius="384" DisplayName="至西魔龙关"/>
+		<TeleportTarget Name="TeleportTarget_2" Position="X=24150.670 Y=25701.615 Z=8689.927" DisplayName="至魔龙谷" Radius="1200.000000" Rotation="7660" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_3" Position="X=18921.623 Y=40733.645 Z=8689.927" DisplayName="至魔龙谷" Radius="1200.000000" Rotation="56352" NpcId="0"/>
+		<TeleportTarget Name="TeleportTarget_4" Position="X=59103.703 Y=32035.865 Z=8691.149" DisplayName="至魔龙谷" Radius="1200.000000" Rotation="26176" NpcId="0"/>
+</root>

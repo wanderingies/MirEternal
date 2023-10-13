@@ -528,21 +528,28 @@ namespace PacketEditor
                             case TypeItem.Array:
                                 reader += $"\t\t\tbyteBlock.Read({variable.Name});\n";
                                 break;
-                        }
+                        }                        
                     }
 
-                    var value = string.Format(_format, new Object[] {
-                        "WorldServer",
-                        item.Description,
-                        $"x{item.Type.ToString("X4")}",
-                        vars,
-                        $"0x{item.Type.ToString("X4")}",
-                        item.Size,
-                        "",
-                        writer,
-                        //reader,
-                        "WorldSession",
-                        item.Name });
+                    if (reader != string.Empty)
+                        reader += $"\t\t\treturn byteBlock;";
+                    else reader = "\t\t\tthrow new NotImplementedException();";
+
+                    var value = string.Format(_format, new object[] {
+                            "GameServer",
+                            item.Description,
+                            $"x{item.Type.ToString("X4")}",
+                            vars,
+                            $"0x{item.Type.ToString("X4")}",
+                            item.Size,
+                            "",
+                            //writer,
+                            reader,
+                            "GameSession gameSession",
+                            item.Name,
+                            $"x{item.Type.ToString("X4")}",
+                            "GameServer",
+                        });
 
                     streamWriter = new StreamWriter(Path.Combine("Packs", "Protocol", $"x{item.Type.ToString("X4")}.cs"), false, Encoding.UTF8);
                     streamWriter.WriteLine(value);
